@@ -132,6 +132,37 @@ June
 <!-- Generated from JabRef by PubList by Truong Nghiem at 09:00 on 2015.11.04. -->
 <ol class="biblist">
 
+<!-- Item: lu2019exactttrpca -->
+<li ><p>
+<b>Exact Recovery of Tensor Robust Principal Component Analysis under Linear Transforms</b><br>
+<b>Canyi Lu</b> and Pan Zhou<br>
+
+<i>arXiv:1907.08288</i>,
+
+
+2019<br>
+<a href="javascript:toggleBibtex('lu2019exactttrpca]')" class="textlink">[bibtex]</a>
+<a href="https://arxiv.org/abs/1907.08288" class="textlink" target="_blank">[arXiv]</a>
+
+</p>
+
+
+
+
+<div id="bib_lu2019exactttrpca" class="bibtex noshow">
+<pre>
+@article{zhou2018tensorlrr,
+  author = {Lu, Canyi and Zhou, Pan},
+  title = {Exact Recovery of Tensor Robust Principal Component Analysis under Linear Transforms},
+  journal = {arXiv:1907.08288},
+  year = {2019}
+}
+</pre></div>
+</li>
+
+
+
+
 
 
 <!-- Item: zhou2018tensorlrr -->
@@ -139,10 +170,10 @@ June
 <b>Tensor Low-rank Representation for Data Recovery and Clustering</b><br>
 Pan Zhou, <b>Canyi Lu</b> and Jiashi Feng<br>
 
-<i>submitted to International Journal of Computer Vision (<b>IJCV</b>) (<b>major revision</b>)</i>,
+<i>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>) (<b>major revision</b>)</i>,
 
 
-2018<br>
+2019<br>
 <a href="javascript:toggleBibtex('zhou2018tensorlrr')" class="textlink">[bibtex]</a>
 
 
@@ -156,8 +187,8 @@ Pan Zhou, <b>Canyi Lu</b> and Jiashi Feng<br>
 @article{zhou2018tensorlrr,
   author = {Zhou, Pan and Lu, Canyi and Feng, Jiashi},
   title = {Tensor Low-rank Representation for Data Recovery and Clustering},
-  journal = {submitted to International Journal of Computer Vision (<b>IJCV</b>) (major revision)},
-  year = {2018}
+  journal = {submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>) (major revision)},
+  year = {2019}
 }
 </pre></div>
 </li>
