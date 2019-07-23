@@ -151,7 +151,7 @@ June
 
 <div id="bib_lu2019exactttrpca" class="bibtex noshow">
 <pre>
-@article{zhou2018tensorlrr,
+@article{lu2019exactttrpca,
   author = {Lu, Canyi and Zhou, Pan},
   title = {Exact Recovery of Tensor Robust Principal Component Analysis under Linear Transforms},
   journal = {arXiv:1907.08288},
