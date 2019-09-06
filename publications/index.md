@@ -133,6 +133,7 @@ June
 <ol class="biblist">
 
 <!-- Item: lu2019exactttrpca -->
+/*************************************
 <li ><p>
 <b>Exact Recovery of Tensor Robust Principal Component Analysis under Linear Transforms</b><br>
 <b>Canyi Lu</b> and Pan Zhou<br>
@@ -160,6 +161,7 @@ June
 </pre></div>
 </li>
 
+ *************************************/
 
 
 
