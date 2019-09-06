@@ -132,39 +132,6 @@ June
 <!-- Generated from JabRef by PubList by Truong Nghiem at 09:00 on 2015.11.04. -->
 <ol class="biblist">
 
-<!-- Item: lu2019exactttrpca -->
-/*************************************
-<li ><p>
-<b>Exact Recovery of Tensor Robust Principal Component Analysis under Linear Transforms</b><br>
-<b>Canyi Lu</b> and Pan Zhou<br>
-
-<i>arXiv:1907.08288</i>,
-
-
-2019<br>
-<a href="javascript:toggleBibtex('lu2019exactttrpca]')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/abs/1907.08288" class="textlink" target="_blank">[arXiv]</a>
-
-</p>
-
-
-
-
-<div id="bib_lu2019exactttrpca" class="bibtex noshow">
-<pre>
-@article{lu2019exactttrpca,
-  author = {Lu, Canyi and Zhou, Pan},
-  title = {Exact Recovery of Tensor Robust Principal Component Analysis under Linear Transforms},
-  journal = {arXiv:1907.08288},
-  year = {2019}
-}
-</pre></div>
-</li>
-
- *************************************/
-
-
-
 
 
 <!-- Item: zhou2018tensorlrr -->
