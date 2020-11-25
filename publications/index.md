@@ -134,35 +134,6 @@ June
 
 
 
-<!-- Item: zhou2018tensorlrr -->
-<li ><p>
-<b>Tensor Low-rank Representation for Data Recovery and Clustering</b><br>
-Pan Zhou, <b>Canyi Lu</b> and Jiashi Feng<br>
-
-<i>submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>) (<b>major revision</b>)</i>,
-
-
-2019<br>
-<a href="javascript:toggleBibtex('zhou2018tensorlrr')" class="textlink">[bibtex]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_zhou2018tensorlrr" class="bibtex noshow">
-<pre>
-@article{zhou2018tensorlrr,
-  author = {Zhou, Pan and Lu, Canyi and Feng, Jiashi},
-  title = {Tensor Low-rank Representation for Data Recovery and Clustering},
-  journal = {submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>) (major revision)},
-  year = {2019}
-}
-</pre></div>
-</li>
-
-
 
 
 
@@ -212,6 +183,67 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 <ol class="biblist">
 
 
+<!-- Item: lu2020tensor -->
+<li ><p>
+<b>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</b><br>
+<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan<br>
+
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
+
+
+2020<br>
+<a href="javascript:toggleBibtex('lu2020tensor')" class="textlink">[bibtex]</a>
+<a href="https://arxiv.org/abs/1804.03728" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA" class="textlink" target="_blank">[code]</a>
+<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
+
+
+</p>
+
+
+
+
+<div id="bib_lu2020tensor" class="bibtex noshow">
+<pre>
+@article{lu2020tensor,
+  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Chen, Yudong and Liu, Wei and Lin, Zhouchen and Yan, Shuicheng},
+  title = {Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
+  year = {2020}
+}
+</pre></div>
+</li>
+
+<!-- Item: zhou2020tensorlrr -->
+<li ><p>
+<b>Tensor Low-rank Representation for Data Recovery and Clustering</b><br>
+Pan Zhou, <b>Canyi Lu</b> and Jiashi Feng<br>
+
+<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
+
+
+2020<br>
+<a href="javascript:toggleBibtex('zhou2020tensorlrr')" class="textlink">[bibtex]</a>
+
+
+</p>
+
+
+
+
+<div id="bib_zhou2020tensorlrr" class="bibtex noshow">
+<pre>
+@article{zhou2018tensorlrr,
+  author = {Zhou, Pan and Lu, Canyi and Feng, Jiashi},
+  title = {Tensor Low-rank Representation for Data Recovery and Clustering},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
+  year = {2020
+}
+</pre></div>
+</li>
+
+
+
 <!-- Item: hien2016accelerated -->
 <li ><p>
 <b>Accelerated Randomized Mirror Descent Algorithms For Composite Non-strongly Convex Optimization</b><br>
@@ -220,7 +252,7 @@ Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi F
 <i>Journal of Optimization Theory and Applications</i>,
 
 
-2018<br>
+2019<br>
 <a href="javascript:toggleBibtex('hien2016accelerated')" class="textlink">[bibtex]</a>
 <a href="https://arxiv.org/abs/1605.06892" class="textlink" target="_blank">[arXiv]</a>
 
@@ -236,41 +268,11 @@ Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi F
   author = {Hien, Le Thi Khanh and Nguyen, Cuong V and Xu, Huan and <b>Lu</b>, <b>Canyi</b> and Feng, Jiashi},
   title = {Accelerated Randomized Mirror Descent Algorithms For Composite Non-strongly Convex Optimization},
   journal = {Journal of Optimization Theory and Applications},
-  year = {2018}
+  year = {2019}
 }
 </pre></div>
 </li>
 
-<!-- Item: lu2018tensor -->
-<li ><p>
-<b>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</b><br>
-<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan<br>
-
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
-
-
-2018<br>
-<a href="javascript:toggleBibtex('lu2018tensor')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/abs/1804.03728" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA" class="textlink" target="_blank">[code]</a>
-<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2018tensor" class="bibtex noshow">
-<pre>
-@article{lu2018tensor,
-  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Chen, Yudong and Liu, Wei and Lin, Zhouchen and Yan, Shuicheng},
-  title = {Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm},
-  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
-  year = {2018}
-}
-</pre></div>
-</li>
 
 
 <!-- Item: lu2016subspace -->
@@ -281,7 +283,7 @@ Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi F
 <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
 
 
-2018<br>
+2019<br>
 <a href="javascript:toggleBibtex('lu2016subspace')" class="textlink">[bibtex]</a>
 <a href="../publications/2018-TPAMI-BDR.pdf" class="textlink" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1805.09243" class="textlink" target="_blank">[arXiv]</a>
@@ -298,7 +300,7 @@ Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi F
   author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Mei, Tao and Lin, Zhouchen and Yan, Shuicheng},
   title = {Subspace Clustering by Block Diagonal Representation},
   journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
-  year = {2018}
+  year = {2019}
 }
 </pre></div>
 </li>
