@@ -244,6 +244,41 @@ Pan Zhou, <b>Canyi Lu</b> and Jiashi Feng<br>
 
 
 
+
+<!-- Item: lu2019lowrank -->
+<li ><p>
+<b>Low-Rank Tensor Completion With a New Tensor Nuclear Norm Induced by Invertible Linear Transforms</b><br>
+<b>Canyi</b> <b>Lu</b>, Xi Peng, Yunchao Wei<br>
+<i>IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>,
+
+
+
+2019<br>
+<a href="javascript:toggleBibtex('lu2019lowrank')" class="textlink">[bibtex]</a>
+<a href="../publications/2019-CVPR-TNNtrans.pdf" class="textlink" target="_blank">[pdf]</a>
+
+
+
+</p>
+
+
+
+
+<div id="bib_lu2019lowrank" class="bibtex noshow">
+<pre>
+@inproceedings{lu2016tensor,
+  author = {<b>Lu</b>, <b>Canyi</b> and Peng Xi and  Wei Yunchao},
+  title = {Low-Rank Tensor Completion With a New Tensor Nuclear Norm Induced by Invertible Linear Transforms},
+  booktitle = {IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)},
+  year = {2019}
+}
+</pre></div>
+</li>
+
+
+
+
+
 <!-- Item: hien2016accelerated -->
 <li ><p>
 <b>Accelerated Randomized Mirror Descent Algorithms For Composite Non-strongly Convex Optimization</b><br>
