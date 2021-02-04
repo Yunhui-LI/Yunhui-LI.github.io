@@ -322,6 +322,7 @@ Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi F
 <a href="javascript:toggleBibtex('lu2016subspace')" class="textlink">[bibtex]</a>
 <a href="../publications/2018-TPAMI-BDR.pdf" class="textlink" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/abs/1805.09243" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/canyilu/BDR" class="textlink" target="_blank">[code]</a>
 
 
 </p>
