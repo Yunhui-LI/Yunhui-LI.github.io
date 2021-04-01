@@ -256,8 +256,7 @@ Pan Zhou, <b>Canyi Lu</b> and Jiashi Feng<br>
 2019<br>
 <a href="javascript:toggleBibtex('lu2019lowrank')" class="textlink">[bibtex]</a>
 <a href="../publications/2019-CVPR-TNNtrans.pdf" class="textlink" target="_blank">[pdf]</a>
-
-
+<a href="https://github.com/canyilu/tensor-completion-under-linear-transform" class="textlink" target="_blank">[code]</a>
 
 </p>
 
