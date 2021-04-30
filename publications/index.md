@@ -203,7 +203,7 @@ Hao Kong, <b>Canyi</b> <b>Lu</b> and Zhouchen Lin<br>
 <div id="bib_kong2021tensor" class="bibtex noshow">
 <pre>
 @article{kong2021tensor,
-  author = {Kong Hao, <b>Lu</b>, <b>Canyi</b> and Lin, Zhouchen},
+  author = {Kong, Hao and <b>Lu</b>, <b>Canyi</b> and Lin, Zhouchen},
   title = {Tensor Q-Rank: New Data Dependent Tensor Rank},
   journal = {Machine Learning},
   year = {2021}
