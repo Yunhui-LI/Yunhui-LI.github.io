@@ -193,7 +193,7 @@ Hao Kong, <b>Canyi</b> <b>Lu</b> and Zhouchen Lin<br>
 
 2021<br>
 <a href="javascript:toggleBibtex('kong2021tensor')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/pdf/1910.12016.pdf" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://arxiv.org/abs/1910.12016" class="textlink" target="_blank">[arXiv]</a>
 
 </p>
 
