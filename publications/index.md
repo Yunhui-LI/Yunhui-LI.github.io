@@ -183,6 +183,39 @@ Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
 <ol class="biblist">
 
 
+<!-- Item: kong2021tensor -->
+<li ><p>
+<b>Tensor Q-Rank: New Data Dependent Tensor Rank</b><br>
+Hao Kong, <b>Canyi</b> <b>Lu</b> and Zhouchen Lin<br>
+
+<i>Machine Learning</i>,
+
+
+2021<br>
+<a href="javascript:toggleBibtex('lu2020tensor')" class="textlink">[bibtex]</a>
+<a href="https://arxiv.org/pdf/1910.12016.pdf" class="textlink" target="_blank">[arXiv]</a>
+
+</p>
+
+
+
+
+<div id="bib_kong2021tensor" class="bibtex noshow">
+<pre>
+@article{kong2021tensor,
+  author = {Kong Hao, <b>Lu</b>, <b>Canyi</b> and Lin, Zhouchen},
+  title = {Tensor Q-Rank: New Data Dependent Tensor Rank},
+  journal = {Machine Learning},
+  year = {2021}
+}
+</pre></div>
+</li>
+
+
+
+
+
+
 <!-- Item: lu2020tensor -->
 <li ><p>
 <b>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</b><br>
