@@ -80,10 +80,10 @@ June
 <pre>
 @manual{tproduct2018lu,
   author = {<b>Lu</b>, <b>Canyi</b>},
-  title = {Tensor-Tensor Product Toolbox},
+  title = {Tensor-Tensor Product Toolbox 2.0},
   organization = {Carnegie Mellon University},
-  month = {June},
-  year = {2018},
+  month = {April},
+  year = {2021},
   note = {https://github.com/canyilu/tproduct}
 }
 </pre></div>
