@@ -63,8 +63,8 @@ function toggleBibtex(articleid) {
 
 
 
-June
-2018<br>
+April
+2021<br>
 <a href="javascript:toggleBibtex('tproduct2018lu')" class="textlink">[bibtex]</a>
 <a href="../publications/2018-software-tproduct.pdf" class="textlink" target="_blank">[pdf]</a>
 <a href="https://arxiv.org/pdf/1806.07247.pdf" class="textlink" target="_blank">[arXiv]</a>
@@ -192,7 +192,7 @@ Hao Kong, <b>Canyi</b> <b>Lu</b> and Zhouchen Lin<br>
 
 
 2021<br>
-<a href="javascript:toggleBibtex('lu2020tensor')" class="textlink">[bibtex]</a>
+<a href="javascript:toggleBibtex('kong2021tensor')" class="textlink">[bibtex]</a>
 <a href="https://arxiv.org/pdf/1910.12016.pdf" class="textlink" target="_blank">[arXiv]</a>
 
 </p>
