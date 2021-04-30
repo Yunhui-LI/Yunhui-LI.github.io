@@ -55,7 +55,7 @@ function toggleBibtex(articleid) {
 
 <!-- Item: tproduct2018lu -->
 <li ><p>
-<b>Tensor-Tensor Product Toolbox</b><br>
+<b>Tensor-Tensor Product Toolbox 2.0</b><br>
 <b>Canyi</b> <b>Lu</b><br>
 
 
@@ -257,6 +257,7 @@ Pan Zhou, <b>Canyi Lu</b> and Jiashi Feng<br>
 <a href="javascript:toggleBibtex('lu2019lowrank')" class="textlink">[bibtex]</a>
 <a href="../publications/2019-CVPR-TNNtrans.pdf" class="textlink" target="_blank">[pdf]</a>
 <a href="https://github.com/canyilu/tensor-completion-under-linear-transform" class="textlink" target="_blank">[code]</a>
+<a href="https://github.com/canyilu/Tensor-tensor-product-toolbox" class="textlink" target="_blank">[t-product toolbox 2.0]</a>
 
 </p>
 
