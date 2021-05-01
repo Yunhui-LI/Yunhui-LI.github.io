@@ -228,6 +228,7 @@ Hao Kong, <b>Canyi</b> <b>Lu</b> and Zhouchen Lin<br>
 <a href="javascript:toggleBibtex('lu2020tensor')" class="textlink">[bibtex]</a>
 <a href="https://arxiv.org/abs/1804.03728" class="textlink" target="_blank">[arXiv]</a>
 <a href="https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA" class="textlink" target="_blank">[code]</a>
+<a href="https://github.com/canyilu/Tensor-tensor-product-toolbox" class="textlink" target="_blank">[T-product Toolbox]</a>
 <a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
 
 
@@ -257,6 +258,7 @@ Pan Zhou, <b>Canyi Lu</b> and Jiashi Feng<br>
 
 2020<br>
 <a href="javascript:toggleBibtex('zhou2020tensorlrr')" class="textlink">[bibtex]</a>
+<a href="https://github.com/canyilu/Tensor-tensor-product-toolbox" class="textlink" target="_blank">[T-product Toolbox]</a>
 
 
 </p>
@@ -427,6 +429,7 @@ pp. 527-541,
 <a href="https://arxiv.org/abs/1806.02511" class="textlink" target="_blank">[arXiv]</a>
 <a href="../publications/2018-IJCAI-Atomic-slides.pdf" class="textlink" target="_blank">[slides]</a>
 <a href="https://github.com/canyilu/tensor-completion-tensor-recovery" class="textlink" target="_blank">[code]</a>
+<a href="https://github.com/canyilu/Tensor-tensor-product-toolbox" class="textlink" target="_blank">[T-product Toolbox]</a>
 <a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
 
 
