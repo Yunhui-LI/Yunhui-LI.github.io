@@ -571,6 +571,7 @@ pp. 1152-1163,
 <a href="javascript:toggleBibtex('zhou2018tensor')" class="textlink">[bibtex]</a>
 <a href="../publications/2018-TIP-TCTF.pdf" class="textlink" target="_blank">[pdf]</a>
 <a href="https://panzhous.github.io/" class="textlink" target="_blank">[code]</a>
+<a href="https://github.com/canyilu/Tensor-tensor-product-toolbox" class="textlink" target="_blank">[t-product toolbox]</a>
 
 
 </p>
@@ -755,6 +756,7 @@ pp. 829-839,
 <a href="https://arxiv.org/abs/1708.04181" class="textlink" target="_blank">[arXiv]</a>
 <a href="../publications/2016-CVPR-TRPCA-poster.pdf" class="textlink" target="_blank">[poster]</a>
 <a href="https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA" class="textlink" target="_blank">[code]</a>
+<a href="https://github.com/canyilu/Tensor-tensor-product-toolbox" class="textlink" target="_blank">[t-product toolbox]</a>
 <a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
 
 
