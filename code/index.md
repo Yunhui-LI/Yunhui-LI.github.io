@@ -33,7 +33,7 @@ You can also browse my <a href="https://github.com/canyilu" target="_blank" styl
       </ul>
 <li><b> Subspace Clustering </b>
 	<ul>
-		<li> <a href="https://github.com/canyilu/LSR" class="textlink"> Subspace Clustering by Least Square Regression</b></a> </li>
+		<li> <a href="https://github.com/canyilu/LSR" class="textlink"> Subspace Clustering by Least Square Regression</a> </li>
 		<li> <a href="https://github.com/canyilu/BDR" class="textlink">Subspace Clustering by Block Diagonal Representation </a></li>
 	</ul>	
 	
