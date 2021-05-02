@@ -61,9 +61,11 @@ function toggleBibtex(articleid) {
 
 <i>Carnegie Mellon University</i>,
 
+June
 
+2018, 
 
-April
+updated in April
 2021<br>
 <a href="javascript:toggleBibtex('tproduct2018lu')" class="textlink">[bibtex]</a>
 <a href="../publications/2018-software-tproduct.pdf" class="textlink" target="_blank">[pdf]</a>
