@@ -49,6 +49,32 @@ function toggleBibtex(articleid) {
 <ol class="biblist">
    
   
+   
+   
+   
+<!-- Item: xiu2023 -->
+<li ><p>
+<b>Robust transfer subspace learning: A novel data-driven scheme for fault diagnosis</b><br>
+<b>Xianchao Xiu</b>, Fuchao Yu, Ying Yang, and Wanquan Liu<br>
+<i>IEEE Transactions on Instrumentation and Measurement}</i>,
+under review<br>
+</p>
+</li>
+   
+   
+   
+   
+<!-- Item: xiu2023 -->
+<li ><p>
+<b>Structured sparse linear discriminant analysis for unsupervised feature selection</b><br>
+Jingjing Liu, <b>Xianchao Xiu</b>, and Wanquan Liu<br>
+<i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>,
+under review<br>
+</p>
+</li>
+   
+   
+   
 <!-- Item: xiu2023 -->
 <li ><p>
 <b>An enhanced regularized clustering method with adaptive spurious connections detection</b><br>
