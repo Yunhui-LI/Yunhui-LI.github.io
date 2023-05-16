@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Xianchao Xiu (修贤超)
+title:            Canyi Lu (卢参义)
 locale:           en_US
 url:
 
@@ -26,21 +26,24 @@ kramdown:
 
 # Site owner
 owner:
-  name: Xianchao Xiu
-  avatar: xianchaoxiu.jpg
-  bio: "Department of Automation Shanghai University"
-  email: xcxiu@shu.edu.cn
-    google: 
+  name: Canyi Lu
+  avatar: canyilu.jpg
+  bio: "Postdoctoral Research Associate at Carnegie Mellon University."
+  email: canyilu@gmail.com
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  google: 
     plus: 
-    scholar: https://scholar.google.com/citations?user=hkXRhggAAAAJ&hl=zh-CN&oi=ao
+    scholar: https://scholar.google.com/citations?user=EZcKJi4AAAAJ&hl=en
     analytics:
     verify:
     ad-client:
     ad-slot:
-  twitter: #username
-  facebook: #username
   bing-verify:
-  github: xianchaoxiu
+  github: canyilu
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: canyilu
   xing: #username
   instagram: #username
   lastfm: #username
