@@ -6,11 +6,7 @@ comments: false
 share: false
 ---
 
-### Undergraduate
+### Operations Research
 
-* Operations Research
+### Modern Optimization Methods
 
-
-### Graduate
-
-* Modern Optimization Methods
