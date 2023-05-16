@@ -5,7 +5,6 @@ modified: 2014-07-31T13:23:02.362000-04:00
 share: false
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?user=EZcKJi4AAAAJ&hl=en" target="_blank" style="text-decoration:underline;">Google Scholar profile</a>.
 
 
 <style>
@@ -46,1332 +45,563 @@ function toggleBibtex(articleid) {
 </script>
 
 
-
-
-### Software and Toolboxes
 <ol class="biblist">
-
-
-
-<!-- Item: tproduct2018lu -->
+   
+  
+<!-- Item: xiu2023 -->
 <li ><p>
-<b>Tensor-Tensor Product Toolbox 2.0</b><br>
-<b>Canyi</b> <b>Lu</b><br>
-
-
-<i>Carnegie Mellon University</i>,
-
-June
-
-2018, 
-
-updated in April
-2021<br>
-<a href="javascript:toggleBibtex('tproduct2018lu')" class="textlink">[bibtex]</a>
-<a href="../publications/2018-software-tproduct.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/pdf/1806.07247.pdf" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a>
-
-
+<b>An enhanced regularized clustering method with adaptive spurious connections detection</b><br>
+Huangyue Chen, Lingchen Kong, Wentao Qu, and <b>Xianchao Xiu</b><br>
+<i>IEEE Signal Processing Letters</i>,
+under review<br>
 </p>
+</li>
+   
+   
+   
+<!-- Item: xiu2023 -->
+<li ><p>
+<b>A new RNN-based monitoring framework for nonlinear dynamic processes with unknown noise statistics</b><br>
+<b>Xianchao Xiu</b>, Yuhan Zhang, and Ying Yang<br>
+<i>IEEE Transactions on Industrial Informatics</i>,
+under review<br>
+</p>
+</li>
+   
+ 
+   
 
-
-
-
-<div id="bib_tproduct2018lu" class="bibtex noshow">
+<!-- Item: xiu2023 -->
+<li ><p>
+<b>ERSLDA: Efficient and robust sparse LDA for image classification</b><br>
+Jingjing Liu, Manlong Feng, <b>Xianchao Xiu</b>, et al<br>
+<i>IEEE Transactions on Circuits and Systems for Video Technology</i>,
+major revision<br>
+</p>
+</li>   
+  
+  
+ 
+   
+<!-- Item: xiu2023leanring -->
+<li ><p>
+<b>Learning high-order multi-view representation by new tensor canonical correlation analysis</b><br>
+Jianqin Sun, <b>Xianchao Xiu</b>, Ziyan Luo, and Wanquan Liu<br>
+<i>IEEE Transactions on Circuits and Systems for Video Technology</i>,
+2023<br>
+<a href="javascript:toggleBibtex('xiu2023leanring')" class="textlink">[bibtex]</a>
+<a href="../publications/2023-TCSVT.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_xiu2023leanring" class="bibtex noshow">
 <pre>
-@manual{tproduct2018lu,
-  author = {<b>Lu</b>, <b>Canyi</b>},
-  title = {Tensor-Tensor Product Toolbox 2.0},
-  organization = {Carnegie Mellon University},
-  month = {April},
-  year = {2021},
-  note = {https://github.com/canyilu/tproduct}
+@article{xiu2023leanring,
+  title={Learning high-order multi-view representation by new tensor canonical correlation analysis},
+  author={Sun, Jianqin and Xiu, Xianchao and Luo, Ziyan and Liu, Wanquan},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2023},
+  publisher={IEEE}
 }
 </pre></div>
 </li>
+   
+   
+  
+   
+   
 
+
+<!-- Item: zhang2023structured -->
 <li ><p>
-<b>A Library of ADMM for Sparse and Low-rank Optimization</b><br>
-<b>Canyi</b> <b>Lu</b><br>
-
-
-<i>National University of Singapore</i>,
-
-
-
-June
-2016<br>
-<a href="javascript:toggleBibtex('lu2016libadmm')" class="textlink">[bibtex]</a>
-<a href="../publications/2016-software-LibADMM.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[Github]</a>
-
-
+<b>Structured joint sparse orthogonal nonnegative matrix factorization for fault detection</b><br>
+Xi Zhang, <b>Xianchao Xiu</b>, and Chao Zhang<br>
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+vol. 72,
+pp. 1-15,
+2023<br>
+<a href="javascript:toggleBibtex('zhang2023structured')" class="textlink">[bibtex]</a>
+<a href="../publications/2023-TIM.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
-
-
-
-
-<div id="bib_lu2016libadmm" class="bibtex noshow">
+<div id="bib_zhang2023structured" class="bibtex noshow">
 <pre>
-@manual{lu2016libadmm,
-  author = {<b>Lu</b>, <b>Canyi</b>},
-  title = {A Library of ADMM for Sparse and Low-rank Optimization},
-  organization = {National University of Singapore},
-  month = {June},
-  year = {2016},
-  note = {https://github.com/canyilu/LibADMM}
+@article{zhang2023structured,
+  title={Structured joint sparse orthogonal nonnegative matrix factorization for fault detection},
+  author={Zhang, Xi and Xiu, Xianchao and Zhang, Chao},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={72},
+  pages={1--15},
+  year={2023},
+  publisher={IEEE}
 }
 </pre></div>
 </li>
+   
 
-
-</ol>
-
-### Preprints and Reports
-
-
-<!-- Generated from JabRef by PubList by Truong Nghiem at 09:00 on 2015.11.04. -->
-<ol class="biblist">
-
-
-
-
-
-
-
-
-<!-- Item: wang2015projection -->
+<!-- Item: qu2023efficient -->
 <li ><p>
-<b>Projection onto the Capped Simplex</b><br>
-Weiran Wang and <b>Canyi</b> <b>Lu</b><br>
-
-<i>arXiv preprint arXiv:1503.01002</i>,
-
-
-2015<br>
-<a href="javascript:toggleBibtex('wang2015projection')" class="textlink">[bibtex]</a>
-<a href="../publications/2015-report-simplex.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1503.01002" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/Projection-onto-the-capped-simplex" class="textlink" target="_blank">[code]</a>
-
-
+<b>An efficient semi-proximal ADMM algorithm for low-rank and sparse regularized matrix minimization problems with real-world applications </b><br>
+Wentao Qu, <b>Xianchao Xiu</b>, Haifei Zhang, and Jun Fan<br>
+<i>Journal of Computational and Applied Mathematics</i>,
+vol. 424,
+pp. 115007,
+2023<br>
+<a href="javascript:toggleBibtex('qu2023efficient')" class="textlink">[bibtex]</a>
+<a href="../publications/2023-JCAM.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
-
-
-
-
-<div id="bib_wang2015projection" class="bibtex noshow">
+<div id="bib_qu2023efficient" class="bibtex noshow">
 <pre>
-@article{wang2015projection,
-  author = {Wang, Weiran and <b>Lu</b>, <b>Canyi</b>},
-  title = {Projection onto the Capped Simplex},
-  journal = {arXiv preprint arXiv:1503.01002},
-  year = {2015}
+@article{qu2023efficient,
+  title={An efficient semi-proximal ADMM algorithm for low-rank and sparse regularized matrix minimization problems with real-world applications},
+  author={Qu, Wentao and Xiu, Xianchao and Zhang, Haifei and Fan, Jun},
+  journal={Journal of Computational and Applied Mathematics},
+  volume={424},
+  pages={115007},
+  year={2023},
+  publisher={Elsevier}
 }
 </pre></div>
 </li>
+   
 
-
-</ol>
-
-
-
-
-
-
-
-### Journal and Conference Publications
-<ol class="biblist">
-
-
-<!-- Item: kong2021tensor -->
+ 
+   
+   
+<!-- Item: xiu2023learning -->
 <li ><p>
-<b>Tensor Q-Rank: New Data Dependent Tensor Rank</b><br>
-Hao Kong, <b>Canyi</b> <b>Lu</b> and Zhouchen Lin<br>
-
-<i>Machine Learning</i>,
-
-
-2021<br>
-<a href="javascript:toggleBibtex('kong2021tensor')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/abs/1910.12016" class="textlink" target="_blank">[arXiv]</a>
-
+<b>Learning sparse kernel CCA with graph priors for nonlinear process monitoring</b><br>
+<b>Xianchao Xiu</b> and Yunhui Li<br>
+<i>IEEE Sensors Journal</i>,
+vol. 23,
+pp. 7381-7389,
+2023<br>
+<a href="javascript:toggleBibtex('xiu2023learning')" class="textlink">[bibtex]</a>
+<a href="../publications/2023-JSEN.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
-
-
-
-
-<div id="bib_kong2021tensor" class="bibtex noshow">
+<div id="bib_xiu2023learning" class="bibtex noshow">
 <pre>
-@article{kong2021tensor,
-  author = {Kong, Hao and <b>Lu</b>, <b>Canyi</b> and Lin, Zhouchen},
-  title = {Tensor Q-Rank: New Data Dependent Tensor Rank},
-  journal = {Machine Learning},
-  year = {2021}
+@article{xiu2023learning,
+  title={Learning sparse kernel CCA with graph priors for nonlinear process monitoring},
+  author={Xiu, Xianchao and Li, Yunhui},
+  journal={IEEE Sensors Journal},
+  volume={23},
+  number={7},
+  pages={7381--7389},
+  year={2023},
+  publisher={IEEE}
+}
+</pre></div>
+</li> 
+   
+
+   
+   
+<!-- Item: xiu2022sparsity -->
+<li ><p>
+<b>A sparsity-aware fault diagnosis framework focusing on accurate isolation</b><br>
+<b>Xianchao Xiu</b>, Zhonghua Miao, and Wanquan Liu<br>
+<i>IEEE Transactions on Industrial Informatics</i>,
+vol. 19,
+pp. 1356-1365,
+2023<br>
+<a href="javascript:toggleBibtex('xiu2022sparsity')" class="textlink">[bibtex]</a>
+<a href="../publications/2023-TII.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_xiu2022sparsity" class="bibtex noshow">
+<pre>
+@article{xiu2022sparsity,
+  title={A sparsity-aware fault diagnosis framework focusing on accurate isolation},
+  author={Xiu, Xianchao and Miao, Zhonghua and Liu, Wanquan},
+  journal={IEEE Transactions on Industrial Informatics},
+  volume={19},
+  number={2},
+  pages={1356--1365},
+  year={2023},
+  publisher={IEEE}
 }
 </pre></div>
 </li>
-
-
-
-
-
-
-<!-- Item: lu2020tensor -->
+   
+  
+   
+<!-- Item: xiu2022efficient -->
 <li ><p>
-<b>Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm</b><br>
-<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan<br>
-
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
-
-
-2020<br>
-<a href="javascript:toggleBibtex('lu2020tensor')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/abs/1804.03728" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA" class="textlink" target="_blank">[code]</a>
-<a href="https://github.com/canyilu/Tensor-tensor-product-toolbox" class="textlink" target="_blank">[t-product toolbox]</a>
-<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
-
-
+<b>Efficient and fast joint sparse constrained canonical correlation analysis for fault detection</b><br>
+<b>Xianchao Xiu</b>, Lili Pan, Ying Yang, and Wanquan Liu<br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>,
+2022<br>
+<a href="javascript:toggleBibtex('xiu2022efficient')" class="textlink">[bibtex]</a>
+<a href="../publications/2022-TNNLS.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
-
-
-
-
-<div id="bib_lu2020tensor" class="bibtex noshow">
+<div id="bib_xiu2022efficient" class="bibtex noshow">
 <pre>
-@article{lu2020tensor,
-  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Chen, Yudong and Liu, Wei and Lin, Zhouchen and Yan, Shuicheng},
-  title = {Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm},
-  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
-  year = {2020}
+@article{xiu2022efficient,
+  title={Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection},
+  author={Xiu, Xianchao and Pan, Lili and Yang, Ying and Liu, Wanquan},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022},
+  publisher={IEEE}
 }
 </pre></div>
 </li>
-
-<!-- Item: zhou2020tensorlrr -->
+   
+   
+   
+<!-- Item: xiu2021deep -->
 <li ><p>
-<b>Tensor Low-rank Representation for Data Recovery and Clustering</b><br>
-Pan Zhou, <b>Canyi Lu</b> and Jiashi Feng<br>
-
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
-
-
-2020<br>
-<a href="javascript:toggleBibtex('zhou2020tensorlrr')" class="textlink">[bibtex]</a>
-<a href="https://github.com/canyilu/Tensor-tensor-product-toolbox" class="textlink" target="_blank">[t-product toolbox]</a>
-
-
+<b>Deep canonical correlation analysis using sparsity-constrained optimization for nonlinear process monitoring</b><br>
+<b>Xianchao Xiu</b>, Zhonghua Miao, Ying Yang, and Wanquan Liu<br>
+<i>IEEE Transactions on Industrial Informatics</i>,
+vol. 18,
+pp. 6690-6699,
+2022<br>
+<a href="javascript:toggleBibtex('xiu2021deep')" class="textlink">[bibtex]</a>
+<a href="../publications/2022-TII.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
-
-
-
-
-<div id="bib_zhou2020tensorlrr" class="bibtex noshow">
+<div id="bib_xiu2021deep" class="bibtex noshow">
 <pre>
-@article{zhou2018tensorlrr,
-  author = {Zhou, Pan and Lu, Canyi and Feng, Jiashi},
-  title = {Tensor Low-rank Representation for Data Recovery and Clustering},
-  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
-  year = {2020
+@article{xiu2021deep,
+  title={Deep canonical correlation analysis using sparsity-constrained optimization for nonlinear process monitoring},
+  author={Xiu, Xianchao and Miao, Zhonghua and Yang, Ying and Liu, Wanquan},
+  journal={IEEE Transactions on Industrial Informatics},
+  volume={18},
+  number={10},
+  pages={6690--6699},
+  year={2022},
+  publisher={IEEE}
 }
 </pre></div>
 </li>
+   
 
-
-
-
-<!-- Item: lu2019lowrank -->
+   
+<!-- Item: miao2022efficient -->
 <li ><p>
-<b>Low-Rank Tensor Completion With a New Tensor Nuclear Norm Induced by Invertible Linear Transforms</b><br>
-<b>Canyi</b> <b>Lu</b>, Xi Peng, Yunchao Wei<br>
-<i>IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>,
-
-
-
-2019<br>
-<a href="javascript:toggleBibtex('lu2019lowrank')" class="textlink">[bibtex]</a>
-<a href="../publications/2019-CVPR-TNNtrans.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://github.com/canyilu/tensor-completion-under-linear-transform" class="textlink" target="_blank">[code]</a>
-<a href="https://github.com/canyilu/Tensor-tensor-product-toolbox" class="textlink" target="_blank">[t-product toolbox 2.0]</a>
-
+<b>Efficient and robust process monitoring using structured low-rank representation</b><br>
+Zhonghua Miao, <b>Xianchao Xiu</b><br>
+<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
+vol. 69,
+pp. 3530-3534,
+2022<br>
+<a href="javascript:toggleBibtex('miao2022efficient')" class="textlink">[bibtex]</a>
+<a href="../publications/2022-TCSII.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
-
-
-
-
-<div id="bib_lu2019lowrank" class="bibtex noshow">
+<div id="bib_miao2022efficient" class="bibtex noshow">
 <pre>
-@inproceedings{lu2016tensor,
-  author = {<b>Lu</b>, <b>Canyi</b> and Peng Xi and  Wei Yunchao},
-  title = {Low-Rank Tensor Completion With a New Tensor Nuclear Norm Induced by Invertible Linear Transforms},
-  booktitle = {IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)},
-  year = {2019}
+@article{miao2022efficient,
+  title={Efficient and robust process monitoring using structured low-rank representation},
+  author={Miao, Zhonghua and Xiu, Xianchao},
+  journal={IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume={69},
+  number={8},
+  pages={3530--3534},
+  year={2022},
+  publisher={IEEE}
 }
 </pre></div>
 </li>
-
-
-
-
-
-<!-- Item: hien2016accelerated -->
+   
+   
+<!-- Item: gao2022fusion -->
 <li ><p>
-<b>Accelerated Randomized Mirror Descent Algorithms For Composite Non-strongly Convex Optimization</b><br>
-Le Thi Khanh Hien, Cuong V. Nguyen, Huan Xu, <b>Canyi</b> <b>Lu</b> and Jiashi Feng<br>
-
-<i>Journal of Optimization Theory and Applications</i>,
-
-
-2019<br>
-<a href="javascript:toggleBibtex('hien2016accelerated')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/abs/1605.06892" class="textlink" target="_blank">[arXiv]</a>
-
-
+<b>Fusion-UDCGAN: Multifocus image fusion via a U-type densely connected generation adversarial network</b><br>
+Yuan Gao, Shiwei Ma, Jingjing Liu, and <b>Xianchao Xiu</b><br>
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+vol. 71,
+pp. 1-13,
+2022<br>
+<a href="javascript:toggleBibtex('gao2022fusion')" class="textlink">[bibtex]</a>
+<a href="../publications/2022-TIM.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
-
-
-
-
-<div id="bib_hien2016accelerated" class="bibtex noshow">
+<div id="bib_gao2022fusion" class="bibtex noshow">
 <pre>
-@article{hien2016accelerated,
-  author = {Hien, Le Thi Khanh and Nguyen, Cuong V and Xu, Huan and <b>Lu</b>, <b>Canyi</b> and Feng, Jiashi},
-  title = {Accelerated Randomized Mirror Descent Algorithms For Composite Non-strongly Convex Optimization},
-  journal = {Journal of Optimization Theory and Applications},
-  year = {2019}
+@article{gao2022fusion,
+  title={Fusion-UDCGAN: Multifocus image fusion via a U-type densely connected generation adversarial network},
+  author={Gao, Yuan and Ma, Shiwei and Liu, Jingjing and Xiu, Xianchao},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={71},
+  pages={1-13},
+  year={2022},
+  publisher={IEEE}
 }
 </pre></div>
 </li>
-
-
-
-<!-- Item: lu2016subspace -->
+   
+   
+<!-- Item: li2021efficient -->
 <li ><p>
-<b>Subspace Clustering by Block Diagonal Representation</b><br>
-<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Tao Mei, Zhouchen Lin and Shuicheng Yan<br>
-
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
-
-
-2019<br>
-<a href="javascript:toggleBibtex('lu2016subspace')" class="textlink">[bibtex]</a>
-<a href="../publications/2018-TPAMI-BDR.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1805.09243" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/BDR" class="textlink" target="_blank">[code]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2016subspace" class="bibtex noshow">
-<pre>
-@article{lu2016subspace,
-  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Mei, Tao and Lin, Zhouchen and Yan, Shuicheng},
-  title = {Subspace Clustering by Block Diagonal Representation},
-  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
-  year = {2019}
-}
-</pre></div>
-</li>
-
-
-
-<!-- Item: lu2018unified -->
-<li ><p>
-<b>A Unified Alternating Direction Method of Multipliers by Majorization Minimization</b><br>
-<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Shuicheng Yan and Zhouchen Lin<br>
-
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)</i>,
-vol. 40,
-pp. 527-541,
-2018<br>
-<a href="javascript:toggleBibtex('lu2018unified')" class="textlink">[bibtex]</a>
-<a href="../publications/2018-TPAMI-UnifiedADMM.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1607.02584" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2018unified" class="bibtex noshow">
-<pre>
-@article{lu2018unified,
-  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Yan, Shuicheng and Lin, Zhouchen},
-  title = {A Unified Alternating Direction Method of Multipliers by Majorization Minimization},
-  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>)},
-  publisher = {IEEE},
-  year = {2018},
-  volume = {40},
-  number = {3},
-  pages = {527--541}
-}
-</pre></div>
-</li>
-
-
-
-<!-- Item: lu2018exact -->
-<li ><p>
-<b>Exact Low Tubal Rank Tensor Recovery from Gaussian Measurements</b><br>
-<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan<br>
-<i>International Joint Conference on Artificial Intelligence (<b>IJCAI</b>)</i>,
-
-
-
-2018<br>
-<a href="javascript:toggleBibtex('lu2018exact')" class="textlink">[bibtex]</a>
-<a href="../publications/2018-IJCAI-Atomic.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1806.02511" class="textlink" target="_blank">[arXiv]</a>
-<a href="../publications/2018-IJCAI-Atomic-slides.pdf" class="textlink" target="_blank">[slides]</a>
-<a href="https://github.com/canyilu/tensor-completion-tensor-recovery" class="textlink" target="_blank">[code]</a>
-<a href="https://github.com/canyilu/Tensor-tensor-product-toolbox" class="textlink" target="_blank">[t-product toolbox]</a>
-<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2018exact" class="bibtex noshow">
-<pre>
-@inproceedings{lu2018exact,
-  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Lin, Zhouchen and Yan, Shuicheng},
-  title = {Exact Low Tubal Rank Tensor Recovery from Gaussian Measurements},
-  booktitle = {International Joint Conference on Artificial Intelligence (<b>IJCAI</b>)},
-  year = {2018}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2018nonconvex -->
-<li ><p>
-<b>Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers and Its Convergence Analysis</b><br>
-<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan<br>
-<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
-
-
-
-2018<br>
-<a href="javascript:toggleBibtex('lu2018nonconvex')" class="textlink">[bibtex]</a>
-<a href="../publications/2018-AAAI-NCVXSSC.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1712.02979" class="textlink" target="_blank">[arXiv]</a>
-<a href="../publications/2018-AAAI-NCVXSSC-poster.pdf" class="textlink" target="_blank">[poster]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2018nonconvex" class="bibtex noshow">
-<pre>
-@inproceedings{lu2018nonconvex,
-  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Lin, Zhouchen and Yan, Shuicheng},
-  title = {Nonconvex Sparse Spectral Clustering by Alternating Direction Method of Multipliers and Its Convergence Analysis},
-  booktitle = {AAAI Conference on Artificial Intelligence (<b>AAAI</b>)},
-  year = {2018}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2018optimized -->
-<li ><p>
-<b>Optimized Projections for Compressed Sensing via Direct Mutual Coherence Minimization</b><br>
-<b>Canyi</b> <b>Lu</b>, Huan Li and Zhouchen Lin<br>
-
-<i>Signal Processing</i>,
-vol. 151,
-pp. 45-55,
-2018<br>
-<a href="javascript:toggleBibtex('lu2018optimized')" class="textlink">[bibtex]</a>
-<a href="../publications/2018-SignalProcessing-DMCM.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1508.03117" class="textlink" target="_blank">[arXiv]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2018optimized" class="bibtex noshow">
-<pre>
-@article{lu2018optimized,
-  author = {<b>Lu</b>, <b>Canyi</b> and Li, Huan and Lin, Zhouchen},
-  title = {Optimized Projections for Compressed Sensing via Direct Mutual Coherence Minimization},
-  journal = {Signal Processing},
-  year = {2018},
-  volume = {151},
-  pages = {45-55}
-}
-</pre></div>
-</li>
-
-
-
-
-
-
-<!-- Item: peng2018connections -->
-<li ><p>
-<b>Connections between Nuclear-norm and Frobenius-norm-based Representations</b><br>
-Xi Peng, <b>Canyi</b> <b>Lu</b>, Zhang Yi and Huajin Tang<br>
-
-<i>IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)</i>,
+<b>An efficient Newton-based method for sparse generalized canonical correlation analysis</b><br>
+Xinrong Li, <b>Xianchao Xiu</b>, Wanquan Liu, and Zhonghua Miao<br>
+<i>IEEE Signal Processing Letters</i>,
 vol. 29,
-pp. 218-224,
+pp. 125-129,
+2022<br>
+<a href="javascript:toggleBibtex('li2021efficient')" class="textlink">[bibtex]</a>
+<a href="../publications/2022-SPL.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_li2021efficient" class="bibtex noshow">
+<pre>
+@article{li2021efficient,
+  title={An efficient Newton-based method for sparse generalized canonical correlation analysis},
+  author={Li, Xinrong and Xiu, Xianchao and Liu, Wanquan and Miao, Zhonghua},
+  journal={IEEE Signal Processing Letters},
+  volume={29},
+  pages={125--129},
+  year={2022},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+  
+   
+ 
+<!-- Item: ni2022towards -->
+<li ><p>
+<b>Towards efficient state of charge estimation of lithium-ion batteries using canonical correlation analysis</b><br>
+Zichuan Ni, <b>Xianchao Xiu</b>, and Ying Yang<br>
+<i>Energy</i>,
+vol. 254,
+pp. 124415,
+2022<br>
+<a href="javascript:toggleBibtex('ni2022towards')" class="textlink">[bibtex]</a>
+<a href="../publications/2022-Energy.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_ni2022towards" class="bibtex noshow">
+<pre>
+@article{ni2022towards,
+  title={Towards efficient state of charge estimation of lithium-ion batteries using canonical correlation analysis},
+  author={Ni, Zichuan and Xiu, Xianchao and Yang, Ying},
+  journal={Energy},
+  volume={254},
+  pages={124415},
+  year={2022},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+
+
+  
+<!-- Item: zhang2021data -->
+<li ><p>
+<b>A data-driven modeling method for stochastic nonlinear degradation process with application to RUL estimation</b><br>
+Yuhan Zhang, Ying Yang, He Li, <b>Xianchao Xiu</b>, and Wanquan Liu<br>
+<i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>,
+vol. 52,
+pp. 3847-3858,
+2022<br>
+<a href="javascript:toggleBibtex('zhang2021data')" class="textlink">[bibtex]</a>
+<a href="../publications/2022-TSMC.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_ni2022towards" class="bibtex noshow">
+<pre>
+@article{zhang2021data,
+  title={A data-driven modeling method for stochastic nonlinear degradation process with application to RUL estimation},
+  author={Zhang, Yuhan and Yang, Ying and Li, He and Xiu, Xianchao and Liu, Wanquan},
+  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+  volume={52},
+  number={6},
+  pages={3847--3858},
+  year={2022},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+   
+   
+   
+<!-- Item: xiu2021fault -->
+<li ><p>
+<b>Fault detection using structured joint sparse nonnegative matrix factorization</b><br>
+<b>Xianchao Xiu</b>, Jun Fan, Ying Yang, and Wanquan Liu<br>
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+vol. 70,
+pp. 1-11,
+2021<br>
+<a href="javascript:toggleBibtex('xiu2021fault')" class="textlink">[bibtex]</a>
+<a href="../publications/2021-TIM.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_xiu2021fault" class="bibtex noshow">
+<pre>
+@article{xiu2021fault,
+  title={Fault detection using structured joint sparse nonnegative matrix factorization},
+  author={Xiu, Xianchao and Fan, Jun and Yang, Ying and Liu, Wanquan},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={70},
+  pages={1--11},
+  year={2021},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+   
+   
+   
+<!-- Item: xiu2021data -->
+<li ><p>
+<b>Data-driven process monitoring using structured joint sparse canonical correlation analysis</b><br>
+<b>Xianchao Xiu</b>, Ying Yang, Lingchen Kong, and Wanquan Liu<br>
+<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
+vol. 68,
+pp. 361-365,
+2021<br>
+<a href="javascript:toggleBibtex('xiu2021data')" class="textlink">[bibtex]</a>
+<a href="../publications/2021-TCSIIa.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_xiu2021data" class="bibtex noshow">
+<pre>
+@article{xiu2021data,
+  title={Data-driven process monitoring using structured joint sparse canonical correlation analysis},
+  author={Xiu, Xianchao and Yang, Ying and Kong, Lingchen and Liu, Wanquan},
+  journal={IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume={68},
+  number={1},
+  pages={361--365},
+  year={2021},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+   
+   
+   
+<!-- Item: zhang2020remaining -->
+<li ><p>
+<b>A remaining useful life prediction method in the early stage of stochastic degradation process</b><br>
+Yuhan Zhang, Ying Yang, <b>Xianchao Xiu</b>, He Li, and Ruijie Liu<br>
+<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
+vol. 68,
+pp. 2027-2031,
+2021<br>
+<a href="javascript:toggleBibtex('zhang2020remaining')" class="textlink">[bibtex]</a>
+<a href="../publications/2021-TCSIIb.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_zhang2020remaining" class="bibtex noshow">
+<pre>
+@article{zhang2020remaining,
+  title={A remaining useful life prediction method in the early stage of stochastic degradation process},
+  author={Zhang, Yuhan and Yang, Ying and Xiu, Xianchao and Li, He and Liu, Ruijie},
+  journal={IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume={68},
+  number={6},
+  pages={2027--2031},
+  year={2021},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+   
+  
+   
+   
+   
+<!-- Item: xiu2020tssnalm -->
+<li ><p>
+<b>tSSNALM: A fast two-stage semi-smooth Newton augmented Lagrangian method for sparse CCA</b><br>
+<b>Xianchao Xiu</b>, Ying Yang, Lingchen Kong, and Wanquan Liu<br>
+<i>Applied Mathematics and Computation</i>,
+vol. 383,
+pp. 125272,
+2020<br>
+<a href="javascript:toggleBibtex('xiu2020tssnalm')" class="textlink">[bibtex]</a>
+<a href="../publications/2020-AMC.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_xiu2020tssnalm" class="bibtex noshow">
+<pre>
+@article{xiu2020tssnalm,
+  title={tSSNALM: A fast two-stage semi-smooth Newton augmented Lagrangian method for sparse CCA},
+  author={Xiu, Xianchao and Yang, Ying and Kong, Lingchen and Liu, Wanquan},
+  journal={Applied Mathematics and Computation},
+  volume={383},
+  pages={125272},
+  year={2020},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+   
+   
+
+<!-- Item: xiu2020laplacian -->
+<li ><p>
+<b>Laplacian regularized robust principal component analysis for process monitoring</b><br>
+<b>Xianchao Xiu</b>, Ying Yang, Lingchen Kong, and Wanquan Liu<br>
+<i>Journal of Process Control</i>,
+vol. 92,
+pp. 212-219,
+2020<br>
+<a href="javascript:toggleBibtex('xiu2020laplacian')" class="textlink">[bibtex]</a>
+<a href="../publications/2020-JPC.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_xiu2020laplacian" class="bibtex noshow">
+<pre>
+@article{xiu2020laplacian,
+  title={Laplacian regularized robust principal component analysis for process monitoring},
+  author={Xiu, Xianchao and Yang, Ying and Kong, Lingchen and Liu, Wanquan},
+  journal={Journal of Process Control},
+  volume={92},
+  pages={212-219},
+  year={2020},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+   
+   
+   
+<!-- Item: xiu2019alternating -->
+<li ><p>
+<b>Alternating direction method of multipliers for nonconvex fused regression problems</b><br>
+<b>Xianchao Xiu</b>, Wanquan Liu, Ling Li, and Lingchen Kong<br>
+<i>Computational Statistics and Data Analysis</i>,
+vol. 136,
+pp. 59-71,
+2019<br>
+<a href="javascript:toggleBibtex('xiu2019alternating')" class="textlink">[bibtex]</a>
+<a href="../publications/2019-CSDA.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_xiu2019alternating" class="bibtex noshow">
+<pre>
+@article{xiu2019alternating,
+  title={Alternating direction method of multipliers for nonconvex fused regression problems},
+  author={Xiu, Xianchao and Liu, Wanquan and Li, Ling and Kong, Lingchen},
+  journal={Computational Statistics \& Data Analysis},
+  volume={136},
+  pages={59--71},
+  year={2019},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>   
+   
+   
+   
+<!-- Item: xiu2018iterative -->
+<li ><p>
+<b>Iterative reweighted methods for L1-Lp minimization</b><br>
+<b>Xianchao Xiu</b>, Lingchen Kong, Yan Li, and Houduo Qi<br>
+<i>Computational Optimization and Applications</i>,
+vol. 70,
+pp. 201-219,
 2018<br>
-<a href="javascript:toggleBibtex('peng2018connections')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/abs/1502.07423" class="textlink" target="_blank">[arXiv]</a>
-
-
+<a href="javascript:toggleBibtex('xiu2018iterative')" class="textlink">[bibtex]</a>
+<a href="../publications/2018-COAP.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
-
-
-
-
-<div id="bib_peng2018connections" class="bibtex noshow">
+<div id="bib_xiu2018iterative" class="bibtex noshow">
 <pre>
-@article{peng2018connections,
-  author = {Peng, Xi and <b>Lu</b>, <b>Canyi</b> and Yi, Zhang and Tang, Huajin},
-  title = {Connections between Nuclear-norm and Frobenius-norm-based Representations},
-  journal = {IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>)},
-  publisher = {IEEE},
-  year = {2018},
-  volume = {29},
-  number = {1},
-  pages = {218--224}
+@article{xiu2018iterative,
+  title={Iterative reweighted methods for L1-Lp minimization},
+  author={Xiu, Xianchao and Kong, Lingchen and Li, Yan and Qi, Houduo},
+  journal={Computational Optimization and Applications},
+  volume={70},
+  number={1},
+  pages={201--219},
+  year={2018},
+  publisher={Springer}
 }
 </pre></div>
-</li>
-
-
-
-
-<!-- Item: zhou2018tensor -->
-<li ><p>
-<b>Tensor Factorization for Low-Rank Tensor Completion</b><br>
-Pan Zhou, <b>Canyi</b> <b>Lu</b>, Zhouchen Lin and Chao Zhang<br>
-
-<i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>,
-vol. 27,
-pp. 1152-1163,
-2018<br>
-<a href="javascript:toggleBibtex('zhou2018tensor')" class="textlink">[bibtex]</a>
-<a href="../publications/2018-TIP-TCTF.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://panzhous.github.io/" class="textlink" target="_blank">[code]</a>
-<a href="https://github.com/canyilu/Tensor-tensor-product-toolbox" class="textlink" target="_blank">[t-product toolbox]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_zhou2018tensor" class="bibtex noshow">
-<pre>
-@article{zhou2018tensor,
-  author = {Zhou, Pan and <b>Lu</b>, <b>Canyi</b> and Lin, Zhouchen and Zhang, Chao},
-  title = {Tensor Factorization for Low-Rank Tensor Completion},
-  journal = {IEEE Transactions on Image Processing (<b>TIP</b>)},
-  publisher = {IEEE},
-  year = {2018},
-  volume = {27},
-  number = {3},
-  pages = {1152--1163}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: wei2017cross -->
-<li ><p>
-<b>Cross-modal Retrieval with CNN Visual Features: A New Baseline</b><br>
-Yunchao Wei, Yao Zhao, <b>Canyi</b> <b>Lu</b>, Shikui Wei, Luoqi Liu, Zhenfeng Zhu and Shuicheng Yan<br>
-
-<i>IEEE Transactions on Cybernetics (<b>TCYB</b>)</i>,
-vol. 47,
-pp. 449-460,
-2017<br>
-<a href="javascript:toggleBibtex('wei2017cross')" class="textlink">[bibtex]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_wei2017cross" class="bibtex noshow">
-<pre>
-@article{wei2017cross,
-  author = {Wei, Yunchao and Zhao, Yao and <b>Lu</b>, <b>Canyi</b> and Wei, Shikui and Liu, Luoqi and Zhu, Zhenfeng and Yan, Shuicheng},
-  title = {Cross-modal Retrieval with CNN Visual Features: A New Baseline},
-  journal = {IEEE Transactions on Cybernetics (<b>TCYB</b>)},
-  publisher = {IEEE},
-  year = {2017},
-  volume = {47},
-  number = {2},
-  pages = {449--460}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2016convex -->
-<li ><p>
-<b>Convex Sparse Spectral Clustering: Single-view to Multi-view</b><br>
-<b>Canyi</b> <b>Lu</b>, Shuicheng Yan and Zhouchen Lin<br>
-
-<i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>,
-vol. 25,
-pp. 2833-2843,
-2016<br>
-<a href="javascript:toggleBibtex('lu2016convex')" class="textlink">[bibtex]</a>
-<a href="../publications/2016-TIP-CVXSSC.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1511.06860" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2016convex" class="bibtex noshow">
-<pre>
-@article{lu2016convex,
-  author = {<b>Lu</b>, <b>Canyi</b> and Yan, Shuicheng and Lin, Zhouchen},
-  title = {Convex Sparse Spectral Clustering: Single-view to Multi-view},
-  journal = {IEEE Transactions on Image Processing (<b>TIP</b>)},
-  publisher = {IEEE},
-  year = {2016},
-  volume = {25},
-  number = {6},
-  pages = {2833--2843}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2016fast -->
-<li ><p>
-<b>Fast Proximal Linearized Alternating Direction Method of Multiplier with Parallel Splitting</b><br>
-<b>Canyi</b> <b>Lu</b>, Huan Li, Zhouchen Lin and Shuicheng Yan<br>
-<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
-
-
-
-2016<br>
-<a href="javascript:toggleBibtex('lu2016fast')" class="textlink">[bibtex]</a>
-<a href="../publications/2016-AAAI-FastPALM.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1511.05133" class="textlink" target="_blank">[arXiv]</a>
-<a href="../publications/2016-AAAI-FastPALM-poster.pdf" class="textlink" target="_blank">[poster]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2016fast" class="bibtex noshow">
-<pre>
-@inproceedings{lu2016fast,
-  author = {<b>Lu</b>, <b>Canyi</b> and Li, Huan and Lin, Zhouchen and Yan, Shuicheng},
-  title = {Fast Proximal Linearized Alternating Direction Method of Multiplier with Parallel Splitting},
-  booktitle = {AAAI Conference on Artificial Intelligence (<b>AAAI</b>)},
-  year = {2016}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2016nonconvex -->
-<li ><p>
-<b>Nonconvex Nonsmooth Low Rank Minimization via Iteratively Reweighted Nuclear Norm</b><br>
-<b>Canyi</b> <b>Lu</b>, Jinhui Tang, Shuicheng Yan and Zhouchen Lin<br>
-
-<i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>,
-vol. 25,
-pp. 829-839,
-2016<br>
-<a href="javascript:toggleBibtex('lu2016nonconvex')" class="textlink">[bibtex]</a>
-<a href="../publications/2016-TIP-IRNN.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1510.06895" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/IRNN" class="textlink" target="_blank">[code]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2016nonconvex" class="bibtex noshow">
-<pre>
-@article{lu2016nonconvex,
-  author = {<b>Lu</b>, <b>Canyi</b> and Tang, Jinhui and Yan, Shuicheng and Lin, Zhouchen},
-  title = {Nonconvex Nonsmooth Low Rank Minimization via Iteratively Reweighted Nuclear Norm},
-  journal = {IEEE Transactions on Image Processing (<b>TIP</b>)},
-  publisher = {IEEE},
-  year = {2016},
-  volume = {25},
-  number = {2},
-  pages = {829--839}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2016tensor -->
-<li ><p>
-<b>Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization</b><br>
-<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin and Shuicheng Yan<br>
-<i>IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>,
-
-
-
-2016<br>
-<a href="javascript:toggleBibtex('lu2016tensor')" class="textlink">[bibtex]</a>
-<a href="../publications/2016-CVPR-TRPCA.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1708.04181" class="textlink" target="_blank">[arXiv]</a>
-<a href="../publications/2016-CVPR-TRPCA-poster.pdf" class="textlink" target="_blank">[poster]</a>
-<a href="https://github.com/canyilu/Tensor-Robust-Principal-Component-Analysis-TRPCA" class="textlink" target="_blank">[code]</a>
-<a href="https://github.com/canyilu/Tensor-tensor-product-toolbox" class="textlink" target="_blank">[t-product toolbox]</a>
-<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2016tensor" class="bibtex noshow">
-<pre>
-@inproceedings{lu2016tensor,
-  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Chen, Yudong and Liu, Wei and Lin, Zhouchen and Yan, Shuicheng},
-  title = {Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization},
-  booktitle = {IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)},
-  year = {2016}
-}
-</pre></div>
-</li>
-
-<!-- Item: zhu2016collaborative -->
-<li ><p>
-<b>Collaborative Completion of Transcription Factor Binding Profiles via Local Sensitive Unified Embedding</b><br>
-Lin Zhu, Wei-Li Guo, <b>Canyi</b> <b>Lu</b> and De-Shuang Huang<br>
-
-<i>IEEE Transactions on NanoBioscience</i>,
-vol. 15,
-pp. 946-958,
-2016<br>
-<a href="javascript:toggleBibtex('zhu2016collaborative')" class="textlink">[bibtex]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_zhu2016collaborative" class="bibtex noshow">
-<pre>
-@article{zhu2016collaborative,
-  author = {Zhu, Lin and Guo, Wei-Li and <b>Lu</b>, <b>Canyi</b> and Huang, De-Shuang},
-  title = {Collaborative Completion of Transcription Factor Binding Profiles via Local Sensitive Unified Embedding},
-  journal = {IEEE Transactions on NanoBioscience},
-  publisher = {IEEE},
-  year = {2016},
-  volume = {15},
-  number = {8},
-  pages = {946--958}
-}
-</pre></div>
-</li>
-
-
-
-<!-- Item: xu2016multi -->
-<li ><p>
-<b>Multi-loss Regularized Deep Neural Network</b><br>
-Chunyan Xu, <b>Canyi</b> <b>Lu</b>, Xiaodan Liang, Junbin Gao, Wei Zheng, Tianjiang Wang and Shuicheng Yan<br>
-
-<i>IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</i>,
-vol. 26,
-pp. 2273-2283,
-2016<br>
-<a href="javascript:toggleBibtex('xu2016multi')" class="textlink">[bibtex]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_xu2016multi" class="bibtex noshow">
-<pre>
-@article{xu2016multi,
-  author = {Xu, Chunyan and <b>Lu</b>, <b>Canyi</b> and Liang, Xiaodan and Gao, Junbin and Zheng, Wei and Wang, Tianjiang and Yan, Shuicheng},
-  title = {Multi-loss Regularized Deep Neural Network},
-  journal = {IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)},
-  publisher = {IEEE},
-  year = {2016},
-  volume = {26},
-  number = {12},
-  pages = {2273--2283}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2015generalized -->
-<li ><p>
-<b>Generalized Singular Value Thresholding</b><br>
-<b>Canyi</b> <b>Lu</b>, Changbo Zhu, Chunyan Xu, Shuicheng Yan and Zhouchen Lin<br>
-<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
-
-
-
-2015<br>
-<a href="javascript:toggleBibtex('lu2015generalized')" class="textlink">[bibtex]</a>
-<a href="../publications/2015-AAAI-GSVT.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1412.2231" class="textlink" target="_blank">[arXiv]</a>
-<a href="../publications/2015-AAAI-GSVT-poster.pdf" class="textlink" target="_blank">[poster]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2015generalized" class="bibtex noshow">
-<pre>
-@inproceedings{lu2015generalized,
-  author = {<b>Lu</b>, <b>Canyi</b> and Zhu, Changbo and Xu, Chunyan and Yan, Shuicheng and Lin, Zhouchen},
-  title = {Generalized Singular Value Thresholding},
-  booktitle = {AAAI Conference on Artificial Intelligence (<b>AAAI</b>)},
-  year = {2015}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2015imputation -->
-<li ><p>
-<b>Imputation of ChIP-seq datasets via Low Rank Convex Co-Embedding</b><br>
-Lin Zhu, Wei-Li Guo, De-Shuang Huang and Canyi Lu<br>
-<i>IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>)</i>,
-
-
-
-2015<br>
-<a href="javascript:toggleBibtex('lu2015imputation')" class="textlink">[bibtex]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2015imputation" class="bibtex noshow">
-<pre>
-@inproceedings{lu2015imputation,
-  author = {Lin Zhu and Wei-Li Guo and De-Shuang Huang and Canyi Lu},
-  title = {Imputation of ChIP-seq datasets via Low Rank Convex Co-Embedding},
-  booktitle = {IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>)},
-  year = {2015}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2015smoothed -->
-<li ><p>
-<b>Smoothed Low Rank and Sparse Matrix Recovery by Iteratively Reweighted Least Squares Minimization</b><br>
-<b>Canyi</b> <b>Lu</b>, Zhouchen Lin and Shuicheng Yan<br>
-
-<i>IEEE Transactions on Image Processing (<b>TIP</b>)</i>,
-vol. 24,
-pp. 646-654,
-2015<br>
-<a href="javascript:toggleBibtex('lu2015smoothed')" class="textlink">[bibtex]</a>
-<a href="../publications/2015-TIP-SmoothedLRR.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1401.7413" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/canyilu/Smoothed-LRR" class="textlink" target="_blank">[code]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2015smoothed" class="bibtex noshow">
-<pre>
-@article{lu2015smoothed,
-  author = {<b>Lu</b>, <b>Canyi</b> and Lin, Zhouchen and Yan, Shuicheng},
-  title = {Smoothed Low Rank and Sparse Matrix Recovery by Iteratively Reweighted Least Squares Minimization},
-  journal = {IEEE Transactions on Image Processing (<b>TIP</b>)},
-  year = {2015},
-  volume = {24},
-  number = {2},
-  pages = {646-654}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: nguyen2015adaptive -->
-<li ><p>
-<b>Adaptive Nonparametric Image Parsing</b><br>
-Tam V. Nguyen, <b>Canyi</b> <b>Lu</b>, Jose Sepulveda and Shuicheng Yan<br>
-
-<i>IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</i>,
-vol. 25,
-pp. 1565-1575,
-2015<br>
-<a href="javascript:toggleBibtex('nguyen2015adaptive')" class="textlink">[bibtex]</a>
-<a href="https://arxiv.org/abs/1505.01560" class="textlink" target="_blank">[arXiv]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_nguyen2015adaptive" class="bibtex noshow">
-<pre>
-@article{nguyen2015adaptive,
-  author = {Nguyen, Tam V and <b>Lu</b>, <b>Canyi</b> and Sepulveda, Jose and Yan, Shuicheng},
-  title = {Adaptive Nonparametric Image Parsing},
-  journal = {IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)},
-  publisher = {IEEE},
-  year = {2015},
-  volume = {25},
-  number = {10},
-  pages = {1565--1575}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: xu2015discriminative -->
-<li ><p>
-<b>Discriminative Analysis for Symmetric Positive Definite Matrices on Lie Groups</b><br>
-Chunyan Xu, <b>Canyi</b> <b>Lu</b>, Junbin Gao, Wei Zheng, Tianjiang Wang and Shuicheng Yan<br>
-
-<i>IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</i>,
-vol. 25,
-pp. 1576-1585,
-2015<br>
-<a href="javascript:toggleBibtex('xu2015discriminative')" class="textlink">[bibtex]</a>
-<a href="../publications/2015-TCSVT-DALie.pdf" class="textlink" target="_blank">[pdf]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_xu2015discriminative" class="bibtex noshow">
-<pre>
-@article{xu2015discriminative,
-  author = {Xu, Chunyan and <b>Lu</b>, <b>Canyi</b> and Gao, Junbin and Zheng, Wei and Wang, Tianjiang and Yan, Shuicheng},
-  title = {Discriminative Analysis for Symmetric Positive Definite Matrices on Lie Groups},
-  journal = {IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)},
-  publisher = {IEEE},
-  year = {2015},
-  volume = {25},
-  number = {10},
-  pages = {1576--1585}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: xu2015facial -->
-<li ><p>
-<b>Facial Analysis with a Lie Group Kernel</b><br>
-Chunyan Xu, <b>Canyi</b> <b>Lu</b>, Junbin Gao, Tianjiang Wang and Shuicheng Yan<br>
-
-<i>IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)</i>,
-vol. 25,
-pp. 1140-1150,
-2015<br>
-<a href="javascript:toggleBibtex('xu2015facial')" class="textlink">[bibtex]</a>
-<a href="../publications/2015-TCSVT-Lie.pdf" class="textlink" target="_blank">[pdf]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_xu2015facial" class="bibtex noshow">
-<pre>
-@article{xu2015facial,
-  author = {Xu, Chunyan and <b>Lu</b>, <b>Canyi</b> and Gao, Junbin and Wang, Tianjiang and Yan, Shuicheng},
-  title = {Facial Analysis with a Lie Group Kernel},
-  journal = {IEEE Transactions on Circuits and Systems for Video Technology (<b>TCSVT</b>)},
-  publisher = {IEEE},
-  year = {2015},
-  volume = {25},
-  number = {7},
-  pages = {1140--1150}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lai2014efficient -->
-<li ><p>
-<b>Efficient k-Support Matrix Pursuit</b><br>
-Hanjiang Lai, Yan Pan, <b>Canyi</b> <b>Lu</b>, Yong Tang and Shuicheng Yan<br>
-<i>European Conference on Computer Vision (<b>ECCV</b>)</i>,
-
-
-
-2014<br>
-<a href="javascript:toggleBibtex('lai2014efficient')" class="textlink">[bibtex]</a>
-<a href="../publications/2014-ECCV-ksupport.pdf" class="textlink" target="_blank">[pdf]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lai2014efficient" class="bibtex noshow">
-<pre>
-@inproceedings{lai2014efficient,
-  author = {Lai, Hanjiang and Pan, Yan and <b>Lu</b>, <b>Canyi</b> and Tang, Yong and Yan, Shuicheng},
-  title = {Efficient k-Support Matrix Pursuit},
-  booktitle = {European Conference on Computer Vision (<b>ECCV</b>)},
-  year = {2014}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2014generalized -->
-<li ><p>
-<b>Generalized Nonconvex Nonsmooth Low-Rank Minimization</b><br>
-<b>Canyi</b> <b>Lu</b>, Jinhui Tang, Shuicheng Yan and Zhouchen Lin<br>
-<i>IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>,
-
-
-
-2014<br>
-<a href="javascript:toggleBibtex('lu2014generalized')" class="textlink">[bibtex]</a>
-<a href="../publications/2014-CVPR-IRNN.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1404.7306" class="textlink" target="_blank">[arXiv]</a>
-<a href="../publications/2014-CVPR-IRNN-poster.pdf" class="textlink" target="_blank">[poster]</a>
-<a href="https://github.com/canyilu/IRNN" class="textlink" target="_blank">[code]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2014generalized" class="bibtex noshow">
-<pre>
-@inproceedings{lu2014generalized,
-  author = {<b>Lu</b>, <b>Canyi</b> and Tang, Jinhui and Yan, Shuicheng and Lin, Zhouchen},
-  title = {Generalized Nonconvex Nonsmooth Low-Rank Minimization},
-  booktitle = {IEEE International Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)},
-  year = {2014}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2014proximal -->
-<li ><p>
-<b>Proximal Iteratively Reweighted Algorithm with Multiple Splitting for Nonconvex Sparsity Optimization</b><br>
-<b>Canyi</b> <b>Lu</b>, Yunchao Wei, Zhouchen Lin and Shuicheng Yan<br>
-<i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>)</i>,
-
-
-
-2014<br>
-<a href="javascript:toggleBibtex('lu2014proximal')" class="textlink">[bibtex]</a>
-<a href="../publications/2014-AAAI-PIRE.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1404.6871" class="textlink" target="_blank">[arXiv]</a>
-<a href="../publications/2014-AAAI-PIRE-poster.pdf" class="textlink" target="_blank">[poster]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2014proximal" class="bibtex noshow">
-<pre>
-@inproceedings{lu2014proximal,
-  author = {<b>Lu</b>, <b>Canyi</b> and Wei, Yunchao and Lin, Zhouchen and Yan, Shuicheng},
-  title = {Proximal Iteratively Reweighted Algorithm with Multiple Splitting for Nonconvex Sparsity Optimization},
-  booktitle = {AAAI Conference on Artificial Intelligence (<b>AAAI</b>)},
-  year = {2014}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: wang2014robust -->
-<li ><p>
-<b>Robust Face Recognition via Adaptive Sparse Representation</b><br>
-Jing Wang, <b>Canyi</b> <b>Lu</b>, Meng Wang, Peipei Li, Shuicheng Yan and Xuegang Hu<br>
-
-<i>IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics (<b>TCYB</b>)</i>,
-vol. 44,
-pp. 2368-2378,
-2014<br>
-<a href="javascript:toggleBibtex('wang2014robust')" class="textlink">[bibtex]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_wang2014robust" class="bibtex noshow">
-<pre>
-@article{wang2014robust,
-  author = {Wang, Jing and <b>Lu</b>, <b>Canyi</b> and Wang, Meng and Li, Peipei and Yan, Shuicheng and Hu, Xuegang},
-  title = {Robust Face Recognition via Adaptive Sparse Representation},
-  journal = {IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics (<b>TCYB</b>)},
-  year = {2014},
-  volume = {44},
-  number = {12},
-  pages = {2368-2378}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2013correlation -->
-<li ><p>
-<b>Correlation Adaptive Subspace Segmentation by Trace Lasso</b><br>
-<b>Canyi</b> <b>Lu</b>, Jiashi Feng, Zhouchen Lin and Shuicheng Yan<br>
-<i>IEEE International Conference on Computer Vision (<b>ICCV</b>)</i>,
-
-
-
-2013<br>
-<a href="javascript:toggleBibtex('lu2013correlation')" class="textlink">[bibtex]</a>
-<a href="../publications/2013-ICCV-CASS.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1501.04276" class="textlink" target="_blank">[arXiv]</a>
-<a href="../publications/2013-ICCV-CASS-poster.pdf" class="textlink" target="_blank">[poster]</a>
-<a href="https://github.com/canyilu/LibADMM" class="textlink" target="_blank">[LibADMM Toolbox]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2013correlation" class="bibtex noshow">
-<pre>
-@inproceedings{lu2013correlation,
-  author = {<b>Lu</b>, <b>Canyi</b> and Feng, Jiashi and Lin, Zhouchen and Yan, Shuicheng},
-  title = {Correlation Adaptive Subspace Segmentation by Trace Lasso},
-  booktitle = {IEEE International Conference on Computer Vision (<b>ICCV</b>)},
-  year = {2013}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2013correntropy -->
-<li ><p>
-<b>Correntropy Induced L2 Graph for Robust Subspace Clustering</b><br>
-<b>Canyi</b> <b>Lu</b>, Jinhui Tang, Min Lin, Liang Lin, Shuicheng Yan and Zhouchen Lin<br>
-<i>IEEE International Conference on Computer Vision (<b>ICCV</b>)</i>,
-
-
-
-2013<br>
-<a href="javascript:toggleBibtex('lu2013correntropy')" class="textlink">[bibtex]</a>
-<a href="../publications/2013-ICCV-CIL2.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1501.04277" class="textlink" target="_blank">[arXiv]</a>
-<a href="../publications/2013-ICCV-CIL2-poster.pdf" class="textlink" target="_blank">[poster]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2013correntropy" class="bibtex noshow">
-<pre>
-@inproceedings{lu2013correntropy,
-  author = {<b>Lu</b>, <b>Canyi</b> and Tang, Jinhui and Lin, Min and Lin, Liang and Yan, Shuicheng and Lin, Zhouchen},
-  title = {Correntropy Induced L2 Graph for Robust Subspace Clustering},
-  booktitle = {IEEE International Conference on Computer Vision (<b>ICCV</b>)},
-  year = {2013}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2013face -->
-<li ><p>
-<b>Face Recognition via Weighted Sparse Representation</b><br>
-<b>Can-Yi</b> <b>Lu</b>, Hai Min, Jie Gui, Lin Zhu and Ying-Ke Lei<br>
-
-<i>Journal of Visual Communication and Image Representation (<b>JVCIR</b>)</i>,
-vol. 24,
-pp. 111-116,
-2013<br>
-<a href="javascript:toggleBibtex('lu2013face')" class="textlink">[bibtex]</a>
-<a href="https://www.sciencedirect.com/science/article/pii/S104732031200082X" class="textlink" target="_blank">[pdf]</a>
-<a href="https://github.com/canyilu/WSRC" class="textlink" target="_blank">[code]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2013face" class="bibtex noshow">
-<pre>
-@article{lu2013face,
-  author = {<b>Lu</b>, <b>Can-Yi</b> and Min, Hai and Gui, Jie and Zhu, Lin and Lei, Ying-Ke},
-  title = {Face Recognition via Weighted Sparse Representation},
-  journal = {Journal of Visual Communication and Image Representation (<b>JVCIR</b>)},
-  publisher = {Elsevier},
-  year = {2013},
-  volume = {24},
-  number = {2},
-  pages = {111--116}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2013optimized -->
-<li ><p>
-<b>Optimized Projections for Sparse Representation based Classification</b><br>
-<b>Can-Yi</b> <b>Lu</b> and De-Shuang Huang<br>
-
-<i>Neurocomputing</i>,
-vol. 113,
-pp. 213-219,
-2013<br>
-<a href="javascript:toggleBibtex('lu2013optimized')" class="textlink">[bibtex]</a>
-<a href="../publications/2013-Neurocomputing-OPSRC.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://github.com/canyilu/OP-SRC" class="textlink" target="_blank">[code]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2013optimized" class="bibtex noshow">
-<pre>
-@article{lu2013optimized,
-  author = {<b>Lu</b>, <b>Can-Yi</b> and Huang, De-Shuang},
-  title = {Optimized Projections for Sparse Representation based Classification},
-  journal = {Neurocomputing},
-  publisher = {Elsevier},
-  year = {2013},
-  volume = {113},
-  pages = {213--219}
-}
-</pre></div>
-</li>
-
-
-
-
-<!-- Item: lu2012robust -->
-<li ><p>
-<b>Robust and Efficient Subspace Segmentation via Least Squares Regression</b><br>
-<b>Can-Yi</b> <b>Lu</b>, Hai Min, Zhong-Qiu Zhao, Lin Zhu, De-Shuang Huang and Shuicheng Yan<br>
-<i>European Conference on Computer Vision (<b>ECCV</b>)</i>,
-
-
-pp. 347-360,
-2012<br>
-<a href="javascript:toggleBibtex('lu2012robust')" class="textlink">[bibtex]</a>
-<a href="../publications/2012-ECCV-LSR.pdf" class="textlink" target="_blank">[pdf]</a>
-<a href="https://arxiv.org/abs/1404.6736" class="textlink" target="_blank">[arXiv]</a>
-<a href="../publications/2012-ECCV-LSR-poster.pdf" class="textlink" target="_blank">[poster]</a>
-<a href="../publications/2012-ECCV-LSR-slides.pdf" class="textlink" target="_blank">[slides]</a>
-<a href="https://github.com/canyilu/LSR" class="textlink" target="_blank">[code]</a>
-
-
-</p>
-
-
-
-
-<div id="bib_lu2012robust" class="bibtex noshow">
-<pre>
-@inproceedings{lu2012robust,
-  author = {<b>Lu</b>, <b>Can-Yi</b> and Min, Hai and Zhao, Zhong-Qiu and Zhu, Lin and Huang, De-Shuang and Yan, Shuicheng},
-  title = {Robust and Efficient Subspace Segmentation via Least Squares Regression},
-  booktitle = {European Conference on Computer Vision (<b>ECCV</b>)},
-  publisher = {Springer},
-  year = {2012},
-  pages = {347--360}
-}
-</pre></div>
-</li>
-
-
-
-
+</li>   
+   
+   
+   
 </ol>
 
 
