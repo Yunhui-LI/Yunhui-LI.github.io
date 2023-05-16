@@ -55,7 +55,7 @@ function toggleBibtex(articleid) {
 <!-- Item: xiu2023 -->
 <li ><p>
 <b>Robust transfer subspace learning: A novel data-driven scheme for fault diagnosis</b><br>
-<b>Xianchao Xiu</b>, Fuchao Yu, Ying Yang, and Wanquan Liu<br>
+Fuchao Yu, <b>Xianchao Xiu*</b>, Ying Yang, and Wanquan Liu<br>
 <i>IEEE Transactions on Instrumentation and Measurement}</i>,
 under review<br>
 </p>
@@ -78,7 +78,7 @@ under review<br>
 <!-- Item: xiu2023 -->
 <li ><p>
 <b>An enhanced regularized clustering method with adaptive spurious connections detection</b><br>
-Huangyue Chen, Lingchen Kong, Wentao Qu, and <b>Xianchao Xiu</b><br>
+Huangyue Chen, Lingchen Kong, Wentao Qu, and <b>Xianchao Xiu*</b><br>
 <i>IEEE Signal Processing Letters</i>,
 under review<br>
 </p>
@@ -89,7 +89,7 @@ under review<br>
 <!-- Item: xiu2023 -->
 <li ><p>
 <b>A new RNN-based monitoring framework for nonlinear dynamic processes with unknown noise statistics</b><br>
-<b>Xianchao Xiu</b>, Yuhan Zhang, and Ying Yang<br>
+<b>Xianchao Xiu</b>, Yuhan Zhang, and Ying Yang*<br>
 <i>IEEE Transactions on Industrial Informatics</i>,
 under review<br>
 </p>
@@ -101,7 +101,7 @@ under review<br>
 <!-- Item: xiu2023 -->
 <li ><p>
 <b>ERSLDA: Efficient and robust sparse LDA for image classification</b><br>
-Jingjing Liu, Manlong Feng, <b>Xianchao Xiu</b>, et al<br>
+Jingjing Liu, Manlong Feng, <b>Xianchao Xiu*</b>, et al<br>
 <i>IEEE Transactions on Circuits and Systems for Video Technology</i>,
 major revision<br>
 </p>
@@ -113,7 +113,7 @@ major revision<br>
 <!-- Item: xiu2023leanring -->
 <li ><p>
 <b>Learning high-order multi-view representation by new tensor canonical correlation analysis</b><br>
-Jianqin Sun, <b>Xianchao Xiu</b>, Ziyan Luo, and Wanquan Liu<br>
+Jianqin Sun, <b>Xianchao Xiu</b>, Ziyan Luo*, and Wanquan Liu<br>
 <i>IEEE Transactions on Circuits and Systems for Video Technology</i>,
 2023<br>
 <a href="javascript:toggleBibtex('xiu2023leanring')" class="textlink">[bibtex]</a>
@@ -140,7 +140,7 @@ Jianqin Sun, <b>Xianchao Xiu</b>, Ziyan Luo, and Wanquan Liu<br>
 <!-- Item: zhang2023structured -->
 <li ><p>
 <b>Structured joint sparse orthogonal nonnegative matrix factorization for fault detection</b><br>
-Xi Zhang, <b>Xianchao Xiu</b>, and Chao Zhang<br>
+Xi Zhang, <b>Xianchao Xiu</b>, and Chao Zhang*<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i>,
 vol. 72,
 pp. 1-15,
@@ -166,7 +166,7 @@ pp. 1-15,
 <!-- Item: qu2023efficient -->
 <li ><p>
 <b>An efficient semi-proximal ADMM algorithm for low-rank and sparse regularized matrix minimization problems with real-world applications </b><br>
-Wentao Qu, <b>Xianchao Xiu</b>, Haifei Zhang, and Jun Fan<br>
+Wentao Qu, <b>Xianchao Xiu</b>, Haifei Zhang, and Jun Fan*<br>
 <i>Journal of Computational and Applied Mathematics</i>,
 vol. 424,
 pp. 115007,
@@ -195,7 +195,7 @@ pp. 115007,
 <!-- Item: xiu2023learning -->
 <li ><p>
 <b>Learning sparse kernel CCA with graph priors for nonlinear process monitoring</b><br>
-<b>Xianchao Xiu</b> and Yunhui Li<br>
+<b>Xianchao Xiu</b> and Yunhui Li*<br>
 <i>IEEE Sensors Journal</i>,
 vol. 23,
 pp. 7381-7389,
@@ -224,7 +224,7 @@ pp. 7381-7389,
 <!-- Item: xiu2022sparsity -->
 <li ><p>
 <b>A sparsity-aware fault diagnosis framework focusing on accurate isolation</b><br>
-<b>Xianchao Xiu</b>, Zhonghua Miao, and Wanquan Liu<br>
+<b>Xianchao Xiu</b>, Zhonghua Miao, and Wanquan Liu*<br>
 <i>IEEE Transactions on Industrial Informatics</i>,
 vol. 19,
 pp. 1356-1365,
@@ -252,7 +252,7 @@ pp. 1356-1365,
 <!-- Item: xiu2022efficient -->
 <li ><p>
 <b>Efficient and fast joint sparse constrained canonical correlation analysis for fault detection</b><br>
-<b>Xianchao Xiu</b>, Lili Pan, Ying Yang, and Wanquan Liu<br>
+<b>Xianchao Xiu</b>, Lili Pan, Ying Yang*, and Wanquan Liu<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i>,
 2022<br>
 <a href="javascript:toggleBibtex('xiu2022efficient')" class="textlink">[bibtex]</a>
@@ -275,7 +275,7 @@ pp. 1356-1365,
 <!-- Item: xiu2021deep -->
 <li ><p>
 <b>Deep canonical correlation analysis using sparsity-constrained optimization for nonlinear process monitoring</b><br>
-<b>Xianchao Xiu</b>, Zhonghua Miao, Ying Yang, and Wanquan Liu<br>
+<b>Xianchao Xiu</b>, Zhonghua Miao, Ying Yang*, and Wanquan Liu<br>
 <i>IEEE Transactions on Industrial Informatics</i>,
 vol. 18,
 pp. 6690-6699,
@@ -303,7 +303,7 @@ pp. 6690-6699,
 <!-- Item: miao2022efficient -->
 <li ><p>
 <b>Efficient and robust process monitoring using structured low-rank representation</b><br>
-Zhonghua Miao, <b>Xianchao Xiu</b><br>
+Zhonghua Miao, <b>Xianchao Xiu*</b><br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
 vol. 69,
 pp. 3530-3534,
@@ -330,7 +330,7 @@ pp. 3530-3534,
 <!-- Item: gao2022fusion -->
 <li ><p>
 <b>Fusion-UDCGAN: Multifocus image fusion via a U-type densely connected generation adversarial network</b><br>
-Yuan Gao, Shiwei Ma, Jingjing Liu, and <b>Xianchao Xiu</b><br>
+Yuan Gao, Shiwei Ma*, Jingjing Liu, and <b>Xianchao Xiu</b><br>
 <i>IEEE Transactions on Instrumentation and Measurement</i>,
 vol. 71,
 pp. 1-13,
@@ -356,7 +356,7 @@ pp. 1-13,
 <!-- Item: li2021efficient -->
 <li ><p>
 <b>An efficient Newton-based method for sparse generalized canonical correlation analysis</b><br>
-Xinrong Li, <b>Xianchao Xiu</b>, Wanquan Liu, and Zhonghua Miao<br>
+Xinrong Li, <b>Xianchao Xiu*</b>, Wanquan Liu, and Zhonghua Miao<br>
 <i>IEEE Signal Processing Letters</i>,
 vol. 29,
 pp. 125-129,
@@ -383,7 +383,7 @@ pp. 125-129,
 <!-- Item: ni2022towards -->
 <li ><p>
 <b>Towards efficient state of charge estimation of lithium-ion batteries using canonical correlation analysis</b><br>
-Zichuan Ni, <b>Xianchao Xiu</b>, and Ying Yang<br>
+Zichuan Ni, <b>Xianchao Xiu</b>, and Ying Yang*<br>
 <i>Energy</i>,
 vol. 254,
 pp. 124415,
@@ -410,7 +410,7 @@ pp. 124415,
 <!-- Item: zhang2021data -->
 <li ><p>
 <b>A data-driven modeling method for stochastic nonlinear degradation process with application to RUL estimation</b><br>
-Yuhan Zhang, Ying Yang, He Li, <b>Xianchao Xiu</b>, and Wanquan Liu<br>
+Yuhan Zhang, Ying Yang*, He Li, <b>Xianchao Xiu</b>, and Wanquan Liu<br>
 <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>,
 vol. 52,
 pp. 3847-3858,
@@ -438,7 +438,7 @@ pp. 3847-3858,
 <!-- Item: xiu2021fault -->
 <li ><p>
 <b>Fault detection using structured joint sparse nonnegative matrix factorization</b><br>
-<b>Xianchao Xiu</b>, Jun Fan, Ying Yang, and Wanquan Liu<br>
+<b>Xianchao Xiu</b>, Jun Fan, Ying Yang*, and Wanquan Liu<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i>,
 vol. 70,
 pp. 1-11,
@@ -465,7 +465,7 @@ pp. 1-11,
 <!-- Item: xiu2021data -->
 <li ><p>
 <b>Data-driven process monitoring using structured joint sparse canonical correlation analysis</b><br>
-<b>Xianchao Xiu</b>, Ying Yang, Lingchen Kong, and Wanquan Liu<br>
+<b>Xianchao Xiu</b>, Ying Yang*, Lingchen Kong, and Wanquan Liu<br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
 vol. 68,
 pp. 361-365,
@@ -493,7 +493,7 @@ pp. 361-365,
 <!-- Item: zhang2020remaining -->
 <li ><p>
 <b>A remaining useful life prediction method in the early stage of stochastic degradation process</b><br>
-Yuhan Zhang, Ying Yang, <b>Xianchao Xiu</b>, He Li, and Ruijie Liu<br>
+Yuhan Zhang, Ying Yang*, <b>Xianchao Xiu</b>, He Li, and Ruijie Liu<br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
 vol. 68,
 pp. 2027-2031,
@@ -523,7 +523,7 @@ pp. 2027-2031,
 <!-- Item: xiu2020tssnalm -->
 <li ><p>
 <b>tSSNALM: A fast two-stage semi-smooth Newton augmented Lagrangian method for sparse CCA</b><br>
-<b>Xianchao Xiu</b>, Ying Yang, Lingchen Kong, and Wanquan Liu<br>
+<b>Xianchao Xiu</b>, Ying Yang*, Lingchen Kong, and Wanquan Liu<br>
 <i>Applied Mathematics and Computation</i>,
 vol. 383,
 pp. 125272,
@@ -550,7 +550,7 @@ pp. 125272,
 <!-- Item: xiu2020laplacian -->
 <li ><p>
 <b>Laplacian regularized robust principal component analysis for process monitoring</b><br>
-<b>Xianchao Xiu</b>, Ying Yang, Lingchen Kong, and Wanquan Liu<br>
+<b>Xianchao Xiu</b>, Ying Yang*, Lingchen Kong, and Wanquan Liu<br>
 <i>Journal of Process Control</i>,
 vol. 92,
 pp. 212-219,
@@ -577,7 +577,7 @@ pp. 212-219,
 <!-- Item: xiu2019alternating -->
 <li ><p>
 <b>Alternating direction method of multipliers for nonconvex fused regression problems</b><br>
-<b>Xianchao Xiu</b>, Wanquan Liu, Ling Li, and Lingchen Kong<br>
+<b>Xianchao Xiu*</b>, Wanquan Liu, Ling Li, and Lingchen Kong<br>
 <i>Computational Statistics and Data Analysis</i>,
 vol. 136,
 pp. 59-71,
@@ -604,7 +604,7 @@ pp. 59-71,
 <!-- Item: xiu2018iterative -->
 <li ><p>
 <b>Iterative reweighted methods for L1-Lp minimization</b><br>
-<b>Xianchao Xiu</b>, Lingchen Kong, Yan Li, and Houduo Qi<br>
+<b>Xianchao Xiu*</b>, Lingchen Kong, Yan Li, and Houduo Qi<br>
 <i>Computational Optimization and Applications</i>,
 vol. 70,
 pp. 201-219,
