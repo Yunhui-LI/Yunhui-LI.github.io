@@ -30,16 +30,15 @@ owner:
   avatar: xianchaoxiu.jpg
   bio: "Department of Automation Shanghai University"
   email: xcxiu@shu.edu.cn
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  google: 
+    google: 
     plus: 
     scholar: https://scholar.google.com/citations?user=hkXRhggAAAAJ&hl=zh-CN&oi=ao
     analytics:
     verify:
     ad-client:
     ad-slot:
+  twitter: #username
+  facebook: #username
   bing-verify:
   github: xianchaoxiu
   orcid: https://orcid.org/my-orcid?orcid=0000-0002-3374-7413
