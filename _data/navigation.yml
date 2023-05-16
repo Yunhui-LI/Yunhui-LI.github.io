@@ -9,26 +9,15 @@
  #{{ site.url }}
   
   
-- title: Research
-  url: /research
-
-#- title: Teaching
-#  url: /teaching
-
 - title: Publications
   url: /publications
-
-#- title: Blog
-#  url: /posts
+  
+- title: Teaching
+  url: /teaching
  
-- title: Code
-  url: /code
- 
-- title: Academic Services
+- title: Services
   url: /services
   
-- title: Awards
-  url: /awards
+- title: Group
+  url: /group
 
-#- title: Theme Setup
-#  url: /theme-setup/
