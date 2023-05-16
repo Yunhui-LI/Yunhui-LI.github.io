@@ -10,6 +10,7 @@ share: false
 ### Graduate Students
 
 * Anning Yang (2022.09-)
+* Jianqin Sun (2021.09-)
 * Fuchao Yu (2021.09-)
 
 
