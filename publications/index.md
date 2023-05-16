@@ -67,7 +67,7 @@ under review<br>
 <!-- Item: xiu2023 -->
 <li ><p>
 <b>Structured sparse linear discriminant analysis for unsupervised feature selection</b><br>
-Jingjing Liu, <b>Xianchao Xiu</b>, and Wanquan Liu<br>
+Jingjing Liu, <b>Xianchao Xiu*</b>, and Wanquan Liu<br>
 <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>,
 under review<br>
 </p>
