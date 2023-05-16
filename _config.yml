@@ -26,24 +26,24 @@ kramdown:
 
 # Site owner
 owner:
-  name: Canyi Lu
-  avatar: canyilu.jpg
-  bio: "Postdoctoral Research Associate at Carnegie Mellon University."
-  email: canyilu@gmail.com
+  name: Xianchao Xiu
+  avatar: xianchaoxiu.jpg
+  bio: "Department of Automation Shanghai University"
+  email: xcxiu@shu.edu.cn
   disqus-shortname:
   twitter: #username
   facebook: #username
   google: 
     plus: 
-    scholar: https://scholar.google.com/citations?user=EZcKJi4AAAAJ&hl=en
+    scholar: https://scholar.google.com/citations?user=hkXRhggAAAAJ&hl=zh-CN&oi=ao
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: canyilu
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: canyilu
+  github: xianchaoxiu
+  orcid: https://orcid.org/my-orcid?orcid=0000-0002-3374-7413
+  linkedin: #canyilu
   xing: #username
   instagram: #username
   lastfm: #username
