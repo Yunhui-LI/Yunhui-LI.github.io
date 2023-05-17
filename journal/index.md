@@ -5,7 +5,7 @@ modified: 2014-07-31T13:23:02.362000-04:00
 share: false
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?user=hkXRhggAAAAJ&hl=zh-CN&oi=ao" target="_blank" style="text-decoration:underline;">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Xianchao-Xiu" target="_blank" style="text-decoration:underline;">ResearchGate</a>
+
 
 
 <style>
@@ -618,7 +618,7 @@ pp. 201-219,
 </li>   
    
 
-   
+You can also browse my <a href="https://scholar.google.com/citations?user=hkXRhggAAAAJ&hl=zh-CN&oi=ao" target="_blank" style="text-decoration:underline;">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Xianchao-Xiu" target="_blank" style="text-decoration:underline;">ResearchGate</a>   
    
 </ol>
 
