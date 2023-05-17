@@ -47,29 +47,7 @@ function toggleBibtex(articleid) {
 <ol class="biblist">
    
   
-   
-  
-   
-   
-<!-- Item: xiu2023 -->
-<li ><p>
-<b>Distributed sparsity constrained optimization with Stiefel manifolds </b><br>
-Wentao Qu, Huangyue Chen, <b>Xianchao Xiu*</b>, and Wanquan Liu<br>
-<i>IEEE Transactions on Image Processing}</i>,
-under review<br>
-</p>
-</li>
-   
-   
-   
-<!-- Item: xiu2023 -->
-<li ><p>
-<b>Robust transfer subspace learning: A novel data-driven scheme for fault diagnosis</b><br>
-Fuchao Yu, <b>Xianchao Xiu*</b>, Ying Yang, and Wanquan Liu<br>
-<i>IEEE Transactions on Instrumentation and Measurement}</i>,
-under review<br>
-</p>
-</li>
+ 
    
    
    
