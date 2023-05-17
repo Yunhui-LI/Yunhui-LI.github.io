@@ -47,15 +47,17 @@ function toggleBibtex(articleid) {
 <ol class="biblist">
    
 <li ><p>
-<b>激光雷达和IMU系统的时空联合标定方法</b><br>
-<i>发明专利</i>
+激光雷达和IMU系统的时空联合标定方法<br>
+<i>发明专利</i>,
+202310208025X<br>
 </p>
 </li>   
 
    
 <li ><p>
-<b>基于聚类算法的自监督轴承故障诊断方法</b><br>
-<i>发明专利</i>
+基于聚类算法的自监督轴承故障诊断方法<br>
+ <i>发明专利</i>,
+CN115791179A<br>
 </p>
 </li>   
 
