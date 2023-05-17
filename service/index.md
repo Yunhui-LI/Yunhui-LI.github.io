@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /services/
-title: Services
-tags: [services]
+permalink: /service/
+title: Service
+tags: [service]
 modified: 03-22-2023
 comments: false
 share: false
