@@ -11,7 +11,7 @@ share: false
 
 ### Presentation
 
-* 2023.05, The 14th Conference on Mathematical Optimization, Chengdu, China <a href="../group/2023-MOS.pdf" class="textlink" target="_blank">[pdf]</a>
+* 2023.05, The 14th Conference on Mathematical Optimization (MOS2023), Chengdu, China <a href="../activity/2023-MOS.pdf" class="textlink" target="_blank">[pdf]</a>
 
 
 ### Member of
