@@ -66,6 +66,16 @@ under review<br>
 </li>
    
    
+<!-- Item: xiu2023 -->
+<li ><p>
+<b>An efficient L1/2-regularized Huber method for robust phase retrieval</b><br>
+Ailing Yan, Xiaoming Wen, Jun Fan, and <b>Xianchao Xiu*</b><br>
+<i>IEEE Signal Processing Letters</i>,
+major revision<br>
+</p>
+</li>
+   
+   
    
 <!-- Item: xiu2023 -->
 <li ><p>
