@@ -50,9 +50,6 @@ function toggleBibtex(articleid) {
 
 <ol class="biblist">
    
-  
- 
-   
 
    
    
@@ -61,12 +58,21 @@ function toggleBibtex(articleid) {
 <b>Structured sparse linear discriminant analysis for unsupervised feature selection</b><br>
 Jingjing Liu, <b>Xianchao Xiu*</b>, and Wanquan Liu<br>
 <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>,
-under review<br>
+finished<br>
 </p>
 </li>
    
    
 
+<!-- Item: xiu2023 -->
+<li ><p>
+<b>Distributed sparsity constrained optimization with Stiefel manifolds</b><br>
+Wentao Qu, Huangyue Chen, <b>Xianchao Xiu*</b>, and Wanquan Liu<br>
+<i>IEEE Transactions on Image Processing</i>,
+finished<br>
+</p>
+</li>
+   
    
    
 <!-- Item: xiu2023 -->
