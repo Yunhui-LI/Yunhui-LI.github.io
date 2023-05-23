@@ -59,7 +59,7 @@ function toggleBibtex(articleid) {
 <li ><p>
 <b>Distributed sparsity constrained optimization with Stiefel manifolds</b><br>
 Wentao Qu, Huangyue Chen, <b>Xianchao Xiu*</b>, and Wanquan Liu<br>
-<i>IEEE Transactions on Image Processing</i>,
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>,
 under review<br>
 </p>
 </li>
