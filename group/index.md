@@ -7,10 +7,7 @@ share: false
 ---
 
 
-I am now recruiting graduate students who are interested in real applications and have certain mathematical abilities. Reference books:
-* Z. Zhou, Machine Learning (in Chinese)
-* S. Boyd, L. Vandenberghe, Convex Optimization
-* H. Liu, J. Hu, Y. Li, Z. Wen, Optimization: Modeling, Algorithm and Theory (in Chinese)
+
 
 
 ### Graduate Students
