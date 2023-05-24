@@ -7,6 +7,9 @@ share: false
 ---
 
 
+I am now recruiting graduate students who are interested in real applications and have certain mathematical abilities. Email me for details.
+
+
 ### Graduate Students
 
 * Anning Yang (2022.09-)
