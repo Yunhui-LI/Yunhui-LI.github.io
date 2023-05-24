@@ -9,7 +9,7 @@ share: false
 ---
 
 
-### Services
+### Service
 
 * Member of Committee of Shanghai Operational Research Society (SORS)
 * Member of Institute of Electrical and Electronics Engineers (IEEE)
@@ -18,7 +18,7 @@ share: false
 * Member of Mathematical Reviews (MR)
 
 
-### Awards
+### Award
 
 * Tai'an Science and Technology Progress Award, 2022
 * Shanghai University Youth Talent Sailing Programy, 2022
