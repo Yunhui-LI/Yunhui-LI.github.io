@@ -53,140 +53,57 @@ function toggleBibtex(articleid) {
   
   
 <li ><p>
-<b>Sparse canonical correlation analysis: From matrix to tensor</b><br>
+<b>Sparse canonical correlation analysis: From matrix to tensor</b> <a href="../conference/2023-MOS.pdf" class="textlink" target="_blank">[pdf]</a> <br>
 <i>Mathematical Optimization Society (MOS)</i>,
 Chendu, China, 2023<br>
-<a href="../conference/2023-MOS.pdf" class="textlink" target="_blank">[pdf]</a>
+
 
 
    
 <li ><p>
-<b>A sparse semismooth Newton-based manifold algorithm for partial least squares</b><br>
+<b>A sparse semismooth Newton-based manifold algorithm for partial least squares</b> <a href="../conferences/2022-CAC.pdf" class="textlink" target="_blank">[pdf]</a> <br>
 <i>China Automation Congress (CAC)</i>,
 Xiamen, China, 2022<br>
-<a href="javascript:toggleBibtex('xiu2022sparse')" class="textlink">[bibtex]</a>
-<a href="../conferences/2022-CAC.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_xiu2022sparse" class="bibtex noshow">
-<pre>
-@inproceedings{xiu2022sparse,
-  title={A Sparse Semismooth Newton-Based Manifold Algorithm for Partial Least Squares},
-  author={Xiu, Xianchao and Liu, Ruijie and Miao, Zhonghua},
-  booktitle={2022 China Automation Congress (CAC)},
-  pages={4345--4349},
-  year={2022},
-  organization={IEEE}
-}
-</pre></div>
-</li>
+
+
    
    
    
 <li ><p>
-<b>Performance-based fault detection for model-free automatic control systems</b><br>
+<b>Performance-based fault detection for model-free automatic control systems</b> <a href="../conference/2022-CAC2.pdf" class="textlink" target="_blank">[pdf]</a> <br>
 <i>China Automation Congress (CAC)</i>,
 Xiamen, China, 2022<br>
-<a href="javascript:toggleBibtex('liu2022performance')" class="textlink">[bibtex]</a>
-<a href="../conference/2022-CAC2.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_liu2022performance" class="bibtex noshow">
-<pre>
-@inproceedings{liu2022performance,
-  title={Performance-Based Fault Detection for Model-Free Automatic Control Systems},
-  author={Liu, Ruijie and Xiu, Xianchao and Tian, Engang},
-  booktitle={2022 China Automation Congress (CAC)},
-  pages={6092--6097},
-  year={2022},
-  organization={IEEE}
-}
-</pre></div>
-</li>
+
    
  
 <li ><p>
-<b>Fault detection based on canonical correlation analysis with rank constrained optimization</b><br>
+<b>Fault detection based on canonical correlation analysis with rank constrained optimization</b>  <a href="../conference/2021-CCC.pdf" class="textlink" target="_blank">[pdf]</a> <br>
 <i>Chinese Control Conference (CCC)</i>,
 Shanghai, China, 2021<br>
-<a href="javascript:toggleBibtex('zhang2021fault')" class="textlink">[bibtex]</a>
-<a href="../conference/2021-CCC.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_zhang2021fault" class="bibtex noshow">
-<pre>
-@inproceedings{zhang2021fault,
-  title={Fault Detection Based on Canonical Correlation Analysis with Rank Constrained Optimization},
-  author={Zhang, Yuhan and Xiu, Xianchao and Yang, Ying and Liu, Wanquan},
-  booktitle={2021 40th Chinese Control Conference (CCC)},
-  pages={4333--4338},
-  year={2021},
-  organization={IEEE}
-}
-</pre></div>
-</li>
+
    
 
    
    
 <li ><p>
-<b>A data driven RUL prediction and predictive maintenance for stochastic degrading systems</b><br>
+<b>A data driven RUL prediction and predictive maintenance for stochastic degrading systems</b> <a href="../conference/2021-SAFEPROCESS.pdf" class="textlink" target="_blank">[pdf]</a> <br>
 <i>CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (SAFEPROCESS)</i>,
 Chendu, China, 2021<br>
-<a href="javascript:toggleBibtex('zhang2021data')" class="textlink">[bibtex]</a>
-<a href="../conference/2021-SAFEPROCESS.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_zhang2021data" class="bibtex noshow">
-<pre>
-@inproceedings{zhang2021data,
-  title={A Data Driven RUL Prediction and Predictive Maintenance for Stochastic Degrading Systems},
-  author={Zhang, Yuhan and Xiu, Xianchao and Yang, Ying},
-  booktitle={2021 CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (SAFEPROCESS)},
-  pages={1--5},
-  year={2021},
-  organization={IEEE}
-}
-</pre></div>
-</li>
+
    
    
    
 <li ><p>
-<b>Battery state of charge estimation using long short-term memory network and extended Kalman filter</b><br>
+<b>Battery state of charge estimation using long short-term memory network and extended Kalman filter</b> <a href="../conference/2020-CCC.pdf" class="textlink" target="_blank">[pdf]</a> <br>
 <i>Chinese Control Conference (CCC)</i>,
 Beijing, China, 2020<br>
-<a href="javascript:toggleBibtex('ni2020battery')" class="textlink">[bibtex]</a>
-<a href="../conference/2020-CCC.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_ni2020battery" class="bibtex noshow">
-<pre>
-@inproceedings{ni2020battery,
-  title={Battery State of Charge Estimation Using Long Short-Term Memory Network and Extended Kalman Filter},
-  author={Ni, Zichuan and Yang, Ying and Xiu, Xianchao},
-  booktitle={2020 39th Chinese Control Conference (CCC)},
-  pages={5778--5783},
-  year={2020},
-  organization={IEEE}
-}
-</pre></div>
-</li>
+
    
    
   
  <li ><p>
-<b>A highly efficient joint sparsity constrained robust principal component analysis for fault diagnosis</b><br>
+<b>A highly efficient joint sparsity constrained robust principal component analysis for fault diagnosis</b> <a href="../conference/2020-DDCLS.pdf" class="textlink" target="_blank">[pdf]</a> <br>
 <i>IEEE 9th Data Driven Control and Learning Systems Conference (DDCLS)</i>,
 Liuzhou, China, 2020<br>
-<a href="javascript:toggleBibtex('xiu2020highly')" class="textlink">[bibtex]</a>
-<a href="../conference/2020-DDCLS.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_xiu2020highly" class="bibtex noshow">
-<pre>
-@inproceedings{xiu2020highly,
-  title={A Highly Efficient Joint Sparsity Constrained Robust Principal Component Analysis for Fault Diagnosis},
-  author={Xiu, Xianchao and Yang, Ying and Kong, Lingchen and Liu, Wanquan},
-  booktitle={2020 IEEE 9th Data Driven Control and Learning Systems Conference (DDCLS)},
-  pages={36--41},
-  year={2020},
-  organization={IEEE}
-}
-</pre></div>
-</li>  
+
   
