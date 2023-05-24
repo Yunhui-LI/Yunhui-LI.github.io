@@ -6,11 +6,6 @@ comments: false
 share: false
 ---
 
-References
-* Z. Zhou, Machine Learning (in Chinese)
-* S. Boyd, L. Vandenberghe, Convex Optimization
-* H. Liu, J. Hu, Y. Li, Z. Wen, Optimization: Modeling, Algorithm and Theory (in Chinese)
-
 
 ### Operations Research
 
