@@ -6,6 +6,12 @@ comments: false
 share: false
 ---
 
+References
+* Z. Zhou, Machine Learning (in Chinese)
+* S. Boyd, L. Vandenberghe, Convex Optimization
+* H. Liu, J. Hu, Y. Li, Z. Wen, Optimization: Modeling, Algorithm and Theory (in Chinese)
+
+
 ### Operations Research
 
 * Introduction                   <a href="OR/Intro.pdf" class="textlink" target="_blank">[pdf]</a>
@@ -15,7 +21,7 @@ share: false
 * Game Theory                    <a href="OR/Intro.pdf" class="textlink" target="_blank">[pdf]</a>
 * Decison Theory                 <a href="OR/Intro.pdf" class="textlink" target="_blank">[pdf]</a>
 
-### Optimization Theory and Algorithms
+### Optimization Methods
 
 * Introduction                            <a href="OTA/Intro.pdf" class="textlink" target="_blank">[pdf]</a>
 * Basics                                  <a href="OTA/Intro.pdf" class="textlink" target="_blank">[pdf]</a>
@@ -25,3 +31,8 @@ share: false
 * Unconstrained Optimization Algorithms   <a href="OTA/Intro.pdf" class="textlink" target="_blank">[pdf]</a>
 * Constrained Optimization Algorithms     <a href="OTA/Intro.pdf" class="textlink" target="_blank">[pdf]</a>
 * Composite Optimization Algorithms       <a href="OTA/Intro.pdf" class="textlink" target="_blank">[pdf]</a>
+
+
+
+
+
