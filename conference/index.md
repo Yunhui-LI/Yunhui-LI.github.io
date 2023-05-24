@@ -55,17 +55,15 @@ function toggleBibtex(articleid) {
 <li ><p>
 <b>Sparse canonical correlation analysis: From matrix to tensor</b><br>
 <i>Mathematical Optimization Society (MOS)</i>,
-2023<br>
+Chendu, China, 2023<br>
 <a href="../conference/2023-MOS.pdf" class="textlink" target="_blank">[pdf]</a>
-</pre></div>
-</li>
 
 
    
 <li ><p>
 <b>A sparse semismooth Newton-based manifold algorithm for partial least squares</b><br>
 <i>China Automation Congress (CAC)</i>,
-2022<br>
+Xiamen, China, 2022<br>
 <a href="javascript:toggleBibtex('xiu2022sparse')" class="textlink">[bibtex]</a>
 <a href="../conferences/2022-CAC.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
@@ -87,7 +85,7 @@ function toggleBibtex(articleid) {
 <li ><p>
 <b>Performance-based fault detection for model-free automatic control systems</b><br>
 <i>China Automation Congress (CAC)</i>,
-2022<br>
+Xiamen, China, 2022<br>
 <a href="javascript:toggleBibtex('liu2022performance')" class="textlink">[bibtex]</a>
 <a href="../conference/2022-CAC2.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
@@ -108,7 +106,7 @@ function toggleBibtex(articleid) {
 <li ><p>
 <b>Fault detection based on canonical correlation analysis with rank constrained optimization</b><br>
 <i>Chinese Control Conference (CCC)</i>,
-2021<br>
+Shanghai, China, 2021<br>
 <a href="javascript:toggleBibtex('zhang2021fault')" class="textlink">[bibtex]</a>
 <a href="../conference/2021-CCC.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
@@ -131,7 +129,7 @@ function toggleBibtex(articleid) {
 <li ><p>
 <b>A data driven RUL prediction and predictive maintenance for stochastic degrading systems</b><br>
 <i>CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (SAFEPROCESS)</i>,
-2021<br>
+Chendu, China, 2021<br>
 <a href="javascript:toggleBibtex('zhang2021data')" class="textlink">[bibtex]</a>
 <a href="../conference/2021-SAFEPROCESS.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
@@ -153,7 +151,7 @@ function toggleBibtex(articleid) {
 <li ><p>
 <b>Battery state of charge estimation using long short-term memory network and extended Kalman filter</b><br>
 <i>Chinese Control Conference (CCC)</i>,
-2020<br>
+Beijing, China, 2020<br>
 <a href="javascript:toggleBibtex('ni2020battery')" class="textlink">[bibtex]</a>
 <a href="../conference/2020-CCC.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
@@ -175,7 +173,7 @@ function toggleBibtex(articleid) {
  <li ><p>
 <b>A highly efficient joint sparsity constrained robust principal component analysis for fault diagnosis</b><br>
 <i>IEEE 9th Data Driven Control and Learning Systems Conference (DDCLS)</i>,
-2020<br>
+Liuzhou, China, 2020<br>
 <a href="javascript:toggleBibtex('xiu2020highly')" class="textlink">[bibtex]</a>
 <a href="../conference/2020-DDCLS.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
@@ -191,7 +189,4 @@ function toggleBibtex(articleid) {
 }
 </pre></div>
 </li>  
-   
-
-   
-</ol>
+  
