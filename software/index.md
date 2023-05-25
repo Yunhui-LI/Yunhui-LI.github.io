@@ -47,9 +47,8 @@ function toggleBibtex(articleid) {
 <ol class="biblist">
    
 <li ><p>
-RONMF： Robust Orthogonal Nonnegative Matrix Factorization<br>
-<i>Updting</i>,
-2023<br>
+RONMF: Robust Orthogonal Nonnegative Matrix Factorization<br>
+<a href="../conferences/2022-CAC.pdf" class="textlink" target="_blank">[code]</a>  <a href="../conferences/2022-CAC.pdf" class="textlink" target="_blank">[pdf]</a> 
 </p>
 </li>   
 
