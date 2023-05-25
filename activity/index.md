@@ -20,6 +20,5 @@ share: false
 
 ### Award
 
-* Tai'an Science and Technology Progress Award, 2022
 * Shanghai University Youth Talent Sailing Programy, 2022
 * Best Paper Nomination Award, Data Driven Control and Learning Systems Conference (DDCLS), 2020
