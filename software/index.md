@@ -47,8 +47,8 @@ function toggleBibtex(articleid) {
 <ol class="biblist">
    
 <li ><p>
-A Unified Nonconvex Framework for Robust Nonnegative Matrix Factorization<br>
-<i>updting</i>,
+RONMF： Robust Orthogonal Nonnegative Matrix Factorization<br>
+<i>Updting</i>,
 2023<br>
 </p>
 </li>   
