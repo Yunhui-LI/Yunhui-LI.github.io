@@ -58,7 +58,7 @@ A Unified Nonconvex Framework for Robust Nonnegative Matrix Factorization<br>
    
    
 
-### Patent
+### Patent (in Chinese)
 <style>
 .biblist { }
 
