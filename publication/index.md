@@ -50,14 +50,7 @@ function toggleBibtex(articleid) {
    
 
    
-<!-- Item: xiu2023 -->
-<li ><p>
-<b>An efficient L1/2-regularized Huber method for robust phase retrieval</b><br>
-Ju Fan, Xiaomi Wen, <b>Xianchao Xiu</b>, and Ailing Yan*<br>
-<i>IEEE Signal Processing Letters</i>,
-under review<br>
-</p>
-</li> 
+
    
 
 <!-- Item: xiu2023 -->
@@ -104,7 +97,16 @@ major revision<br>
 </li>   
   
   
-    
+<!-- Item: xiu2023 -->
+<li ><p>
+<b>An efficient L1/2-regularized Huber method for robust phase retrieval</b><br>
+Ju Fan, Xiaomi Wen, <b>Xianchao Xiu</b>, and Ailing Yan*<br>
+<i>IEEE Signal Processing Letters</i>,
+major revision<br>
+</p>
+</li> 
+   
+   
    
 <!-- Item: xiu2023leanring -->
 <li ><p>
