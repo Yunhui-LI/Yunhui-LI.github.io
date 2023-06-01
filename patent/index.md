@@ -5,6 +5,8 @@ modified: 2023-05-17
 share: false
 ---
 
+Those marked by ‘*’ have been granted
+
 <style>
 .biblist { }
 
@@ -47,16 +49,14 @@ function toggleBibtex(articleid) {
    
 <li ><p>
 激光雷达和IMU系统的时空联合标定方法<br>
-<i>国家发明专利</i>,
-2023<br>
+<i>202310208025X</i>
 </p>
 </li>   
 
    
 <li ><p>
 基于聚类算法的自监督轴承故障诊断方法<br>
-<i>国家发明专利</i>,
-2023<br>
+<i>CN115791179A</i>
 </p>
 </li>   
 
