@@ -97,14 +97,6 @@ major revision<br>
 </li>   
   
   
-<!-- Item: xiu2023 -->
-<li ><p>
-<b>An efficient L1/2-regularized Huber method for robust phase retrieval</b><br>
-Ju Fan, Xiaomi Wen, <b>Xianchao Xiu</b>, and Ailing Yan*<br>
-<i>IEEE Signal Processing Letters</i>,
-major revision<br>
-</p>
-</li> 
    
    
    
@@ -129,65 +121,6 @@ Jianqin Sun, <b>Xianchao Xiu</b>, Ziyan Luo*, and Wanquan Liu<br>
 </pre></div>
 </li>
    
-   
-  
-   
-   
-
-
-<!-- Item: zhang2023structured -->
-<li ><p>
-<b>Structured joint sparse orthogonal nonnegative matrix factorization for fault detection</b><br>
-Xi Zhang, <b>Xianchao Xiu</b>, and Chao Zhang*<br>
-<i>IEEE Transactions on Instrumentation and Measurement</i>,
-vol. 72,
-pp. 1-15,
-2023<br>
-<a href="javascript:toggleBibtex('zhang2023structured')" class="textlink">[bibtex]</a>
-<a href="../publications/2023-TIM.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_zhang2023structured" class="bibtex noshow">
-<pre>
-@article{zhang2023structured,
-  title={Structured joint sparse orthogonal nonnegative matrix factorization for fault detection},
-  author={Zhang, Xi and Xiu, Xianchao and Zhang, Chao},
-  journal={IEEE Transactions on Instrumentation and Measurement},
-  volume={72},
-  pages={1--15},
-  year={2023},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
-   
-
-<!-- Item: qu2023efficient -->
-<li ><p>
-<b>An efficient semi-proximal ADMM algorithm for low-rank and sparse regularized matrix minimization problems with real-world applications </b><br>
-Wentao Qu, <b>Xianchao Xiu</b>, Haifei Zhang, and Jun Fan*<br>
-<i>Journal of Computational and Applied Mathematics</i>,
-vol. 424,
-pp. 115007,
-2023<br>
-<a href="javascript:toggleBibtex('qu2023efficient')" class="textlink">[bibtex]</a>
-<a href="../publications/2023-JCAM.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_qu2023efficient" class="bibtex noshow">
-<pre>
-@article{qu2023efficient,
-  title={An efficient semi-proximal ADMM algorithm for low-rank and sparse regularized matrix minimization problems with real-world applications},
-  author={Qu, Wentao and Xiu, Xianchao and Zhang, Haifei and Fan, Jun},
-  journal={Journal of Computational and Applied Mathematics},
-  volume={424},
-  pages={115007},
-  year={2023},
-  publisher={Elsevier}
-}
-</pre></div>
-</li>
-   
-
- 
    
    
 <!-- Item: xiu2023learning -->
@@ -297,58 +230,7 @@ pp. 6690-6699,
 </li>
    
 
-   
-<!-- Item: miao2022efficient -->
-<li ><p>
-<b>Efficient and robust process monitoring using structured low-rank representation</b><br>
-Zhonghua Miao, <b>Xianchao Xiu*</b><br>
-<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
-vol. 69,
-pp. 3530-3534,
-2022<br>
-<a href="javascript:toggleBibtex('miao2022efficient')" class="textlink">[bibtex]</a>
-<a href="../publications/2022-TCSII.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_miao2022efficient" class="bibtex noshow">
-<pre>
-@article{miao2022efficient,
-  title={Efficient and robust process monitoring using structured low-rank representation},
-  author={Miao, Zhonghua and Xiu, Xianchao},
-  journal={IEEE Transactions on Circuits and Systems II: Express Briefs},
-  volume={69},
-  number={8},
-  pages={3530--3534},
-  year={2022},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
-   
-   
-<!-- Item: gao2022fusion -->
-<li ><p>
-<b>Fusion-UDCGAN: Multifocus image fusion via a U-type densely connected generation adversarial network</b><br>
-Yuan Gao, Shiwei Ma*, Jingjing Liu, and <b>Xianchao Xiu</b><br>
-<i>IEEE Transactions on Instrumentation and Measurement</i>,
-vol. 71,
-pp. 1-13,
-2022<br>
-<a href="javascript:toggleBibtex('gao2022fusion')" class="textlink">[bibtex]</a>
-<a href="../publications/2022-TIM.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_gao2022fusion" class="bibtex noshow">
-<pre>
-@article{gao2022fusion,
-  title={Fusion-UDCGAN: Multifocus image fusion via a U-type densely connected generation adversarial network},
-  author={Gao, Yuan and Ma, Shiwei and Liu, Jingjing and Xiu, Xianchao},
-  journal={IEEE Transactions on Instrumentation and Measurement},
-  volume={71},
-  pages={1-13},
-  year={2022},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
+
    
    
 <!-- Item: li2021efficient -->
@@ -376,62 +258,6 @@ pp. 125-129,
 </pre></div>
 </li>
   
-   
- 
-<!-- Item: ni2022towards -->
-<li ><p>
-<b>Towards efficient state of charge estimation of lithium-ion batteries using canonical correlation analysis</b><br>
-Zichuan Ni, <b>Xianchao Xiu</b>, and Ying Yang*<br>
-<i>Energy</i>,
-vol. 254,
-pp. 124415,
-2022<br>
-<a href="javascript:toggleBibtex('ni2022towards')" class="textlink">[bibtex]</a>
-<a href="../publications/2022-Energy.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_ni2022towards" class="bibtex noshow">
-<pre>
-@article{ni2022towards,
-  title={Towards efficient state of charge estimation of lithium-ion batteries using canonical correlation analysis},
-  author={Ni, Zichuan and Xiu, Xianchao and Yang, Ying},
-  journal={Energy},
-  volume={254},
-  pages={124415},
-  year={2022},
-  publisher={Elsevier}
-}
-</pre></div>
-</li>
-
-
-  
-<!-- Item: zhang2021data -->
-<li ><p>
-<b>A data-driven modeling method for stochastic nonlinear degradation process with application to RUL estimation</b><br>
-Yuhan Zhang, Ying Yang*, He Li, <b>Xianchao Xiu</b>, and Wanquan Liu<br>
-<i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>,
-vol. 52,
-pp. 3847-3858,
-2022<br>
-<a href="javascript:toggleBibtex('zhang2021data')" class="textlink">[bibtex]</a>
-<a href="../publications/2022-TSMC.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_ni2022towards" class="bibtex noshow">
-<pre>
-@article{zhang2021data,
-  title={A data-driven modeling method for stochastic nonlinear degradation process with application to RUL estimation},
-  author={Zhang, Yuhan and Yang, Ying and Li, He and Xiu, Xianchao and Liu, Wanquan},
-  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
-  volume={52},
-  number={6},
-  pages={3847--3858},
-  year={2022},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
-   
-   
    
 <!-- Item: xiu2021fault -->
 <li ><p>
@@ -486,144 +312,6 @@ pp. 361-365,
 </pre></div>
 </li>
    
-   
-   
-<!-- Item: zhang2020remaining -->
-<li ><p>
-<b>A remaining useful life prediction method in the early stage of stochastic degradation process</b><br>
-Yuhan Zhang, Ying Yang*, <b>Xianchao Xiu</b>, He Li, and Ruijie Liu<br>
-<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
-vol. 68,
-pp. 2027-2031,
-2021<br>
-<a href="javascript:toggleBibtex('zhang2020remaining')" class="textlink">[bibtex]</a>
-<a href="../publications/2021-TCSIIb.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_zhang2020remaining" class="bibtex noshow">
-<pre>
-@article{zhang2020remaining,
-  title={A remaining useful life prediction method in the early stage of stochastic degradation process},
-  author={Zhang, Yuhan and Yang, Ying and Xiu, Xianchao and Li, He and Liu, Ruijie},
-  journal={IEEE Transactions on Circuits and Systems II: Express Briefs},
-  volume={68},
-  number={6},
-  pages={2027--2031},
-  year={2021},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
-   
-  
-   
-   
-   
-<!-- Item: xiu2020tssnalm -->
-<li ><p>
-<b>tSSNALM: A fast two-stage semi-smooth Newton augmented Lagrangian method for sparse CCA</b><br>
-<b>Xianchao Xiu</b>, Ying Yang*, Lingchen Kong, and Wanquan Liu<br>
-<i>Applied Mathematics and Computation</i>,
-vol. 383,
-pp. 125272,
-2020<br>
-<a href="javascript:toggleBibtex('xiu2020tssnalm')" class="textlink">[bibtex]</a>
-<a href="../publications/2020-AMC.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_xiu2020tssnalm" class="bibtex noshow">
-<pre>
-@article{xiu2020tssnalm,
-  title={tSSNALM: A fast two-stage semi-smooth Newton augmented Lagrangian method for sparse CCA},
-  author={Xiu, Xianchao and Yang, Ying and Kong, Lingchen and Liu, Wanquan},
-  journal={Applied Mathematics and Computation},
-  volume={383},
-  pages={125272},
-  year={2020},
-  publisher={Elsevier}
-}
-</pre></div>
-</li>
-   
-   
-
-<!-- Item: xiu2020laplacian -->
-<li ><p>
-<b>Laplacian regularized robust principal component analysis for process monitoring</b><br>
-<b>Xianchao Xiu</b>, Ying Yang*, Lingchen Kong, and Wanquan Liu<br>
-<i>Journal of Process Control</i>,
-vol. 92,
-pp. 212-219,
-2020<br>
-<a href="javascript:toggleBibtex('xiu2020laplacian')" class="textlink">[bibtex]</a>
-<a href="../publications/2020-JPC.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_xiu2020laplacian" class="bibtex noshow">
-<pre>
-@article{xiu2020laplacian,
-  title={Laplacian regularized robust principal component analysis for process monitoring},
-  author={Xiu, Xianchao and Yang, Ying and Kong, Lingchen and Liu, Wanquan},
-  journal={Journal of Process Control},
-  volume={92},
-  pages={212-219},
-  year={2020},
-  publisher={Elsevier}
-}
-</pre></div>
-</li>
-   
-   
-   
-<!-- Item: xiu2019alternating -->
-<li ><p>
-<b>Alternating direction method of multipliers for nonconvex fused regression problems</b><br>
-<b>Xianchao Xiu*</b>, Wanquan Liu, Ling Li, and Lingchen Kong<br>
-<i>Computational Statistics and Data Analysis</i>,
-vol. 136,
-pp. 59-71,
-2019<br>
-<a href="javascript:toggleBibtex('xiu2019alternating')" class="textlink">[bibtex]</a>
-<a href="../publications/2019-CSDA.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_xiu2019alternating" class="bibtex noshow">
-<pre>
-@article{xiu2019alternating,
-  title={Alternating direction method of multipliers for nonconvex fused regression problems},
-  author={Xiu, Xianchao and Liu, Wanquan and Li, Ling and Kong, Lingchen},
-  journal={Computational Statistics \& Data Analysis},
-  volume={136},
-  pages={59--71},
-  year={2019},
-  publisher={Elsevier}
-}
-</pre></div>
-</li>   
-   
-   
-   
-<!-- Item: xiu2018iterative -->
-<li ><p>
-<b>Iterative reweighted methods for L1-Lp minimization</b><br>
-<b>Xianchao Xiu*</b>, Lingchen Kong, Yan Li, and Houduo Qi<br>
-<i>Computational Optimization and Applications</i>,
-vol. 70,
-pp. 201-219,
-2018<br>
-<a href="javascript:toggleBibtex('xiu2018iterative')" class="textlink">[bibtex]</a>
-<a href="../publications/2018-COAP.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_xiu2018iterative" class="bibtex noshow">
-<pre>
-@article{xiu2018iterative,
-  title={Iterative reweighted methods for L1-Lp minimization},
-  author={Xiu, Xianchao and Kong, Lingchen and Li, Yan and Qi, Houduo},
-  journal={Computational Optimization and Applications},
-  volume={70},
-  number={1},
-  pages={201--219},
-  year={2018},
-  publisher={Springer}
-}
-</pre></div>
-</li>   
    
 
    
