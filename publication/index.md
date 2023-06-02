@@ -49,18 +49,7 @@ function toggleBibtex(articleid) {
 <ol class="biblist">
    
 
-   
-
-   
-
-<!-- Item: xiu2023 -->
-<li ><p>
-<b>Distributed sparsity constrained optimization with Stiefel manifolds</b><br>
-Wentao Qu, Huangyue Chen, <b>Xianchao Xiu*</b>, and Wanquan Liu<br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i>,
-under review<br>
-</p>
-</li>
+  
    
    
    
