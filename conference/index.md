@@ -57,12 +57,6 @@ function toggleBibtex(articleid) {
 <i>CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (SAFEPROCESS)</i>,
 Yibin, China, 2023<br>
     
-    
-    
-<li ><p>
-<b>Sparse canonical correlation analysis: From matrix to tensor</b> <a href="../conference/2023-MOS.pdf" class="textlink" target="_blank">[pdf]</a> <br>
-<i>Mathematical Optimization Society (MOS)</i>,
-Chendu, China, 2023<br>
 
 
 
