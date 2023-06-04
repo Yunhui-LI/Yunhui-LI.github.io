@@ -16,7 +16,7 @@ share: false
 * Member of Institute of Electrical and Electronics Engineers (IEEE)
 * Member of Operational Research Society of China (ORSC)
 * Member of Chinese Association of Automation (CAA) 
-* Reviewer for IEEE TPAMI, SIOPT, MP
+* Reviewer for TPAMI, TAC, SIOPT, MP
 
 ### Award
 
