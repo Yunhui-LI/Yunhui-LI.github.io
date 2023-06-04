@@ -47,43 +47,6 @@ function toggleBibtex(articleid) {
 
 
 <ol class="biblist">
-   
-
-  
-   
-   
-   
-<!-- Item: xiu2023 -->
-<li ><p>
-<b>An enhanced regularized clustering method with adaptive spurious connections detection</b><br>
-Huangyue Chen, Lingchen Kong, Wentao Qu, and <b>Xianchao Xiu*</b><br>
-<i>IEEE Signal Processing Letters</i>,
-under review<br>
-</p>
-</li>
-   
-   
-   
-<!-- Item: xiu2023 -->
-<li ><p>
-<b>A new RNN-based monitoring framework for nonlinear dynamic processes with unknown noise statistics</b><br>
-<b>Xianchao Xiu</b>, Yuhan Zhang, and Ying Yang*<br>
-<i>IEEE Transactions on Industrial Informatics</i>,
-under review<br>
-</p>
-</li>
-   
- 
-   
-
-<!-- Item: xiu2023 -->
-<li ><p>
-<b>ERSLDA: Efficient and robust sparse LDA for image classification</b><br>
-Jingjing Liu, Manlong Feng, <b>Xianchao Xiu*</b>, et al<br>
-<i>IEEE Transactions on Circuits and Systems for Video Technology</i>,
-major revision<br>
-</p>
-</li>   
   
   
    
