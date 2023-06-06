@@ -16,10 +16,8 @@ share: false
 * Member of Institute of Electrical and Electronics Engineers (IEEE)
 * Member of Operational Research Society of China (ORSC)
 * Member of Chinese Association of Automation (CAA) 
-* Reviewer for TPAMI, TAC, SIOPT, MP
 
 ### Award
 
-* Top 10 excellent teachers, Department of Automation, 2022
 * Youth Talent Sailing Programy, Shanghai University, 2022
 * Best Paper Nomination Award, Data Driven Control and Learning Systems Conference (DDCLS), 2020
