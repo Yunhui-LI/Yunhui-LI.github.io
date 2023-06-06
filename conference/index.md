@@ -65,7 +65,11 @@ Yibin, China, 2023<br>
 Xiamen, China, 2022<br>
 
 
-
+<li ><p>
+<b>Fault detection based on canonical correlation analysis with rank constrained optimization</b> <a href="../conferences/2021-CCC.pdf" class="textlink" target="_blank">[pdf]</a> <br>
+<i>Chinese Control Conference (CCC)</i>,
+Shanghai, China, 2021<br>
+   
    
   
  <li ><p>
