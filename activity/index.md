@@ -13,9 +13,7 @@ share: false
 
 * Member of Committee of Shanghai Operational Research Society (SORS)
 * Member of Mathematical Reviews (MR)
-* Member of Institute of Electrical and Electronics Engineers (IEEE)
-* Member of Operational Research Society of China (ORSC)
-* Member of Chinese Association of Automation (CAA) 
+* Member of IEEE, ORSC, CAA 
 
 ### Award
 
