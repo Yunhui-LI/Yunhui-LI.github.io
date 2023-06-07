@@ -59,7 +59,7 @@ Jianqin Sun, <b>Xianchao Xiu</b>, Ziyan Luo*, and Wanquan Liu<br>
 <i>IEEE Transactions on Circuits and Systems for Video Technology</i>,
 2023<br>
 <a href="javascript:toggleBibtex('xiu2023leanring')" class="textlink">[bibtex]</a>
-<a href="../publications/2023-TCSVT.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="../journal/2023-TCSVT.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="bib_xiu2023leanring" class="bibtex noshow">
 <pre>
@@ -84,7 +84,7 @@ vol. 23,
 pp. 7381-7389,
 2023<br>
 <a href="javascript:toggleBibtex('xiu2023learning')" class="textlink">[bibtex]</a>
-<a href="../publications/2023-JSEN.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="../journal/2023-JSEN.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="bib_xiu2023learning" class="bibtex noshow">
 <pre>
@@ -113,7 +113,7 @@ vol. 19,
 pp. 1356-1365,
 2023<br>
 <a href="javascript:toggleBibtex('xiu2022sparsity')" class="textlink">[bibtex]</a>
-<a href="../publications/2023-TII.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="../journal/2023-TII.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="bib_xiu2022sparsity" class="bibtex noshow">
 <pre>
@@ -139,7 +139,7 @@ pp. 1356-1365,
 <i>IEEE Transactions on Neural Networks and Learning Systems</i>,
 2022<br>
 <a href="javascript:toggleBibtex('xiu2022efficient')" class="textlink">[bibtex]</a>
-<a href="../publications/2022-TNNLS.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="../journal/2022-TNNLS.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="bib_xiu2022efficient" class="bibtex noshow">
 <pre>
@@ -164,7 +164,7 @@ vol. 18,
 pp. 6690-6699,
 2022<br>
 <a href="javascript:toggleBibtex('xiu2021deep')" class="textlink">[bibtex]</a>
-<a href="../publications/2022-TII.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="../journal/2022-TII.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="bib_xiu2021deep" class="bibtex noshow">
 <pre>
@@ -194,7 +194,7 @@ vol. 29,
 pp. 125-129,
 2022<br>
 <a href="javascript:toggleBibtex('li2021efficient')" class="textlink">[bibtex]</a>
-<a href="../publications/2022-SPL.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="../journal/2022-SPL.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="bib_li2021efficient" class="bibtex noshow">
 <pre>
@@ -220,7 +220,7 @@ vol. 70,
 pp. 1-11,
 2021<br>
 <a href="javascript:toggleBibtex('xiu2021fault')" class="textlink">[bibtex]</a>
-<a href="../publications/2021-TIM.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="../journal/2021-TIM.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="bib_xiu2021fault" class="bibtex noshow">
 <pre>
@@ -247,7 +247,7 @@ vol. 68,
 pp. 361-365,
 2021<br>
 <a href="javascript:toggleBibtex('xiu2021data')" class="textlink">[bibtex]</a>
-<a href="../publications/2021-TCSIIa.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="../journal/2021-TCSIIa.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="bib_xiu2021data" class="bibtex noshow">
 <pre>
