@@ -13,7 +13,7 @@ share: false
 
 * Member of Committee of Shanghai Operational Research Society (SORS)
 * Member of Mathematical Reviews (MR)
-* Member of IEEE, ORSC, CAA 
+* Member of IEEE, SIAM, ORSC, CAA 
 
 ### Award
 
