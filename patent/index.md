@@ -47,9 +47,26 @@ function toggleBibtex(articleid) {
 
 <ol class="biblist">
    
+   
+<li ><p>
+一种鲁棒转移子空间学习算法的故障诊断技术<br>
+<i>submitted</i>
+</p>
+</li>   
+   
+   
+   
+<li ><p>
+基于深度域适应的小样本故障诊断技术<br>
+<i>submitted</i>
+</p>
+</li>   
+   
+   
+   
 <li ><p>
 激光雷达和IMU系统的时空联合标定方法<br>
-<i>202310208025X</i>
+<i>submitted</i>
 </p>
 </li>   
 
