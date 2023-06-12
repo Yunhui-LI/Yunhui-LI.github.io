@@ -135,7 +135,7 @@ pp. 1356-1365,
 <!-- Item: li2022towards -->
 <li ><p>
 <b>Towards efficient process monitoring using spatiotemporal PCA</b><br>
-Yunhui Li, <b>Xianchao Xiu*</b>, and Wanquan Liu*<br>
+Yunhui Li, <b>Xianchao Xiu*</b>, and Wanquan Liu<br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
 vol. 70,
 pp. 551-555,
