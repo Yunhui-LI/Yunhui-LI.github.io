@@ -102,6 +102,35 @@ pp. 7381-7389,
 </li> 
    
 
+
+   
+<!-- Item: zhang2023structured -->
+<li ><p>
+<b>Structured joint sparse orthogonal nonnegative matrix factorization for fault detection</b><br>
+Xi Zhang, <b>Xianchao Xiu</b>, and Chao Zhang*<br>
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+vol. 72,
+pp. 1-15,
+2023<br>
+<a href="javascript:toggleBibtex('zhang2023structured')" class="textlink">[bibtex]</a>
+<a href="../journal/2023-TII.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_zhang2023structured" class="bibtex noshow">
+<pre>
+@article{zhang2023structured,
+  title={Structured joint sparse orthogonal nonnegative matrix factorization for fault detection},
+  author={Zhang, Xi and Xiu, Xianchao and Zhang, Chao},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={72},
+  pages={1--15},
+  year={2023},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+   
+   
+   
    
    
 <!-- Item: xiu2022sparsity -->
