@@ -131,6 +131,33 @@ pp. 1356-1365,
 </li>
    
   
+
+<!-- Item: li2022towards -->
+<li ><p>
+<b>Towards efficient process monitoring using spatiotemporal PCA</b><br>
+Yunhui Li, <b>Xianchao Xiu*</b>, and Wanquan Liu*<br>
+<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
+vol. 70,
+pp. 551-555,
+2023<br>
+<a href="javascript:toggleBibtex('li2022towards')" class="textlink">[bibtex]</a>
+<a href="../journal/2023-TCSII.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_li2022towards" class="bibtex noshow">
+<pre>
+@article{li2022towards,
+  title={Towards efficient process monitoring using spatiotemporal PCA},
+  author={Li, Yunhui and Xiu, Xianchao and Liu, Wanquan},
+  journal={IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume={70},
+  number={2},
+  pages={551--555},
+  year={2023},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+   
    
 <!-- Item: xiu2022efficient -->
 <li ><p>
@@ -183,6 +210,34 @@ pp. 6690-6699,
    
 
 
+   
+<!-- Item: miao2022efficient -->
+<li ><p>
+<b>Efficient and robust process monitoring using structured low-rank representation</b><br>
+Zhonghua Miao and  <b>Xianchao Xiu*</b><br>
+<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
+vol. 69,
+pp. 3530-3534,
+2022<br>
+<a href="javascript:toggleBibtex('miao2022efficient')" class="textlink">[bibtex]</a>
+<a href="../journal/2022-TCSII.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_miao2022efficient" class="bibtex noshow">
+<pre>
+@article{miao2022efficient,
+  title={Efficient and robust process monitoring using structured low-rank representation},
+  author={Miao, Zhonghua and Xiu, Xianchao},
+  journal={IEEE Transactions on Circuits and Systems II: Express Briefs},
+  volume={69},
+  number={8},
+  pages={3530--3534},
+  year={2022},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+   
+   
    
    
 <!-- Item: li2021efficient -->
