@@ -113,7 +113,7 @@ vol. 72,
 pp. 1-15,
 2023<br>
 <a href="javascript:toggleBibtex('zhang2023structured')" class="textlink">[bibtex]</a>
-<a href="../journal/2023-TII.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="../journal/2023-TIM.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="bib_zhang2023structured" class="bibtex noshow">
 <pre>
