@@ -47,6 +47,9 @@ function toggleBibtex(articleid) {
 
 <ol class="biblist">
    
+
+
+
    
 <li ><p>
 一种鲁棒转移子空间学习算法的故障诊断技术<br>
@@ -62,8 +65,12 @@ function toggleBibtex(articleid) {
 </p>
 </li>   
    
-   
-   
+ <li ><p>  
+基于位姿预测和轨迹优化的无人机引导降落方法
+<i>submitted</i>
+</p>
+</li> 
+
 <li ><p>
 激光雷达和IMU系统的时空联合标定方法<br>
 <i>submitted</i>
