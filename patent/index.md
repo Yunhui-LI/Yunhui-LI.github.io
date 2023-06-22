@@ -66,7 +66,7 @@ function toggleBibtex(articleid) {
 </li>   
    
  <li ><p>  
-基于位姿预测和轨迹优化的无人机引导降落方法
+基于位姿预测和轨迹优化的无人机引导降落方法<br>
 <i>submitted</i>
 </p>
 </li> 
