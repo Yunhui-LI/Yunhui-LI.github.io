@@ -8,7 +8,7 @@ share: false
 You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xiu" target="_blank" style="text-decoration:underline;">ResearchGate</a>
 
 
-### Data-driven fault diagnosis
+
 <style>
 .biblist { }
 
@@ -46,15 +46,9 @@ function toggleBibtex(articleid) {
 }
 </script>
 
-
+### Data-driven fault diagnosis
 <ol class="biblist">
-  
-  
-   
-   
-   
 
-   
    
 <!-- Item: xiu2023learning -->
 <li ><p>
@@ -306,47 +300,13 @@ pp. 361-365,
 </pre></div>
 </li>
    
-   
+
+
+</ol>
+
+
+
 ### Large-scale pattern recognition
-
-<style>
-.biblist { }
-
-/* The item */
-.biblist li { }
-
-/* You can define custom styles for plstyle field here. */
-
-
-/*************************************
-   The box that contain BibTeX code
- *************************************/
-div.noshow { display: none; }
-div.bibtex {
-  margin-right: 0%;
-  margin-top: 1.2em;
-  margin-bottom: 1.3em;
-  border: 1px solid silver;
-  padding: 0.3em 0.5em;
-  background: #eeeeee;
-}
-div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; }
-</style>
-
-<script>
-function toggleBibtex(articleid) {
-  var bib = document.getElementById('bib_'+articleid);
-  if (bib) {
-    if(bib.className.indexOf('bibtex') != -1) {
-    bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
-    }
-  } else {
-    return;
-  }
-}
-</script>
-
-
 <ol class="biblist">
   
 
@@ -371,47 +331,10 @@ Jianqin Sun, <b>Xianchao Xiu</b>, Ziyan Luo*, and Wanquan Liu<br>
 </pre></div>
 </li>
    
+</ol>
+
 
 ### Sparse nonliear programming
-
-<style>
-.biblist { }
-
-/* The item */
-.biblist li { }
-
-/* You can define custom styles for plstyle field here. */
-
-
-/*************************************
-   The box that contain BibTeX code
- *************************************/
-div.noshow { display: none; }
-div.bibtex {
-  margin-right: 0%;
-  margin-top: 1.2em;
-  margin-bottom: 1.3em;
-  border: 1px solid silver;
-  padding: 0.3em 0.5em;
-  background: #eeeeee;
-}
-div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; }
-</style>
-
-<script>
-function toggleBibtex(articleid) {
-  var bib = document.getElementById('bib_'+articleid);
-  if (bib) {
-    if(bib.className.indexOf('bibtex') != -1) {
-    bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
-    }
-  } else {
-    return;
-  }
-}
-</script>
-
-
 <ol class="biblist">
   
 
