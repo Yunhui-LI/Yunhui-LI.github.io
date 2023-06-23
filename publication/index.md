@@ -416,7 +416,7 @@ pp. 124415,
 <!-- Item: liu2021manifold -->
 <li ><p>
 <b>Manifold constrained joint sparse learning via non-convex regularization</b><br>
-Jinfjing Liu, <b>Xianchao Xiu</b>, Xin Jiang, Wanquan Liu, Xiaoyang Zeng*, Mingyu Wang, and Hui Chen<br>
+Jingjing Liu, <b>Xianchao Xiu</b>, Xin Jiang, Wanquan Liu, Xiaoyang Zeng*, Mingyu Wang, and Hui Chen<br>
 <i>Neurocomputing</i>,
 vol. 458,
 pp. 112-126,
