@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Journal
+title: Publication
 modified: 2023-05-17 
 share: false
 ---
