@@ -8,6 +8,7 @@ share: false
 You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xiu" target="_blank" style="text-decoration:underline;">ResearchGate</a>
 
 
+### Data-driven fault diagnosis
 <style>
 .biblist { }
 
@@ -52,27 +53,7 @@ function toggleBibtex(articleid) {
    
    
    
-<!-- Item: xiu2023leanring -->
-<li ><p>
-<b>Learning high-order multi-view representation by new tensor canonical correlation analysis</b><br>
-Jianqin Sun, <b>Xianchao Xiu</b>, Ziyan Luo*, and Wanquan Liu<br>
-<i>IEEE Transactions on Circuits and Systems for Video Technology</i>,
-2023<br>
-<a href="javascript:toggleBibtex('xiu2023leanring')" class="textlink">[bibtex]</a>
-<a href="../journal/2023-TCSVT.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_xiu2023leanring" class="bibtex noshow">
-<pre>
-@article{xiu2023leanring,
-  title={Learning high-order multi-view representation by new tensor canonical correlation analysis},
-  author={Sun, Jianqin and Xiu, Xianchao and Luo, Ziyan and Liu, Wanquan},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2023},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
-   
+
    
    
 <!-- Item: xiu2023learning -->
@@ -269,30 +250,7 @@ pp. 3530-3534,
    
    
    
-<!-- Item: li2021efficient -->
-<li ><p>
-<b>An efficient Newton-based method for sparse generalized canonical correlation analysis</b><br>
-Xinrong Li, <b>Xianchao Xiu*</b>, Wanquan Liu, and Zhonghua Miao<br>
-<i>IEEE Signal Processing Letters</i>,
-vol. 29,
-pp. 125-129,
-2022<br>
-<a href="javascript:toggleBibtex('li2021efficient')" class="textlink">[bibtex]</a>
-<a href="../journal/2022-SPL.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_li2021efficient" class="bibtex noshow">
-<pre>
-@article{li2021efficient,
-  title={An efficient Newton-based method for sparse generalized canonical correlation analysis},
-  author={Li, Xinrong and Xiu, Xianchao and Liu, Wanquan and Miao, Zhonghua},
-  journal={IEEE Signal Processing Letters},
-  volume={29},
-  pages={125--129},
-  year={2022},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
+
   
    
 <!-- Item: xiu2021fault -->
@@ -349,6 +307,55 @@ pp. 361-365,
 </li>
    
    
+### Large-scale pattern recognition
 
+<!-- Item: xiu2023leanring -->
+<li ><p>
+<b>Learning high-order multi-view representation by new tensor canonical correlation analysis</b><br>
+Jianqin Sun, <b>Xianchao Xiu</b>, Ziyan Luo*, and Wanquan Liu<br>
+<i>IEEE Transactions on Circuits and Systems for Video Technology</i>,
+2023<br>
+<a href="javascript:toggleBibtex('xiu2023leanring')" class="textlink">[bibtex]</a>
+<a href="../journal/2023-TCSVT.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_xiu2023leanring" class="bibtex noshow">
+<pre>
+@article{xiu2023leanring,
+  title={Learning high-order multi-view representation by new tensor canonical correlation analysis},
+  author={Sun, Jianqin and Xiu, Xianchao and Luo, Ziyan and Liu, Wanquan},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2023},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+   
+
+### Sparse nonliear programming
+
+<!-- Item: li2021efficient -->
+<li ><p>
+<b>An efficient Newton-based method for sparse generalized canonical correlation analysis</b><br>
+Xinrong Li, <b>Xianchao Xiu*</b>, Wanquan Liu, and Zhonghua Miao<br>
+<i>IEEE Signal Processing Letters</i>,
+vol. 29,
+pp. 125-129,
+2022<br>
+<a href="javascript:toggleBibtex('li2021efficient')" class="textlink">[bibtex]</a>
+<a href="../journal/2022-SPL.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_li2021efficient" class="bibtex noshow">
+<pre>
+@article{li2021efficient,
+  title={An efficient Newton-based method for sparse generalized canonical correlation analysis},
+  author={Li, Xinrong and Xiu, Xianchao and Liu, Wanquan and Miao, Zhonghua},
+  journal={IEEE Signal Processing Letters},
+  volume={29},
+  pages={125--129},
+  year={2022},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
    
 </ol>
