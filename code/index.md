@@ -62,18 +62,6 @@ function toggleBibtex(articleid) {
 </li>   
 
    
- <li ><p>  
-基于位姿预测和轨迹优化的无人机引导降落方法<br>
-<i>submitted</i>
-</p>
-</li> 
-
-
-<li ><p>
-激光雷达和IMU系统的时空联合标定方法<br>
-<i>submitted</i>
-</p>
-</li>   
 
    
 <li ><p>
@@ -103,10 +91,6 @@ function toggleBibtex(articleid) {
 </li>   
 
 
-<li ><p>
-基于Python的豆瓣网影视评论分析<br>
-<i>submitted</i>
-</p>
-</li>   
+
 
 </ol>
