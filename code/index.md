@@ -97,7 +97,14 @@ function toggleBibtex(articleid) {
 <ol class="biblist">
 
 <li ><p>
-自监督的轴承故障诊断方法<br>
+轴承振动信号可视化及特征提取<br>
+<i>CN116026590A</i>
+</p>
+</li>   
+
+
+<li ><p>
+基于Python的豆瓣网影视评论分析<br>
 <i>CN116026590A</i>
 </p>
 </li>   
