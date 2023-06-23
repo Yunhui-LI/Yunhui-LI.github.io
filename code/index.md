@@ -1,11 +1,10 @@
 ---
-layout: page
-title: Patent
+layout: code
+title: Code
 modified: 2023-05-17 
 share: false
 ---
 
-Those marked by * have been granted
 
 <style>
 .biblist { }
@@ -44,11 +43,8 @@ function toggleBibtex(articleid) {
 }
 </script>
 
-
+### Patent
 <ol class="biblist">
-   
-
-
 
    
 <li ><p>
@@ -56,20 +52,21 @@ function toggleBibtex(articleid) {
 <i>submitted</i>
 </p>
 </li>   
-   
-   
+
    
 <li ><p>
 基于深度域适应的小样本故障诊断技术<br>
 <i>submitted</i>
 </p>
 </li>   
+
    
  <li ><p>  
 基于位姿预测和轨迹优化的无人机引导降落方法<br>
 <i>submitted</i>
 </p>
 </li> 
+
 
 <li ><p>
 激光雷达和IMU系统的时空联合标定方法<br>
@@ -83,6 +80,7 @@ function toggleBibtex(articleid) {
 <i>CN115791179A</i>
 </p>
 </li>   
+
    
 <li ><p>
 自监督的轴承故障诊断方法<br>
@@ -90,5 +88,17 @@ function toggleBibtex(articleid) {
 </p>
 </li>   
 
-   
+</ol>
 
+
+
+### Software
+<ol class="biblist">
+
+<li ><p>
+自监督的轴承故障诊断方法<br>
+<i>CN116026590A</i>
+</p>
+</li>   
+
+</ol>
