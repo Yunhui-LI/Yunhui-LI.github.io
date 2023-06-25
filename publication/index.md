@@ -531,7 +531,7 @@ pp. 125272,
 <li ><p>
 <b>Alternating direction method of multipliers for nonconvex fused regression problems CCA</b><br>
 <b>Xianchao Xiu*</b>, Wanquan Liu, Ling Li, and Lingchen Kong<br>
-<i>Computational Statistics \& Data Analysis</i>,
+<i>Computational Statistics & Data Analysis</i>,
 vol. 136,
 pp. 59-71,
 2019<br>
