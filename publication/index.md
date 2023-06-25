@@ -46,7 +46,7 @@ function toggleBibtex(articleid) {
 }
 </script>
 
-### Data-driven fault diagnosis
+### Data-Driven Fault Diagnosis
 <ol class="biblist">
 
    
@@ -332,7 +332,7 @@ pp. 361-365,
 
 
 
-### Large-scale pattern recognition
+### Large-Scale Pattern Recognition
 <ol class="biblist">
   
 
@@ -443,7 +443,7 @@ pp. 112-126,
 </ol>
 
 
-### Sparse nonliear programming
+### Sparse Nonliear Programming
 <ol class="biblist">
   
 
