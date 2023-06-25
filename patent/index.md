@@ -5,6 +5,7 @@ modified: 2023-05-17
 share: false
 ---
 
+Those marked by * have been granted
 
 <style>
 .biblist { }
@@ -43,27 +44,10 @@ function toggleBibtex(articleid) {
 }
 </script>
 
-
+### Data Engineering
 <ol class="biblist">
-   
 
 
-
-   
-<li ><p>
-一种鲁棒转移子空间学习算法的故障诊断技术<br>
-<i>submitted</i>
-</p>
-</li>   
-   
-   
-   
-<li ><p>
-基于深度域适应的小样本故障诊断技术<br>
-<i>submitted</i>
-</p>
-</li>   
-   
  <li ><p>  
 基于位姿预测和轨迹优化的无人机引导降落方法<br>
 <i>submitted</i>
@@ -76,12 +60,36 @@ function toggleBibtex(articleid) {
 </p>
 </li>   
 
+</ol>
+
+
+
+### Learning Intelligence
+<ol class="biblist">
+
+
+<li ><p>
+一种鲁棒转移子空间学习算法的故障诊断技术<br>
+<i>submitted</i>
+</p>
+</li>   
+
+   
+<li ><p>
+基于深度域适应的小样本故障诊断技术<br>
+<i>submitted</i>
+</p>
+</li>   
+
+   
+
    
 <li ><p>
 基于聚类算法的自监督轴承故障诊断方法<br>
 <i>CN115791179A</i>
 </p>
 </li>   
+
    
 <li ><p>
 自监督的轴承故障诊断方法<br>
@@ -90,4 +98,4 @@ function toggleBibtex(articleid) {
 </li>   
 
    
-
+</ol>
