@@ -165,7 +165,6 @@ pp. 3847-3858,
 </li>
 
 
-
 <!-- Item: li2022towards -->
 <li ><p>
 <b>Towards efficient process monitoring using spatiotemporal PCA</b><br>
@@ -272,7 +271,32 @@ pp. 3530-3534,
 </li>
    
    
-  
+ <!-- Item: ni2022towards -->
+<li ><p>
+<b>Towards efficient state of charge estimation of lithium-ion batteries using canonical correlation analysis</b><br>
+Zichuan Ni, <b>Xianchao Xiu</b>, and Ying Yang*<br>
+<i>Energy</i>,
+vol. 254,
+pp. 124415,
+2022<br>
+<a href="javascript:toggleBibtex('ni2022towards')" class="textlink">[bibtex]</a>
+<a href="../journal/2022-Energy.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_ni2022towards" class="bibtex noshow">
+<pre>
+@article{ni2022towards,
+  title={Towards efficient state of charge estimation of lithium-ion batteries using canonical correlation analysis},
+  author={Ni, Zichuan and Xiu, Xianchao and Yang, Ying},
+  journal={Energy},
+  volume={254},
+  pages={124415},
+  year={2022},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+
+ 
    
 <!-- Item: xiu2021fault -->
 <li ><p>
@@ -383,33 +407,6 @@ pp. 1-13,
 }
 </pre></div>
 </li>
-
-
-<!-- Item: ni2022towards -->
-<li ><p>
-<b>Towards efficient state of charge estimation of lithium-ion batteries using canonical correlation analysis</b><br>
-Zichuan Ni, <b>Xianchao Xiu</b>, and Ying Yang*<br>
-<i>Energy</i>,
-vol. 254,
-pp. 124415,
-2022<br>
-<a href="javascript:toggleBibtex('ni2022towards')" class="textlink">[bibtex]</a>
-<a href="../journal/2022-Energy.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_ni2022towards" class="bibtex noshow">
-<pre>
-@article{ni2022towards,
-  title={Towards efficient state of charge estimation of lithium-ion batteries using canonical correlation analysis},
-  author={Ni, Zichuan and Xiu, Xianchao and Yang, Ying},
-  journal={Energy},
-  volume={254},
-  pages={124415},
-  year={2022},
-  publisher={Elsevier}
-}
-</pre></div>
-</li>
-
 
 
 
