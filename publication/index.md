@@ -46,6 +46,7 @@ function toggleBibtex(articleid) {
 }
 </script>
 
+
 ### Data-Driven Fault Diagnosis
 <ol class="biblist">
 
@@ -445,7 +446,18 @@ pp. 112-126,
 
 ### Sparse Nonliear Programming
 <ol class="biblist">
+
   
+<!-- Item: qu2023efficient -->
+<li ><p>
+<b>Revisiting Lq (0 ≤ q < 1) norm regularized optimization</b><br>
+Shenglong Zhou, <b>Xianchao Xiu</b>, Yingnan Wang, and Dingtao Peng<br>
+<i>SIAM Journal on Numerical Analysis</i>,
+under review,
+2023<br>
+</pre></div>
+</li>
+
 
 
 <!-- Item: qu2023efficient -->
