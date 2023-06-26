@@ -313,35 +313,11 @@ pp. 115007,
 
 
 
-<!-- Item: xiu2020tssnalm -->
-<li ><p>
-<b>tSSNALM: A fast two-stage semi-smooth Newton augmented Lagrangian method for sparse CCA</b><br>
-<b>Xianchao Xiu</b>, Ying Yang*, Lingchen Kong, and Wanquan Liu<br>
-<i>Applied Mathematics and Computation</i>,
-vol. 383,
-pp. 125272,
-2020<br>
-<a href="javascript:toggleBibtex('xiu2020tssnalm')" class="textlink">[bibtex]</a>
-<a href="../journal/2020-AMC.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_qu2023efficient" class="bibtex noshow">
-<pre>
-@article{xiu2020tssnalm,
-  title={tSSNALM: A fast two-stage semi-smooth Newton augmented Lagrangian method for sparse CCA},
-  author={Xiu, Xianchao and Yang, Ying and Kong, Lingchen and Liu, Wanquan},
-  journal={Applied Mathematics and Computation},
-  volume={383},
-  pages={125272},
-  year={2020},
-  publisher={Elsevier}
-}
-</pre></div>
-</li>
 
 
 <!-- Item: xiu2019alternating -->
 <li ><p>
-<b>Alternating direction method of multipliers for nonconvex fused regression problems CCA</b><br>
+<b>Alternating direction method of multipliers for nonconvex fused regression problems</b><br>
 <b>Xianchao Xiu*</b>, Wanquan Liu, Ling Li, and Lingchen Kong<br>
 <i>Computational Statistics & Data Analysis</i>,
 vol. 136,
