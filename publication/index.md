@@ -80,33 +80,6 @@ pp. 7381-7389,
 
 
    
-<!-- Item: zhang2023structured -->
-<li ><p>
-<b>Structured joint sparse orthogonal nonnegative matrix factorization for fault detection</b><br>
-Xi Zhang, <b>Xianchao Xiu</b>, and Chao Zhang*<br>
-<i>IEEE Transactions on Instrumentation and Measurement</i>,
-vol. 72,
-pp. 1-15,
-2023<br>
-<a href="javascript:toggleBibtex('zhang2023structured')" class="textlink">[bibtex]</a>
-<a href="../journal/2023-TIM.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_zhang2023structured" class="bibtex noshow">
-<pre>
-@article{zhang2023structured,
-  title={Structured joint sparse orthogonal nonnegative matrix factorization for fault detection},
-  author={Zhang, Xi and Xiu, Xianchao and Zhang, Chao},
-  journal={IEEE Transactions on Instrumentation and Measurement},
-  volume={72},
-  pages={1--15},
-  year={2023},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
-   
-   
-   
    
    
 <!-- Item: xiu2022sparsity -->
@@ -138,58 +111,6 @@ pp. 1356-1365,
   
 
 
-<!-- Item: zhang2021data -->
-<li ><p>
-<b>A data-driven modeling method for stochastic nonlinear degradation process with application to RUL estimation</b><br>
-Yuhan Zhang, Ying Yang*, He Li, <b>Xianchao Xiu</b>, and Wanquan Liu<br>
-<i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>,
-vol. 52,
-pp. 3847-3858,
-2022<br>
-<a href="javascript:toggleBibtex('zhang2021data')" class="textlink">[bibtex]</a>
-<a href="../journal/2022-TSMC.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_zhang2021data" class="bibtex noshow">
-<pre>
-@article{zhang2021data,
-  title={A data-driven modeling method for stochastic nonlinear degradation process with application to RUL estimation},
-  author={Zhang, Yuhan and Yang, Ying and Li, He and Xiu, Xianchao and Liu, Wanquan},
-  journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
-  volume={52},
-  number={6},
-  pages={3847--3858},
-  year={2022},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
-
-
-<!-- Item: li2022towards -->
-<li ><p>
-<b>Towards efficient process monitoring using spatiotemporal PCA</b><br>
-Yunhui Li, <b>Xianchao Xiu*</b>, and Wanquan Liu<br>
-<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
-vol. 70,
-pp. 551-555,
-2023<br>
-<a href="javascript:toggleBibtex('li2022towards')" class="textlink">[bibtex]</a>
-<a href="../journal/2023-TCSII.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_li2022towards" class="bibtex noshow">
-<pre>
-@article{li2022towards,
-  title={Towards efficient process monitoring using spatiotemporal PCA},
-  author={Li, Yunhui and Xiu, Xianchao and Liu, Wanquan},
-  journal={IEEE Transactions on Circuits and Systems II: Express Briefs},
-  volume={70},
-  number={2},
-  pages={551--555},
-  year={2023},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
    
    
 <!-- Item: xiu2022efficient -->
@@ -242,59 +163,6 @@ pp. 6690-6699,
 </li>
    
 
-
-   
-<!-- Item: miao2022efficient -->
-<li ><p>
-<b>Efficient and robust process monitoring using structured low-rank representation</b><br>
-Zhonghua Miao and  <b>Xianchao Xiu*</b><br>
-<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
-vol. 69,
-pp. 3530-3534,
-2022<br>
-<a href="javascript:toggleBibtex('miao2022efficient')" class="textlink">[bibtex]</a>
-<a href="../journal/2022-TCSII.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_miao2022efficient" class="bibtex noshow">
-<pre>
-@article{miao2022efficient,
-  title={Efficient and robust process monitoring using structured low-rank representation},
-  author={Miao, Zhonghua and Xiu, Xianchao},
-  journal={IEEE Transactions on Circuits and Systems II: Express Briefs},
-  volume={69},
-  number={8},
-  pages={3530--3534},
-  year={2022},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
-   
-   
- <!-- Item: ni2022towards -->
-<li ><p>
-<b>Towards efficient state of charge estimation of lithium-ion batteries using canonical correlation analysis</b><br>
-Zichuan Ni, <b>Xianchao Xiu</b>, and Ying Yang*<br>
-<i>Energy</i>,
-vol. 254,
-pp. 124415,
-2022<br>
-<a href="javascript:toggleBibtex('ni2022towards')" class="textlink">[bibtex]</a>
-<a href="../journal/2022-Energy.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_ni2022towards" class="bibtex noshow">
-<pre>
-@article{ni2022towards,
-  title={Towards efficient state of charge estimation of lithium-ion batteries using canonical correlation analysis},
-  author={Ni, Zichuan and Xiu, Xianchao and Yang, Ying},
-  journal={Energy},
-  volume={254},
-  pages={124415},
-  year={2022},
-  publisher={Elsevier}
-}
-</pre></div>
-</li>
 
  
    
@@ -383,61 +251,31 @@ Jianqin Sun, <b>Xianchao Xiu</b>, Ziyan Luo*, and Wanquan Liu<br>
 </li>
 
 
-<!-- Item: gao2022fusion -->
+ <!-- Item: li2021efficient -->
 <li ><p>
-<b>Fusion-UDCGAN: Multifocus image fusion via a U-type densely connected generation adversarial network</b><br>
-Yuan Gao, Shiwei Ma*, Jingjing Liu, and <b>Xianchao Xiu</b><br>
-<i>IEEE Transactions on Instrumentation and Measurement</i>,
-vol. 71,
-pp. 1-13,
+<b>An efficient Newton-based method for sparse generalized canonical correlation analysis</b><br>
+Xinrong Li, <b>Xianchao Xiu*</b>, Wanquan Liu, and Zhonghua Miao<br>
+<i>IEEE Signal Processing Letters</i>,
+vol. 29,
+pp. 125-129,
 2022<br>
-<a href="javascript:toggleBibtex('gao2022fusion')" class="textlink">[bibtex]</a>
-<a href="../journal/2022-TIM.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="javascript:toggleBibtex('li2021efficient')" class="textlink">[bibtex]</a>
+<a href="../journal/2022-SPL.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
-<div id="bib_gao2022fusion" class="bibtex noshow">
+<div id="bib_li2021efficient" class="bibtex noshow">
 <pre>
-@article{gao2022fusion,
-  title={Fusion-UDCGAN: Multifocus image fusion via a U-type densely connected generation adversarial network},
-  author={Gao, Yuan and Ma, Shiwei and Liu, Jingjing and Xiu, Xianchao},
-  journal={IEEE Transactions on Instrumentation and Measurement},
-  volume={71},
-  pages={1--13},
+@article{li2021efficient,
+  title={An efficient Newton-based method for sparse generalized canonical correlation analysis},
+  author={Li, Xinrong and Xiu, Xianchao and Liu, Wanquan and Miao, Zhonghua},
+  journal={IEEE Signal Processing Letters},
+  volume={29},
+  pages={125--129},
   year={2022},
   publisher={IEEE}
 }
 </pre></div>
 </li>
 
-
-
-
-<!-- Item: liu2021manifold -->
-<li ><p>
-<b>Manifold constrained joint sparse learning via non-convex regularization</b><br>
-Jingjing Liu, <b>Xianchao Xiu</b>, Xin Jiang, Wanquan Liu, Xiaoyang Zeng*, Mingyu Wang, and Hui Chen<br>
-<i>Neurocomputing</i>,
-vol. 458,
-pp. 112-126,
-2021<br>
-<a href="javascript:toggleBibtex('liu2021manifold')" class="textlink">[bibtex]</a>
-<a href="../journal/2021-Neuro.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_liu2021manifold" class="bibtex noshow">
-<pre>
-@article{liu2021manifold,
-  title={Manifold constrained joint sparse learning via non-convex regularization},
-  author={Liu, Jingjing and Xiu, Xianchao and Jiang, Xin and Liu, Wanquan and Zeng, Xiaoyang and Wang, Mingyu and Chen, Hui},
-  journal={Neurocomputing},
-  volume={458},
-  pages={112--126},
-  year={2021},
-  publisher={Elsevier}
-}
-</pre></div>
-</li>
-
-
-   
 </ol>
 
 
@@ -473,31 +311,6 @@ pp. 115007,
 </li>
 
 
-
-<!-- Item: li2021efficient -->
-<li ><p>
-<b>An efficient Newton-based method for sparse generalized canonical correlation analysis</b><br>
-Xinrong Li, <b>Xianchao Xiu*</b>, Wanquan Liu, and Zhonghua Miao<br>
-<i>IEEE Signal Processing Letters</i>,
-vol. 29,
-pp. 125-129,
-2022<br>
-<a href="javascript:toggleBibtex('li2021efficient')" class="textlink">[bibtex]</a>
-<a href="../journal/2022-SPL.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_li2021efficient" class="bibtex noshow">
-<pre>
-@article{li2021efficient,
-  title={An efficient Newton-based method for sparse generalized canonical correlation analysis},
-  author={Li, Xinrong and Xiu, Xianchao and Liu, Wanquan and Miao, Zhonghua},
-  journal={IEEE Signal Processing Letters},
-  volume={29},
-  pages={125--129},
-  year={2022},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
 
 
 <!-- Item: xiu2020tssnalm -->
