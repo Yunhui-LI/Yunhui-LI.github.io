@@ -284,37 +284,6 @@ pp. 125-129,
 
 
 
-
-<!-- Item: qu2023efficient -->
-<li ><p>
-<b>An efficient semi-proximal ADMM algorithm for low-rank and sparse regularized matrix minimization problems with real-world applications</b><br>
-Wentao Qu, <b>Xianchao Xiu*</b>, Haifei Zhang, and Jun Fan<br>
-<i>Journal of Computational and Applied Mathematics</i>,
-vol. 424,
-pp. 115007,
-2023<br>
-<a href="javascript:toggleBibtex('qu2023efficient')" class="textlink">[bibtex]</a>
-<a href="../journal/2023-JCAM.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_qu2023efficient" class="bibtex noshow">
-<pre>
-@article{qu2023efficient,
-  title={An efficient semi-proximal ADMM algorithm for low-rank and sparse regularized matrix minimization problems with real-world applications},
-  author={Qu, Wentao and Xiu, Xianchao and Zhang, Haifei and Fan, Jun},
-  journal={Journal of Computational and Applied Mathematics},
-  volume={424},
-  pages={115007},
-  year={2023},
-  publisher={Elsevier}
-}
-</pre></div>
-</li>
-
-
-
-
-
-
 <!-- Item: xiu2019alternating -->
 <li ><p>
 <b>Alternating direction method of multipliers for nonconvex fused regression problems</b><br>
