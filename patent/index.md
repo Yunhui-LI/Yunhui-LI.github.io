@@ -69,6 +69,13 @@ function toggleBibtex(articleid) {
 
 
 <li ><p>
+基于多视角分类的典型相关分析快速算法<br>
+<i>submitted</i>
+</p>
+</li>   
+
+
+<li ><p>
 一种鲁棒转移子空间学习算法的故障诊断技术<br>
 <i>submitted</i>
 </p>
