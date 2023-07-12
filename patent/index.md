@@ -44,7 +44,7 @@ function toggleBibtex(articleid) {
 }
 </script>
 
-### Data Engineering
+
 <ol class="biblist">
 
 
@@ -54,25 +54,6 @@ function toggleBibtex(articleid) {
 </p>
 </li> 
 
-<li ><p>
-激光雷达和IMU系统的时空联合标定方法<br>
-<i>submitted</i>
-</p>
-</li>   
-
-</ol>
-
-
-
-### Learning Intelligence
-<ol class="biblist">
-
-
-<li ><p>
-基于多视角分类的典型相关分析快速算法<br>
-<i>submitted</i>
-</p>
-</li>   
 
 
 <li ><p>
@@ -88,6 +69,12 @@ function toggleBibtex(articleid) {
 </p>
 </li>   
 
+
+<li ><p>
+激光雷达和IMU系统的时空联合标定方法<br>
+<i>CN116338652A</i>
+</p>
+</li>   
    
 
    
