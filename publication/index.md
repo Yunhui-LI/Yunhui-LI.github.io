@@ -164,63 +164,6 @@ pp. 6690-6699,
    
 
 
- 
-   
-<!-- Item: xiu2021fault -->
-<li ><p>
-<b>Fault detection using structured joint sparse nonnegative matrix factorization</b><br>
-<b>Xianchao Xiu</b>, Jun Fan, Ying Yang*, and Wanquan Liu<br>
-<i>IEEE Transactions on Instrumentation and Measurement</i>,
-vol. 70,
-pp. 1-11,
-2021<br>
-<a href="javascript:toggleBibtex('xiu2021fault')" class="textlink">[bibtex]</a>
-<a href="../journal/2021-TIM.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_xiu2021fault" class="bibtex noshow">
-<pre>
-@article{xiu2021fault,
-  title={Fault detection using structured joint sparse nonnegative matrix factorization},
-  author={Xiu, Xianchao and Fan, Jun and Yang, Ying and Liu, Wanquan},
-  journal={IEEE Transactions on Instrumentation and Measurement},
-  volume={70},
-  pages={1--11},
-  year={2021},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
-   
-   
-   
-<!-- Item: xiu2021data -->
-<li ><p>
-<b>Data-driven process monitoring using structured joint sparse canonical correlation analysis</b><br>
-<b>Xianchao Xiu</b>, Ying Yang*, Lingchen Kong, and Wanquan Liu<br>
-<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>,
-vol. 68,
-pp. 361-365,
-2021<br>
-<a href="javascript:toggleBibtex('xiu2021data')" class="textlink">[bibtex]</a>
-<a href="../journal/2021-TCSIIa.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_xiu2021data" class="bibtex noshow">
-<pre>
-@article{xiu2021data,
-  title={Data-driven process monitoring using structured joint sparse canonical correlation analysis},
-  author={Xiu, Xianchao and Yang, Ying and Kong, Lingchen and Liu, Wanquan},
-  journal={IEEE Transactions on Circuits and Systems II: Express Briefs},
-  volume={68},
-  number={1},
-  pages={361--365},
-  year={2021},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
-   
-
-
 </ol>
 
 
