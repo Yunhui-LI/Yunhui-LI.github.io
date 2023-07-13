@@ -199,7 +199,7 @@ pp. 125-129,
 <!-- Item: xiu2018iterative -->
 <li ><p>
 <b>Iterative reweighted methods for L1-Lp minimization</b><br>
-<b>Xianchao Xiu*</b>, Wanquan Liu, Ling Li, and Lingchen Kong<br>
+<b>Xianchao Xiu*</b>, Lingchen Kong, Yan Li, and Houduo Qi<br>
 <i>Computational Optimization and Applications</i>,
 vol. 70,
 pp. 201-219,
