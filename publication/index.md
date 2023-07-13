@@ -50,7 +50,29 @@ function toggleBibtex(articleid) {
 ### Data-Driven Fault Diagnosis
 <ol class="biblist">
 
-   
+
+<!-- Item: xiu2022efficient -->
+<li ><p>
+<b>Efficient and fast joint sparse constrained canonical correlation analysis for fault detection</b><br>
+<b>Xianchao Xiu</b>, Lili Pan, Ying Yang*, and Wanquan Liu<br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i>
+<br>
+<a href="javascript:toggleBibtex('xiu2022efficient')" class="textlink">[bibtex]</a>
+<a href="../journal/2022-TNNLS.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_xiu2022efficient" class="bibtex noshow">
+<pre>
+@article{xiu2022efficient,
+  title={Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection},
+  author={Xiu, Xianchao and Pan, Lili and Yang, Ying and Liu, Wanquan},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
    
 <!-- Item: xiu2022sparsity -->
 <li ><p>
@@ -83,26 +105,7 @@ pp. 1356-1365,
 
    
    
-<!-- Item: xiu2022efficient -->
-<li ><p>
-<b>Efficient and fast joint sparse constrained canonical correlation analysis for fault detection</b><br>
-<b>Xianchao Xiu</b>, Lili Pan, Ying Yang*, and Wanquan Liu<br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i>,
-2022<br>
-<a href="javascript:toggleBibtex('xiu2022efficient')" class="textlink">[bibtex]</a>
-<a href="../journal/2022-TNNLS.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_xiu2022efficient" class="bibtex noshow">
-<pre>
-@article{xiu2022efficient,
-  title={Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection},
-  author={Xiu, Xianchao and Pan, Lili and Yang, Ying and Liu, Wanquan},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2022},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
+
    
    
    
