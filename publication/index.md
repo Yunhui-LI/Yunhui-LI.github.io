@@ -51,36 +51,6 @@ function toggleBibtex(articleid) {
 <ol class="biblist">
 
    
-<!-- Item: xiu2023learning -->
-<li ><p>
-<b>Learning sparse kernel CCA with graph priors for nonlinear process monitoring</b><br>
-<b>Xianchao Xiu</b> and Yunhui Li*<br>
-<i>IEEE Sensors Journal</i>,
-vol. 23,
-pp. 7381-7389,
-2023<br>
-<a href="javascript:toggleBibtex('xiu2023learning')" class="textlink">[bibtex]</a>
-<a href="../journal/2023-JSEN.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_xiu2023learning" class="bibtex noshow">
-<pre>
-@article{xiu2023learning,
-  title={Learning sparse kernel CCA with graph priors for nonlinear process monitoring},
-  author={Xiu, Xianchao and Li, Yunhui},
-  journal={IEEE Sensors Journal},
-  volume={23},
-  number={7},
-  pages={7381--7389},
-  year={2023},
-  publisher={IEEE}
-}
-</pre></div>
-</li> 
-   
-
-
-   
-   
    
 <!-- Item: xiu2022sparsity -->
 <li ><p>
