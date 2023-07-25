@@ -5,7 +5,6 @@ modified: 2023-05-17
 share: false
 ---
 
-Those marked by * have been granted
 
 <style>
 .biblist { }
