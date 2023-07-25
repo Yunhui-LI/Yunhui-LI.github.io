@@ -47,7 +47,6 @@ function toggleBibtex(articleid) {
 
 
    
-### Data Engineering
 <ol class="biblist">
 <li ><p>
 一种基于激光雷达的车载AR-HUD智能驾驶系统<br>
@@ -69,17 +68,6 @@ function toggleBibtex(articleid) {
 </li> 
 
 
-<li ><p>
-激光雷达和IMU系统的时空联合标定方法<br>
-<i>CN116338652A</i>
-</p>
-</li>   
-   
-</ol>
-
-
-### Learning Intelligence
-<ol class="biblist">
 
 
 <li ><p>
@@ -95,7 +83,12 @@ function toggleBibtex(articleid) {
 </p>
 </li> 
 
-   
+
+<li ><p>
+激光雷达和IMU系统的时空联合标定方法<br>
+<i>CN116338652A</i>
+</p>
+</li>   
 <li ><p>
 基于聚类算法的自监督轴承故障诊断方法<br>
 <i>CN115791179A</i>
