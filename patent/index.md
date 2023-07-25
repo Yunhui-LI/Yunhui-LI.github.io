@@ -80,6 +80,15 @@ function toggleBibtex(articleid) {
 
 ### Learning Intelligence
 <ol class="biblist">
+
+
+<li ><p>
+小样本下基于深度适应网络的轴承故障诊断方法和系统<br>
+<i>submitted</i>
+</p>
+</li>  
+
+
 <li ><p>
 基于鲁棒转移子空间学习的故障诊断方法及系统<br>
 <i>submitted</i>
