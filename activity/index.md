@@ -8,19 +8,9 @@ comments: false
 share: false
 ---
 
+Selected professional activities
 
-### Member of
 
-* Committee of Shanghai Operational Research Society (SORS)
-* Mathematical Reviews (MR)
-* IEEE, SIAM, ORSC, CAA 
-
-### Review for
-
-* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-* IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-* IEEE Transactions on Industrial Informatics (TII)
-* IEEE Transactions on Industrial Electronics (TIE)
-* IEEE Transactions on Power Systems (TPWRS) 
-* SIAM Journal on Matrix Analysis and Applications (SIMAX)
-* SIAM Journal on Optimization (SIOPT)
+* Member of Committee of Shanghai Operational Research Society (SORS)
+* Member of Mathematical Reviews (MR)
+* Member of IEEE, SIAM, ORSC, CAA
