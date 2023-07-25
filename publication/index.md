@@ -193,6 +193,34 @@ pp. 125-129,
 </li>
 
 
+
+<!-- Item: xiu2019alternating -->
+<li ><p>
+<b>Alternating direction method of multipliers for nonconvex fused regression problems</b><br>
+<b>Xianchao Xiu*</b>, Wanquan Liu, Ling Li, and Lingchen Kong<br>
+<i>Computational Statistics & Data Analysis</i>,
+vol. 136,
+pp. 59-71,
+2019<br>
+<a href="javascript:toggleBibtex('xiu2019alternating')" class="textlink">[bibtex]</a>
+<a href="../journal/2019-CSDA.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_xiu2019alternatinge" class="bibtex noshow">
+<pre>
+@article{xiu2019alternating,
+  title={Alternating direction method of multipliers for nonconvex fused regression problems},
+  author={Xiu, Xianchao and Liu, Wanquan and Li, Ling and Kong, Lingchen},
+  journal={Computational Statistics \& Data Analysis},
+  volume={136},
+  pages={59--71},
+  year={2019},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+
+
+
 <!-- Item: xiu2018iterative -->
 <li ><p>
 <b>Iterative reweighted methods for L1-Lp minimization</b><br>
