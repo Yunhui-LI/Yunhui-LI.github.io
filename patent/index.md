@@ -46,6 +46,27 @@ function toggleBibtex(articleid) {
 
 
 <ol class="biblist">
+   
+### Data Engineering
+
+<li ><p>
+一种基于激光雷达的车载AR-HUD智能驾驶系统<br>
+<i>submitted</i>
+</p>
+</li> 
+
+<li ><p>
+一种动态视觉传感器性能测试装置及测试方法<br>
+<i>submitted</i>
+</p>
+</li> 
+
+
+<li ><p>
+基于位姿预测和轨迹优化的无人机引导降落方法<br>
+<i>submitted</i>
+</p>
+</li> 
 
 
 <li ><p>
@@ -54,6 +75,16 @@ function toggleBibtex(articleid) {
 </p>
 </li>   
    
+
+
+
+### Learning Intelligence
+
+<li ><p>
+基于鲁棒转移子空间学习的故障诊断方法及系统<br>
+<i>submitted</i>
+</p>
+</li> 
 
    
 <li ><p>
