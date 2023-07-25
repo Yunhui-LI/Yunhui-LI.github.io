@@ -45,10 +45,10 @@ function toggleBibtex(articleid) {
 </script>
 
 
-<ol class="biblist">
+
    
 ### Data Engineering
-
+<ol class="biblist">
 <li ><p>
 一种基于激光雷达的车载AR-HUD智能驾驶系统<br>
 <i>submitted</i>
@@ -75,11 +75,11 @@ function toggleBibtex(articleid) {
 </p>
 </li>   
    
-
+</ol>
 
 
 ### Learning Intelligence
-
+<ol class="biblist">
 <li ><p>
 基于鲁棒转移子空间学习的故障诊断方法及系统<br>
 <i>submitted</i>
