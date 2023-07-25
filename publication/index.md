@@ -47,7 +47,7 @@ function toggleBibtex(articleid) {
 </script>
 
 
-### Data-Driven Fault Diagnosis
+### Data Engineering
 <ol class="biblist">
 
 
@@ -103,7 +103,26 @@ pp. 1356-1365,
   
 
 
-   
+<!-- Item: xiu2023leanring -->
+<li ><p>
+<b>Learning high-order multi-view representation by new tensor canonical correlation analysis</b><br>
+Jianqin Sun, <b>Xianchao Xiu</b>, Ziyan Luo*, and Wanquan Liu<br>
+<i>IEEE Transactions on Circuits and Systems for Video Technology</i>,
+2023<br>
+<a href="javascript:toggleBibtex('xiu2023leanring')" class="textlink">[bibtex]</a>
+<a href="../journal/2023-TCSVT.pdf" class="textlink" target="_blank">[pdf]</a>
+</p>
+<div id="bib_xiu2023leanring" class="bibtex noshow">
+<pre>
+@article{xiu2023leanring,
+  title={Learning high-order multi-view representation by new tensor canonical correlation analysis},
+  author={Sun, Jianqin and Xiu, Xianchao and Luo, Ziyan and Liu, Wanquan},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2023},
+  publisher={IEEE}
+}
+</pre></div>
+</li>   
    
 
    
@@ -141,30 +160,11 @@ pp. 6690-6699,
 
 
 
-### Large-Scale Pattern Recognition
+### Learning Intelligence
 <ol class="biblist">
   
 
-<!-- Item: xiu2023leanring -->
-<li ><p>
-<b>Learning high-order multi-view representation by new tensor canonical correlation analysis</b><br>
-Jianqin Sun, <b>Xianchao Xiu</b>, Ziyan Luo*, and Wanquan Liu<br>
-<i>IEEE Transactions on Circuits and Systems for Video Technology</i>,
-2023<br>
-<a href="javascript:toggleBibtex('xiu2023leanring')" class="textlink">[bibtex]</a>
-<a href="../journal/2023-TCSVT.pdf" class="textlink" target="_blank">[pdf]</a>
-</p>
-<div id="bib_xiu2023leanring" class="bibtex noshow">
-<pre>
-@article{xiu2023leanring,
-  title={Learning high-order multi-view representation by new tensor canonical correlation analysis},
-  author={Sun, Jianqin and Xiu, Xianchao and Luo, Ziyan and Liu, Wanquan},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2023},
-  publisher={IEEE}
-}
-</pre></div>
-</li>
+
 
 
  <!-- Item: li2021efficient -->
@@ -191,12 +191,6 @@ pp. 125-129,
 }
 </pre></div>
 </li>
-
-</ol>
-
-
-### Sparse Nonliear Programming
-<ol class="biblist">
 
 
 <!-- Item: xiu2018iterative -->
