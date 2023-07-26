@@ -8,5 +8,10 @@ comments: false
 share: false
 ---
 
-* 2019.08, The Sixth International Conference on Continuous Optimization, Berlin, Germany
-* 2015.08, The 8th International Congress on Industrial and Applied Mathematics (ICIAM 2015), Beijing, China
+* 2023.09, The 13th CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (CAA SAFEPROCESS 2023), Yibin, China
+* 2023.05, The 14th Conference of Mathematical Optimization Society (MOS2023), Chengdu, China
+* 2023.04, The 16th Conference of Operations Research Society of China (ORSC2023), Changsha, China
+* 2022.11, China Automation Congress (CAC2022), Xiamen, China
+* 2021.10, The 13rd Conference of Mathematical Optimization Society (MOS2021), Qingdao, China
+* 2021.06, The 40th Chinese Control Conference (CCC2021), Shanghai, China
+* 2020.12, IEEE 9th Data Driven Control and Learning Systems Conference (DDCLS’20), Liuzhou, China
