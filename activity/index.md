@@ -8,8 +8,6 @@ comments: false
 share: false
 ---
 
-Selected professional activities
-
 * Member of Committee of Shanghai Operational Research Society (SORS)
 * Member of Mathematical Reviews (MR)
 * Member of IEEE, SIAM, ORSC, CAA
