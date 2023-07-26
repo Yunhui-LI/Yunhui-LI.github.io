@@ -10,7 +10,22 @@ share: false
 
 Selected professional activities
 
+<ol class="biblist">
+<li ><p>
+Member of Committee of Shanghai Operational Research Society (SORS)
+</p>
+</li> 
 
-* Member of Committee of Shanghai Operational Research Society (SORS)
-* Member of Mathematical Reviews (MR)
-* Member of IEEE, SIAM, ORSC, CAA
+<li ><p>
+Member of Mathematical Reviews (MR)
+</p>
+</li> 
+
+
+<li ><p>
+Member of IEEE, SIAM, ORSC, CAA
+</p>
+</li> 
+
+
+</ol>
