@@ -13,5 +13,3 @@ share: false
 * X. Li, <b>X. Xiu</b>, W. Liu, An efficient Newton-based method for sparse generalized canonical correlation analysis, IEEE Signal Processing Letters <a href="../journal/2022-SPL.pdf" class="textlink" target="_blank">[pdf]</a>
 * <b>X. Xiu</b>, W. Liu, L. Li, L. Kong, Alternating direction method of multipliers for nonconvex fused regression problems, Computational Statistics & Data Analysis <a href="../journal/2019-CSDA.pdf" class="textlink" target="_blank">[pdf]</a>
 * <b>X. Xiu</b>, L. Kong, Y. Li, H. Qi, Iterative reweighted methods for L1-Lp minimization, Computational Optimization and Applications <a href="../journal/2018-COAP.pdf" class="textlink" target="_blank">[pdf]</a>
-
-You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xiu" target="_blank" style="text-decoration:underline;">ResearchGate</a>
