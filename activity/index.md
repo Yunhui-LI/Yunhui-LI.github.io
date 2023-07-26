@@ -1,13 +1,18 @@
 ---
 layout: page
-permalink: /service/
-title: Service
-tags: [service]
+permalink: /teaching/
+title: Teaching
+tags: [teaching]
 modified: 2023-05-17 
 comments: false
 share: false
 ---
 
-* Member of Committee of Shanghai Operational Research Society (SORS)
-* Member of Mathematical Reviews (MR)
-* Member of IEEE, SIAM, ORSC, CAA
+### 运筹学基础
+* 线性规划
+* 整数规划
+* 动态规划
+* 博弈论
+* 非线性规划
+  
+### 现代优化方法
