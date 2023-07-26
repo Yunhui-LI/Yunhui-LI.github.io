@@ -8,9 +8,12 @@ comments: false
 share: false
 ---
 
+### 运筹学基础（本科生）
 
-* 2023.05, The 14th Conference of Mathematical Optimization Society (MOS2023), Chengdu, China
-* 2022.11, China Automation Congress (CAC2022), Xiamen, China
-* 2021.10, The 13rd Conference of Mathematical Optimization Society (MOS2021), Qingdao, China
-* 2021.06, The 40th Chinese Control Conference (CCC2021), Shanghai, China
-* 2020.12, IEEE 9th Data Driven Control and Learning Systems Conference (DDCLS’20), Liuzhou, China
+* 线性规划
+* 目标规划
+* 整数规划
+* 动态规划
+* 博弈论
+
+### 现代优化方法（研究生）
