@@ -6,9 +6,6 @@ share: false
 ---
 
 
-
-
-
 <style>
 .biblist { }
 
@@ -47,40 +44,24 @@ function toggleBibtex(articleid) {
 </script>
 
 
-<ol class="biblist">
 
-
-<!-- Item: xiu2022efficient -->
-<li ><p>
-<b>Efficient and fast joint sparse constrained canonical correlation analysis for fault detection</b><br>
-<b>Xianchao Xiu</b>, Lili Pan, Ying Yang*, and Wanquan Liu<br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i>
-<br>
-<a href="javascript:toggleBibtex('xiu2022efficient')" class="textlink">[bibtex]</a>
-<a href="../journal/2022-TNNLS.pdf" class="textlink" target="_blank">[pdf]</a>
+* J. Sun, Xi. Xiu, Z. Luo, W. Liu, Learning high-order multi-view representation by new tensor canonical correlation analysis, IEEE Transactions on Circuits and Systems for Video Technology
+<a href="javascript:toggleBibtex('xiu2023leanring')" class="textlink">[bibtex]</a>
+<a href="../journal/2023-TCSVT.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
-<div id="bib_xiu2022efficient" class="bibtex noshow">
+<div id="bib_xiu2023leanring" class="bibtex noshow">
 <pre>
-@article{xiu2022efficient,
-  title={Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection},
-  author={Xiu, Xianchao and Pan, Lili and Yang, Ying and Liu, Wanquan},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2022},
+@article{xiu2023leanring,
+  title={Learning high-order multi-view representation by new tensor canonical correlation analysis},
+  author={Sun, Jianqin and Xiu, Xianchao and Luo, Ziyan and Liu, Wanquan},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2023},
   publisher={IEEE}
 }
-</pre></div>
-</li>
 
 
-   
-<!-- Item: xiu2022sparsity -->
-<li ><p>
-<b>A sparsity-aware fault diagnosis framework focusing on accurate isolation</b><br>
-<b>Xianchao Xiu</b>, Zhonghua Miao, and Wanquan Liu*<br>
-<i>IEEE Transactions on Industrial Informatics</i>,
-vol. 19,
-pp. 1356-1365,
-2023<br>
+
+* X. Xiu, Z. Miao, W. Liu, A sparsity-aware fault diagnosis framework focusing on accurate isolation, IEEE Transactions on Industrial Informatics
 <a href="javascript:toggleBibtex('xiu2022sparsity')" class="textlink">[bibtex]</a>
 <a href="../journal/2023-TII.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
@@ -96,45 +77,25 @@ pp. 1356-1365,
   year={2023},
   publisher={IEEE}
 }
-</pre></div>
-</li>
-   
-  
 
 
-<!-- Item: xiu2023leanring -->
-<li ><p>
-<b>Learning high-order multi-view representation by new tensor canonical correlation analysis</b><br>
-Jianqin Sun, <b>Xianchao Xiu</b>, Ziyan Luo*, and Wanquan Liu<br>
-<i>IEEE Transactions on Circuits and Systems for Video Technology</i>,
-2023<br>
-<a href="javascript:toggleBibtex('xiu2023leanring')" class="textlink">[bibtex]</a>
-<a href="../journal/2023-TCSVT.pdf" class="textlink" target="_blank">[pdf]</a>
+* <b>X. Xiu<b>, L. Pan, Y. Yang, W. Liu, Efficient and fast joint sparse constrained canonical correlation analysis for fault detection, IEEE Transactions on Neural Networks and Learning Systems
+<a href="javascript:toggleBibtex('xiu2022efficient')" class="textlink">[bibtex]</a>
+<a href="../journal/2022-TNNLS.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
-<div id="bib_xiu2023leanring" class="bibtex noshow">
+<div id="bib_xiu2022efficient" class="bibtex noshow">
 <pre>
-@article{xiu2023leanring,
-  title={Learning high-order multi-view representation by new tensor canonical correlation analysis},
-  author={Sun, Jianqin and Xiu, Xianchao and Luo, Ziyan and Liu, Wanquan},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2023},
+@article{xiu2022efficient,
+  title={Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection},
+  author={Xiu, Xianchao and Pan, Lili and Yang, Ying and Liu, Wanquan},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022},
   publisher={IEEE}
 }
-</pre></div>
-</li>   
-   
 
    
-   
-   
-<!-- Item: xiu2021deep -->
-<li ><p>
-<b>Deep canonical correlation analysis using sparsity-constrained optimization for nonlinear process monitoring</b><br>
-<b>Xianchao Xiu</b>, Zhonghua Miao, Ying Yang*, and Wanquan Liu<br>
-<i>IEEE Transactions on Industrial Informatics</i>,
-vol. 18,
-pp. 6690-6699,
-2022<br>
+  
+* <b>X. Xiu<b>, Z. Miao, Y. Yang, W. Liu, Deep canonical correlation analysis using sparsity-constrained optimization for nonlinear process monitoring, IEEE Transactions on Industrial Informatics
 <a href="javascript:toggleBibtex('xiu2021deep')" class="textlink">[bibtex]</a>
 <a href="../journal/2022-TII.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
@@ -150,21 +111,10 @@ pp. 6690-6699,
   year={2022},
   publisher={IEEE}
 }
-</pre></div>
-</li>
-   
 
 
 
-
- <!-- Item: li2021efficient -->
-<li ><p>
-<b>An efficient Newton-based method for sparse generalized canonical correlation analysis</b><br>
-Xinrong Li, <b>Xianchao Xiu*</b>, Wanquan Liu, and Zhonghua Miao<br>
-<i>IEEE Signal Processing Letters</i>,
-vol. 29,
-pp. 125-129,
-2022<br>
+* X. Li, <b>X. Xiu<b>, W. Liu, An efficient Newton-based method for sparse generalized canonical correlation analysis, IEEE Signal Processing Letters
 <a href="javascript:toggleBibtex('li2021efficient')" class="textlink">[bibtex]</a>
 <a href="../journal/2022-SPL.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
@@ -179,20 +129,11 @@ pp. 125-129,
   year={2022},
   publisher={IEEE}
 }
-</pre></div>
-</li>
 
 
 
 
-<!-- Item: xiu2019alternating -->
-<li ><p>
-<b>Alternating direction method of multipliers for nonconvex fused regression problems</b><br>
-<b>Xianchao Xiu*</b>, Wanquan Liu, Ling Li, and Lingchen Kong<br>
-<i>Computational Statistics & Data Analysis</i>,
-vol. 136,
-pp. 59-71,
-2019<br>
+* <b>X. Xiu<b>, W. Liu, L. Li, L. Kong, Alternating direction method of multipliers for nonconvex fused regression problems, Computational Statistics & Data Analysis
 <a href="javascript:toggleBibtex('xiu2019alternating')" class="textlink">[bibtex]</a>
 <a href="../journal/2019-CSDA.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
@@ -207,19 +148,10 @@ pp. 59-71,
   year={2019},
   publisher={Elsevier}
 }
-</pre></div>
-</li>
 
 
 
-<!-- Item: xiu2018iterative -->
-<li ><p>
-<b>Iterative reweighted methods for L1-Lp minimization</b><br>
-<b>Xianchao Xiu*</b>, Lingchen Kong, Yan Li, and Houduo Qi<br>
-<i>Computational Optimization and Applications</i>,
-vol. 70,
-pp. 201-219,
-2018<br>
+* <b>X. Xiu<b>, L. Kong, Y. Li, H. Qi, Iterative reweighted methods for L1-Lp minimization, Computational Optimization and Applications
 <a href="javascript:toggleBibtex('xiu2018iterative')" class="textlink">[bibtex]</a>
 <a href="../journal/2018-COAP.pdf" class="textlink" target="_blank">[pdf]</a>
 </p>
@@ -235,12 +167,7 @@ pp. 201-219,
   year={2018},
   publisher={Springer}
 }
-</pre></div>
-</li>
 
 
-
-
-</ol>
 
 You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xiu" target="_blank" style="text-decoration:underline;">ResearchGate</a>
