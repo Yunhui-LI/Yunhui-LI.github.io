@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /conference/
-title: Conference
-tags: [Conference]
+permalink: /teaching/
+title: Teaching
+tags: [teaching]
 modified: 2023-05-17 
 comments: false
 share: false
