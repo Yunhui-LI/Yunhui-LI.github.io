@@ -8,7 +8,7 @@ comments: false
 share: false
 ---
 
-* 2023.09, The 13th CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes (CAA SAFEPROCESS 2023), Yibin, China
+
 * 2023.05, The 14th Conference of Mathematical Optimization Society (MOS2023), Chengdu, China
 * 2022.11, China Automation Congress (CAC2022), Xiamen, China
 * 2021.10, The 13rd Conference of Mathematical Optimization Society (MOS2021), Qingdao, China
