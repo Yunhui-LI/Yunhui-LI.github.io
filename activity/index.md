@@ -14,7 +14,7 @@ share: false
 * 课程代码：9366047 （4学分）
 * 上课地点：待上传
 * 上课时间：周二1-2节（8:00am - 9:50am），周四1-2节（8:00am - 9:50am）
-* 教    材：<a href="https://item.jd.com/12931035.html" class="textlink" target="_blank">[运筹学教程（第5版），胡运权，郭耀煌， 清华大学出版社， 2018]
+* 教    材：运筹学教程（第5版），胡运权，郭耀煌， 清华大学出版社， 2018
 * 参考材料：
       <ul>
       <li> Statistical learning of structured sparsity </li>
