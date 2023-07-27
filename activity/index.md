@@ -40,7 +40,7 @@ share: false
   第09周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
   第10周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
   第10周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br><br>
-* 平时作业 （具体内容会持续更新，根据课程情况调整）<br>
+* 平时作业 （根据课程情况调整）<br>
   第01次: 习题1.4, 2.7（9月15日上课前） <br>
   第02次: 习题2.6, 2.9（9月15日上课前） <br>
   第03次: 习题1.4, 2.7（9月15日上课前） <br>
