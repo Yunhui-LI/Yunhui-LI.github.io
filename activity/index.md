@@ -10,9 +10,10 @@ share: false
 
 
 
-* 线性规划
-* 目标规划
-* 整数规划
-* 动态规划
-* 博弈论
+* Linear Programming 
+* Goal Programming 
+* Integer Programming 
+* nonlinear Programming
+* Dynamic Programming
+* Game Theory
 
