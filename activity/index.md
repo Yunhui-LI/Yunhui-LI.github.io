@@ -20,36 +20,36 @@ share: false
   “最优化理论与算法（第二版）”，陈宝林，清华大学出版社<br>
   “运筹学（原书第2版）”，罗纳德 L.拉丁 著，肖勇波 梁湧 译，机械工业出版社<br><br>
 * 课程信息 （大致安排）<br>
-  第1周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第1周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第2周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第2周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第3周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第3周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第4周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第4周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第5周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第5周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第6周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第6周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第7周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第7周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第8周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第8周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第9周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第9周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第01周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第01周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第02周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第02周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第03周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第03周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第04周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第04周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第05周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第05周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第06周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第06周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第07周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第07周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第08周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第08周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第09周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  第09周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
   第10周，9月6日，课程简介，最优化介绍  <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
   第10周，9月8日，凸集的定义和判别 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br><br>
 * 平时作业 （具体内容会持续更新，根据课程情况调整）<br>
-  第1次: 习题1.4, 2.7（9月15日上课前） <br>
-  第2次: 习题2.6, 2.9（9月15日上课前） <br>
-  第3次: 习题1.4, 2.7（9月15日上课前） <br>
-  第4次: 习题2.6, 2.9（9月15日上课前） <br>
-  第5次: 习题1.4, 2.7（9月15日上课前） <br>
-  第6次: 习题2.6, 2.9（9月15日上课前） <br>
-  第7次: 习题1.4, 2.7（9月15日上课前） <br>
-  第8次: 习题2.6, 2.9（9月15日上课前） <br>
-  第9次: 习题2.6, 2.9（9月15日上课前） <br>
+  第01次: 习题1.4, 2.7（9月15日上课前） <br>
+  第02次: 习题2.6, 2.9（9月15日上课前） <br>
+  第03次: 习题1.4, 2.7（9月15日上课前） <br>
+  第04次: 习题2.6, 2.9（9月15日上课前） <br>
+  第05次: 习题1.4, 2.7（9月15日上课前） <br>
+  第06次: 习题2.6, 2.9（9月15日上课前） <br>
+  第07次: 习题1.4, 2.7（9月15日上课前） <br>
+  第08次: 习题2.6, 2.9（9月15日上课前） <br>
+  第09次: 习题2.6, 2.9（9月15日上课前） <br>
   第10次: 习题1.4, 2.7（9月15日上课前） <br><br>
 * 成绩评定<br>
   平时作业: 10% <br>
