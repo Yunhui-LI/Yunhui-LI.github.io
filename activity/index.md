@@ -10,7 +10,14 @@ share: false
 
 
 
-* Linear Programming <a href="../线性规划1.pdf" class="textlink" target="_blank">[1.1]</a> <a href="../线性规划2.pdf" class="textlink" target="_blank">[1.2]</a> <a href="../线性规划3.pdf" class="textlink" target="_blank">[1.3]</a> <a href="../线性规划4.pdf" class="textlink" target="_blank">[1.4]</a> <a href="../线性规划5.pdf" class="textlink" target="_blank">[1.5]</a>
+* Linear Programming <a href="../线性规划1.pdf" class="textlink" target="_blank">[1.1]
+
+    <ul>
+      <li>Statistical learning of structured sparsity </li>
+      <li> Optimization for specific deep neural networks</li>
+      <li>Applications of deep learning in computer vision</li>
+    </ul>
+    
 * Goal Programming 
 * Integer Programming 
 * nonlinear Programming
