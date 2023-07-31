@@ -5,7 +5,6 @@ modified: 2023-05-17
 share: false
 ---
 
-### Journal
 * J. Sun, <b>X. Xiu</b>, Z. Luo, W. Liu. Learning high-order multi-view representation by new tensor canonical correlation analysis. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2023 <a href="../publication/2023-TCSVT.pdf" class="textlink" target="_blank">[pdf]</a><br>
 * X. Zhang, <b>X. Xiu</b>, C. Zhang. Structured joint sparse orthogonal nonnegative matrix factorization for fault detection. <i>IEEE Transactions on Instrumentation and Measurement</i>, 2023 <a href="../publication/2023-TIM.pdf" class="textlink" target="_blank">[pdf]</a> <a href="../publication/2023-TIM-code.zip" class="textlink" target="_blank">[code]</a> <br>
 * <b>X. Xiu</b>, Y. Li. Learning sparse kernel CCA with graph priors for nonlinear process monitoring. <i>IEEE Sensors Journal</i>, 2023 <a href="../publication/2023-JSEN.pdf" class="textlink" target="_blank">[pdf]</a><br>
@@ -20,6 +19,3 @@ share: false
 * <b>X. Xiu</b>, W. Liu, L. Li, L. Kong. Alternating direction method of multipliers for nonconvex fused regression problems. <i>Computational Statistics & Data Analysis</i>, 2019 <a href="../publication/2019-CSDA.pdf" class="textlink" target="_blank">[pdf]</a><br>
 * <b>X. Xiu</b>, L. Kong, Y. Li, H. Qi. Iterative reweighted methods for L1-Lp minimization. <i>Computational Optimization and Applications</i>, 2018 <a href="../publication/2018-COAP.pdf" class="textlink" target="_blank">[pdf]</a>
 
-### Conference
-
-* <b>X. Xiu</b>, R. Liu, Z, Miao. A sparse semismooth Newton-based manifold algorithm for partial least squares. <i>2022 China Automation Congress (CAC)</i>, Xiamen, China, 2022 <a href="../publication/2022-CAC.pdf" class="textlink" target="_blank">[pdf]</a>
