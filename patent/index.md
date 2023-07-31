@@ -17,3 +17,4 @@ share: false
 * 自监督的轴承故障诊断方法，CN116026590A<br>
  
 ### Software（in Chinese）
+* 基于Python的豆瓣网影视评论分析
