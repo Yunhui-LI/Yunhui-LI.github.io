@@ -5,7 +5,7 @@ modified: 2023-05-17
 share: false
 ---
 
-### Patent
+### Patent （in Chinese）
 * 基于多视角数据分类的典型相关分析快速算法<br>
 * 一种基于激光雷达的车载AR-HUD智能驾驶系统<br>
 * 一种动态视觉传感器性能测试装置及测试方法<br>
@@ -16,4 +16,4 @@ share: false
 * 基于聚类算法的自监督轴承故障诊断方法，CN115791179A<br>
 * 自监督的轴承故障诊断方法，CN116026590A<br>
  
-### Software
+### Software（in Chinese）
