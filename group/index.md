@@ -9,12 +9,16 @@ share: false
 ---
 
 
-### Graduate Students
+### 研究生
 
-* Youth Talent Sailing Programy, Shanghai University, 2022
-* Best Paper Nomination Award, Data Driven Control and Learning Systems Conference (DDCLS), 2020
+* 黄晨毅（2023.09-） 
+* 杨安宁（2022.09-） 
+* 于福超（2021.09-）
 
-### Undergraduate Students
+### 本科毕设
 
-* Youth Talent Sailing Programy, Shanghai University, 2022
-* Best Paper Nomination Award, Data Driven Control and Learning Systems Conference (DDCLS), 2020
+* 温春晖（2023.01-2022.06），基于深度典型相关分析的多视角学习研究
+* 朱庆琪（2023.01-2022.06），基于矩阵分解的小目标检测技术研究
+* 丁一平（2023.01-2022.06），基于深度迁移学习的故障诊断研究
+* 林梓豪（2022.01-2022.06），基于深度学习的大规模故障诊断技术研究
+* 霍英杰（2022.01-2022.06），深度学习模型压缩算法研究
