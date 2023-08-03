@@ -9,12 +9,6 @@ share: false
 ---
 
 
-### Teachers
-
-* Xianchao Xiu
-* Member of Mathematical Reviews (MR)
-* Member of IEEE, SIAM, ORSC, CAA 
-
 ### Graduate Students
 
 * Youth Talent Sailing Programy, Shanghai University, 2022
