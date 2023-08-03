@@ -20,12 +20,12 @@ share: false
 * 课程信息 （大致安排）<br>
   第一章：引言<br>
   第二章：线性规划<br>
-  2.1 基本概念 <a href="../线性规划2_1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  2.2 图解法 <a href="../线性规划2_2.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  2.3 单纯形法原理 <a href="../线性规划2_3.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  2.4 单纯形法计算步骤 <a href="../线性规划2_4.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  2.5 对偶问题 <a href="../线性规划2_5.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  2.6 对偶性质 <a href="../线性规划2_6.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  2.1  <a href="../线性规划2_1.pdf" class="textlink" target="_blank">基本概念</a> <br>
+  2.2  <a href="../线性规划2_2.pdf" class="textlink" target="_blank">图解法</a> <br>
+  2.3  <a href="../线性规划2_3.pdf" class="textlink" target="_blank">单纯形法原理</a> <br>
+  2.4  <a href="../线性规划2_4.pdf" class="textlink" target="_blank">单纯形法计算步骤</a> <br>
+  2.5  <a href="../线性规划2_5.pdf" class="textlink" target="_blank">对偶问题</a> <br>
+  2.6  <a href="../线性规划2_6.pdf" class="textlink" target="_blank">对偶性质</a> <br>
   第三章：整数规划<br>
   第四章：动态规划<br>
   第五章：博弈论<br>
