@@ -23,4 +23,4 @@ share: false
 * 林梓豪（2022.01-2022.06），基于深度学习的大规模故障诊断技术研究 <a href="../group/2022-林梓豪.pdf" class="textlink" target="_blank">[毕业论文]</a><br>
 * 霍英杰（2022.01-2022.06），深度学习模型压缩算法研究 <a href="../group/2022-霍英杰.pdf" class="textlink" target="_blank">[毕业论文]</a><br>
 
-毕业论文使用Latex，建议使用Overleaf，请下载<a href="../group/模板.zip" class="textlink" target="_blank">[模板]</a> <br> 
+毕业论文建议使用Latex和Overleaf，请下载<a href="../group/模板.zip" class="textlink" target="_blank">[模板]</a> <br> 
