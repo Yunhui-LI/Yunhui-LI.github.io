@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Patent
+title: Patents
 modified: 2023-05-17 
 share: false
 ---
