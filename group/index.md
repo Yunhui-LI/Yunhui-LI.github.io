@@ -15,6 +15,7 @@ share: false
 * 杨安宁 (2022.09-) 
 * 于福超 (2021.09-)
 
+每周参加定期讨论班，每月坚持写学习科研总结
 ### Graduate Students
 
 * 温春晖 (2023.01-2022.06): <a href="../group/2023-温春晖.pdf" class="textlink" target="_blank">基于深度典型相关分析的多视角学习研究</a><br>
