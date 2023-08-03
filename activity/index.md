@@ -19,28 +19,16 @@ share: false
 * 课程信息 （大致安排）<br>
   第一章：引言<br>
   第二章：线性规划<br>
-  2.1 基本概念 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  2.2 图解法 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  2.3 单纯形法原理 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  2.4 单纯形法计算步骤 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  2.5 对偶问题 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  2.5 对偶性质 <a href="../线性规划1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  2.1 基本概念 <a href="../线性规划2_1.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  2.2 图解法 <a href="../线性规划2_2.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  2.3 单纯形法原理 <a href="../线性规划2_3.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  2.4 单纯形法计算步骤 <a href="../线性规划2_4.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  2.5 对偶问题 <a href="../线性规划2_5.pdf" class="textlink" target="_blank">[讲义]</a> <br>
+  2.6 对偶性质 <a href="../线性规划2_6.pdf" class="textlink" target="_blank">[讲义]</a> <br>
   第三章：目标规划<br>
   第四章：整数规划<br>
   第五章：动态规划<br>
   第六章：博弈论<br>
-* 平时作业 （根据课程情况调整）<br>
-  第01次: 习题1.4, 2.7（9月15日上课前） <br>
-  第02次: 习题2.6, 2.9（9月15日上课前） <br>
-  第03次: 习题1.4, 2.7（9月15日上课前） <br>
-  第04次: 习题2.6, 2.9（9月15日上课前） <br>
-  第05次: 习题1.4, 2.7（9月15日上课前） <br>
-  第06次: 习题2.6, 2.9（9月15日上课前） <br>
-  第07次: 习题1.4, 2.7（9月15日上课前） <br>
-  第08次: 习题2.6, 2.9（9月15日上课前） <br>
-  第09次: 习题2.6, 2.9（9月15日上课前） <br>
-  第10次: 习题1.4, 2.7（9月15日上课前）
-
 
       
 ### 最优化方法 （2024年春季，研究生）
