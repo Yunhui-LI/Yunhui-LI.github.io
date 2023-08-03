@@ -25,10 +25,9 @@ share: false
   2.4 单纯形法计算步骤 <a href="../线性规划2_4.pdf" class="textlink" target="_blank">[讲义]</a> <br>
   2.5 对偶问题 <a href="../线性规划2_5.pdf" class="textlink" target="_blank">[讲义]</a> <br>
   2.6 对偶性质 <a href="../线性规划2_6.pdf" class="textlink" target="_blank">[讲义]</a> <br>
-  第三章：目标规划<br>
-  第四章：整数规划<br>
-  第五章：动态规划<br>
-  第六章：博弈论<br>
+  第三章：整数规划<br>
+  第四章：动态规划<br>
+  第五章：博弈论<br>
 
       
 ### 最优化方法 （2024年春季，研究生）
