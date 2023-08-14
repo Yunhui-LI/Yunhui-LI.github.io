@@ -15,7 +15,7 @@ share: false
 * 代码：09376025 <br>
 * 地点：经管113 <br>
 * 时间：二7-8  五9-10 <br>
-* 教材：<a href="https://item.jd.com/12931035.html"> 运筹学教程（第5版），胡运权，清华大学出版社 <br>
+* 教材：<a href="https://item.jd.com/12931035.html" target="_blank" style="text-decoration:underline;"> 运筹学教程（第5版），胡运权，清华大学出版社 </a> <br>
 * 成绩：平时作业10%，期末考试90% <br><br>
 * 课程信息 （大致安排）<br>
   第一章：引言<br>
@@ -30,7 +30,6 @@ share: false
   第四章：动态规划<br>
   第五章：博弈论<br>
 
-      
   
 ### Optimization Methods
 
@@ -38,7 +37,7 @@ share: false
 * 代码：09376025 <br>
 * 地点：经管113 <br>
 * 时间：二7-8  五9-10（18:00 - 19:40）<br>
-* 教材：<a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html"> 最优化：建模、算法与理论，刘浩洋，户将，李勇锋，文再文，高教出版社 <br>
+* 教材：<a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" target="_blank" style="text-decoration:underline;"> 最优化：建模、算法与理论，刘浩洋，户将，李勇锋，文再文，高教出版社 </a> <br>
 * 成绩：平时作业30%，小论文70% <br><br>
 * 课程信息 （大致安排）<br>
   第一章：最优化简介 <br>
