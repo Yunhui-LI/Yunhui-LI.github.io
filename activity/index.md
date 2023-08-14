@@ -15,7 +15,7 @@ share: false
 * 代码：09376025 <br>
 * 地点：经管113 <br>
 * 时间：周二7-8  周五9-10 <br>
-* 教材：<a href="https://item.jd.com/12931035.html" target="_blank" style="text-decoration:underline;"> 运筹学教程（第5版），胡运权，清华大学出版社 </a> <br>
+* 教材：<a href="https://item.jd.com/12931035.html" target="_blue" style="text-decoration:underline;"> 运筹学教程（第5版），胡运权，清华大学出版社 </a> <br>
 * 成绩：平时作业10%，期末考试90% <br><br>
 * 课程信息 （大致安排）<br>
   第一章：引言<br>
