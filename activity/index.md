@@ -16,7 +16,7 @@ share: false
 * 上课地点：经管113 <br>
 * 上课时间：周二7-8  周五9-10 <br>
 * 参考教材：运筹学教程（第5版），胡运权，清华大学出版社 <br>
-* 成绩评定：平时作业10%，期末考试90% <br><br>
+* 成绩评定：平时作业10%，期末考试90% <br>
 * 课程信息 （大致安排）<br>
   第一章：引言<br>
   第二章：线性规划<br>
@@ -38,7 +38,7 @@ share: false
 * 上课地点：经管113 <br>
 * 上课时间：周三5-8 <br>
 * 参考教材：最优化：建模、算法与理论，刘浩洋，户将，李勇锋，文再文，高教出版社 <br>
-* 成绩评定：平时作业30%，小论文70% <br><br>
+* 成绩评定：平时作业30%，小论文70% <br>
 * 课程信息 （大致安排）<br>
   第一章：<a href="../01-opt-dzw.pdf" class="textlink" target="_blank"> 最优化简介</a>  <br>
   第二章：<a href="../02-convex-set.pdf" class="textlink" target="_blank"> 基础知识 I</a> <a href="../03_functions_newhyx.pdf" class="textlink" target="_blank">II</a> <br>
