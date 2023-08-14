@@ -80,7 +80,7 @@ share: false
   8.5 <a href="../23-lect-DualAlgo.pdf" class="textlink" target="_blank">对偶算法</a> <br> 
   8.6 <a href="../24-lect-admm-chhyx.pdf" class="textlink" target="_blank">交替方向乘子法</a>  <br>
   8.7 <a href="../25-lect-sto-ch.pdf" class="textlink" target="_blank">随机优化算法</a> <br><br>
-* 以上内容来自<a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" target="_blank" style="text-decoration:underline;"> http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html
+* 以上课件来自<a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" target="_blank" style="text-decoration:underline;"> http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html
 
 
 
