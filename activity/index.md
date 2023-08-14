@@ -15,9 +15,9 @@ share: false
 * 代码：09376025 <br>
 * 地点：经管113 <br>
 * 时间：周二7-8  周五9-10 <br>
-* 教材：运筹学教程（第5版），胡运权，郭耀煌，清华大学出版社 <br>
-* 参考：数学规划，黄红选，韩继业，清华大学出版社 <br>
-* 成绩：平时作业10%，期末考试90% <br><br>
+* 教材："运筹学教程（第5版）"，胡运权，郭耀煌，清华大学出版社 <br>
+* 参考："数学规划"，黄红选，韩继业，清华大学出版社 <br>
+* 成绩：平时作业10%，期末考试90% <br> <br>
 * 课程信息 （大致安排）<br>
   第一章：引言<br>
   第二章：线性规划<br>
@@ -38,9 +38,9 @@ share: false
 * 代码：3XS092004 <br>
 * 地点：经管113 <br>
 * 时间：周三5-8 <br>
-* 教材：最优化：建模、算法与理论，刘浩洋，户将，李勇锋，文再文，高教出版社 <br>
-* 参考：最优化理论与方法（第2版），陈宝林，清华大学出版社
-* 成绩：平时作业30%，小论文70% <br><br>
+* 教材："最优化：建模、算法与理论"，刘浩洋，户将，李勇锋，文再文，高教出版社 <br>
+* 参考："最优化理论与方法（第2版）"，陈宝林，清华大学出版社
+* 成绩：平时作业30%，小论文70% <br> <br>
 * 课程信息 （大致安排）<br>
   第一章：<a href="../01-opt-dzw.pdf" class="textlink" target="_blank"> 最优化简介</a>  <br>
   第二章：<a href="../02-convex-set.pdf" class="textlink" target="_blank"> 基础知识 I</a> <a href="../03_functions_newhyx.pdf" class="textlink" target="_blank">II</a> <br>
@@ -67,7 +67,7 @@ share: false
   8.5 <a href="../23-lect-DualAlgo.pdf" class="textlink" target="_blank">对偶算法</a> <br> 
   8.6 <a href="../24-lect-admm-chhyx.pdf" class="textlink" target="_blank">交替方向乘子法</a>  <br>
   8.7 <a href="../25-lect-sto-ch.pdf" class="textlink" target="_blank">随机优化算法</a> <br><br>
-* 更多信息参考 <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" target="_blank" style="text-decoration:underline;"> http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html
+* 更多信息参考<a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" target="_blank" style="text-decoration:underline;"> http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html
 
 
 
