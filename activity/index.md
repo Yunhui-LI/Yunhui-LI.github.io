@@ -40,12 +40,12 @@ share: false
 * 时间：周三5-8 <br>
 * 教材："最优化：建模、算法与理论"，刘浩洋，户将，李勇锋，文再文，高教出版社 <br>
 * 参考："最优化理论与方法（第2版）"，陈宝林，清华大学出版社
-* 成绩：平时作业30%，小论文70% <br> <br>
+* 成绩：平时作业40%，小论文60% <br> <br>
 * 课程信息 （大致安排）<br>
-  第一章：<a href="../01-opt-dzw.pdf" class="textlink" target="_blank"> 最优化简介</a>  <br>
-  第二章：<a href="../02-convex-set.pdf" class="textlink" target="_blank"> 基础知识 I</a> <a href="../03_functions_newhyx.pdf" class="textlink" target="_blank">II</a> <br>
-  第三章：<a href="../05-lect1-model.pdf" class="textlink" target="_blank"> 优化建模</a>  <br>
-  第四章：<a href="../06-opt-dzw.pdf" class="textlink" target="_blank"> 典型优化问题</a> <br>
+  第一章：<a href="../01-opt-dzw.pdf" class="textlink" target="_blank">最优化简介</a>  <br>
+  第二章：<a href="../02-convex-set.pdf" class="textlink" target="_blank">基础知识 I</a> <a href="../03_functions_newhyx.pdf" class="textlink" target="_blank">II</a> <br>
+  第三章：<a href="../05-lect1-model.pdf" class="textlink" target="_blank">优化建模</a>  <br>
+  第四章：<a href="../06-opt-dzw.pdf" class="textlink" target="_blank">典型优化问题</a> <br>
   第五章：<a href="../07-lect-theory1.pdf" class="textlink" target="_blank">最优性理论 I</a> <a href="../07-lect-theory2.pdf" class="textlink" target="_blank">II</a> <br>
   第六章：无约束优化算法<br>
   6.1 <a href="../08-lect-gradient.pdf" class="textlink" target="_blank">线搜索方法</a> <br> 
