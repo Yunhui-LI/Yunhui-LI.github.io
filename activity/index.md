@@ -17,7 +17,6 @@ share: false
 * 时间：周二7-8 周五9-10 <br>
 * 教材：“运筹学教程（第5版）”，胡运权，郭耀煌，清华大学出版社 <br>
 * 参考：“数学规划”，黄红选，韩继业，清华大学出版社 <br>
-* 成绩：平时作业10%，期末考试90% <br> <br>
 * 课程信息 （大致安排）<br>
   绪论<br>
   第一章：线性规划及单纯性法<br>
@@ -44,6 +43,7 @@ share: false
   12.1 引言<br>
   12.2 矩阵对策的基本理论<br>
   12.3 矩阵对策的解法<br><br>
+* 闭卷考试90%，平时作业10%
   
  
 ### Optimization Methods
@@ -54,7 +54,6 @@ share: false
 * 时间：周三5-8 <br>
 * 教材：“最优化：建模、算法与理论”，刘浩洋，户将，李勇锋，文再文，高教出版社 <br>
 * 参考：“最优化理论与方法（第2版）”，陈宝林，清华大学出版社
-* 成绩：平时作业40%，小论文60% <br> <br>
 * 课程信息 （大致安排）<br>
   第一章：<a href="../01-opt-dzw.pdf" class="textlink" target="_blank">最优化简介</a>  <br>
   第二章：<a href="../02-convex-set.pdf" class="textlink" target="_blank">基础知识 I</a> <a href="../03_functions_newhyx.pdf" class="textlink" target="_blank">II</a> <br>
