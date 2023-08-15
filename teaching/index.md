@@ -22,12 +22,14 @@ share: false
   “运筹学”，钱颂迪，清华大学出版社<br>
 * 课程信息 （大致安排）<br> 
   绪论<br>
+
+  ../group/
   第一章：线性规划及单纯形法<br>
-  1.1 <a href="../teaching/LP_1.1.pdf" class="textlink" target="_blank">线性规划问题及其数学模型</a><br>
-  1.2 <a href="teaching/LP_1.2.pdf" class="textlink" target="_blank">图解法</a><br>
-  1.3 <a href="LP_1.3.pdf" class="textlink" target="_blank">单纯形法原理</a><br>
-  1.4 <a href="../LP_1.4.pdf" class="textlink" target="_blank">单纯形法计算步骤</a><br>
-  1.5 <a href="../LP_1.5.pdf" class="textlink" target="_blank">单纯形法的进一步讨论</a><br>
+  1.1 <a href="../teaching/LP_1_1.pdf" class="textlink" target="_blank">线性规划问题及其数学模型</a><br>
+  1.2 <a href="../teaching/LP_1_2.pdf" class="textlink" target="_blank">图解法</a><br>
+  1.3 <a href="../teachingLP_1_3.pdf" class="textlink" target="_blank">单纯形法原理</a><br>
+  1.4 <a href="../LP_1_4.pdf" class="textlink" target="_blank">单纯形法计算步骤</a><br>
+  1.5 <a href="../LP_1_5.pdf" class="textlink" target="_blank">单纯形法的进一步讨论</a><br>
   第二章：线性规划的对偶理论与灵敏度分析<br>
   2.1 <a href="../LP_2.1.pdf" class="textlink" target="_blank">线性规划的对偶问题 </a>  <br>
   2.2 <a href="../LP_2.2.pdf" class="textlink" target="_blank">对偶问题的基本性质 </a>  <br>
