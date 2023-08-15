@@ -23,7 +23,6 @@ share: false
 * 课程信息 （大致安排）<br> 
   绪论<br>
 
-  ../group/
   第一章：线性规划及单纯形法<br>
   1.1 <a href="../teaching/LP_1_1.pdf" class="textlink" target="_blank">线性规划问题及其数学模型</a><br>
   1.2 <a href="../teaching/LP_1_2.pdf" class="textlink" target="_blank">图解法</a><br>
