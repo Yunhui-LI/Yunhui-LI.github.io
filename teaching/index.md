@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /activity/
+permalink: /teaching/
 title: Teaching
 tags: [teaching]
 modified: 2023-05-17 
