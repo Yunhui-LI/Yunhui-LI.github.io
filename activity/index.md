@@ -17,7 +17,7 @@ share: false
 * 时间：周二7-8 周五9-10 <br>
 * 教材：“运筹学教程（第5版）”，胡运权，郭耀煌，清华大学出版社 <br>
 * 参考资料<br>
-  “Introduction to Operations Research”, Frederick Hillier and Gerald Lieberman，McGraw-Hill <br>
+  “Introduction to Operations Research”，Frederick Hillier and Gerald Lieberman，McGraw-Hill<br>
   “数学规划”，黄红选，韩继业，清华大学出版社 <br>
   “运筹学”，钱颂迪，清华大学出版社<br>
 * 课程信息 （大致安排）<br> 
@@ -57,8 +57,8 @@ share: false
 * 时间：待定 <br>
 * 教材：“最优化：建模、算法与理论”，刘浩洋，户将，李勇锋，文再文，高教出版社 <br>
 * 参考资料<br>
- “Convex Optimization”, Stephen Boyd and Lieven Vandenberghe <br>
- “Numerical Optimization”, Jorge Nocedal and Stephen Wright, Springer <br>
+ “Convex Optimization”，Stephen Boyd and Lieven Vandenberghe <br>
+ “Numerical Optimization”，Jorge Nocedal and Stephen Wright，Springer <br>
  “最优化理论与方法”，陈宝林，清华大学出版社 <br>
 * 课程信息 （大致安排）<br>
   第一章：<a href="../01-opt-dzw.pdf" class="textlink" target="_blank">最优化简介</a>  <br>
