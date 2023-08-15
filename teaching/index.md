@@ -17,11 +17,11 @@ share: false
 * 时间：周二7-8 周五9-10 <br>
 * 教材：“运筹学教程（第5版）”，胡运权，郭耀煌，清华大学出版社 <br>
 * 参考资料<br>
-  “Introduction to Operations Research”，Frederick Hillier and Gerald Lieberman，McGraw-Hill<br>
+  “Introduction to Operations Research”，Frederick Hillier and Gerald Lieberman，McGraw Hill<br>
   “数学规划”，黄红选，韩继业，清华大学出版社 <br>
   “运筹学”，钱颂迪，清华大学出版社<br>
 * 课程信息 （大致安排）<br> 
-  绪论<br>
+  <a href="../teaching/Intro.pdf" class="textlink" target="_blank">绪论</a><br>
   第一章：线性规划及单纯形法<br>
   1.1 <a href="../teaching/LP_1_1.pdf" class="textlink" target="_blank">线性规划问题及其数学模型</a><br>
   1.2 <a href="../teaching/LP_1_2.pdf" class="textlink" target="_blank">图解法</a><br>
