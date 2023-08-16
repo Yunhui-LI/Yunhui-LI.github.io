@@ -54,7 +54,7 @@ share: false
 * 名称：现代优化方法（研究生）<br>
 * 代码：3XS092004 <br>
 * 地点：待定 <br>
-* 时间：待定 <br>
+* 时间：周三5-8 <br>
 * 教材：最优化：建模、算法与理论，刘浩洋，户将，李勇锋，文再文，高教出版社 <br>
 * 参考资料<br>
   Convex Optimization，Stephen Boyd and Lieven Vandenberghe <br>
