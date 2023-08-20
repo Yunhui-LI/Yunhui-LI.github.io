@@ -33,7 +33,6 @@ share: false
   2.2 <a href="../teaching/LP_2_2.pdf" class="textlink" target="_blank">对偶问题的基本性质 </a>  <br>
   第五章：整数规划<br>
   5.1 <a href="../teaching/IP_5_1.pdf" class="textlink" target="_blank">整数规划的数学模型及解的特点</a>  <br>
-  5.2 解纯整数规划的割平面法<br>
   5.3 分支定界法<br>
   5.4 0-1型整数规划<br>
   5.5 指派问题<br>
