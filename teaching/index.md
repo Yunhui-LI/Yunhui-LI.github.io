@@ -38,7 +38,7 @@ share: false
   5.5 <a href="../teaching/IP_5_5.pdf" class="textlink" target="_blank">指派问题</a> <br>
   第七章：动态规划<br>
   7.1 <a href="../teaching/DP_7_1.pdf" class="textlink" target="_blank">多阶段决策过程的最优化</a> <br>
-  7.2 <a href="../teaching/DP_7_2.pdf" class="textlink" target="_blank">动态规划的基本概念和基本原理<br>
+  7.2 <a href="../teaching/DP_7_2.pdf" class="textlink" target="_blank">动态规划的基本概念和基本原理</a> <br>
   7.3 动态规划模型的建立与求解<br>
   7.4 动态规划在经济管理中的应用<br>
   第十二章：对策论<br>
