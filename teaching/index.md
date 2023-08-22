@@ -11,11 +11,11 @@ share: false
 
 ### Operations Reasearch
 
-* 名称：运筹学基础（本科生）<br>
-* 代码：09376025 <br>
-* 地点：宝山校区经管113 <br>
-* 时间：周二7-8节（15：00-16：40） 周五9-10节（18：00-19：40） <br>
-* 教材：运筹学教程（第5版），胡运权，郭耀煌，清华大学出版社 <br>
+* 课程名称：运筹学基础（本科生）<br>
+* 课程代码：09376025 <br>
+* 上课地点：宝山校区经管113 <br>
+* 上课时间：周二7-8节（15：00-16：40） 周五9-10节（18：00-19：40） <br>
+* 课程教材：运筹学教程（第5版），胡运权，郭耀煌，清华大学出版社 <br>
 * 参考资料<br>
   Introduction to Operations Research，Frederick Hillier and Gerald Lieberman，McGraw Hill<br>
   数学规划，黄红选，韩继业，清华大学出版社 <br>
@@ -48,11 +48,11 @@ share: false
  * 评分标准：平时成绩30%，闭卷考试70%
 ### Optimization Methods
 
-* 名称：现代优化方法（研究生）<br>
-* 代码：3XS092004 <br>
-* 地点：宝山校区J201 <br>
-* 时间：周三5-8节（13：00-16：40）<br>
-* 教材：最优化：建模、算法与理论，刘浩洋，户将，李勇锋，文再文，高教出版社 <br>
+* 课程名称：现代优化方法（研究生）<br>
+* 课程代码：3XS092004 <br>
+* 上课地点：宝山校区J201 <br>
+* 上课时间：周三5-8节（13：00-16：40）<br>
+* 课程教材：最优化：建模、算法与理论，刘浩洋，户将，李勇锋，文再文，高教出版社 <br>
 * 参考资料<br>
   Convex Optimization，Stephen Boyd and Lieven Vandenberghe <br>
   Numerical Optimization，Jorge Nocedal and Stephen Wright，Springer <br>
