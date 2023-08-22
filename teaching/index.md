@@ -20,6 +20,7 @@ share: false
   Introduction to Operations Research，Frederick Hillier and Gerald Lieberman，McGraw Hill<br>
   数学规划，黄红选，韩继业，清华大学出版社 <br>
   运筹学，钱颂迪，清华大学出版社<br>
+* 评分：平时成绩30%，闭卷考试70%<br>
 * 课程信息 （大致安排）<br> 
   <a href="../teaching/Intro.pdf" class="textlink" target="_blank">绪论</a><br>
   第一章：线性规划及单纯形法<br>
@@ -44,8 +45,7 @@ share: false
   第十二章：对策论<br>
   12.1 引言<br>
   12.2 矩阵对策的基本理论<br>
-  12.3 矩阵对策的解法<br><br>
-* 闭卷考试90%，平时作业10%
+  12.3 矩阵对策的解法<br>
   
  
 ### Optimization Methods
@@ -59,6 +59,7 @@ share: false
   Convex Optimization，Stephen Boyd and Lieven Vandenberghe <br>
   Numerical Optimization，Jorge Nocedal and Stephen Wright，Springer <br>
   最优化理论与方法，陈宝林，清华大学出版社 <br>
+* 评分：平时汇报30%，结课论文70%<br>
 * 课程信息 （大致安排）<br>
   第一章：<a href="../teaching/01-opt-dzw.pdf" class="textlink" target="_blank">最优化简介</a>  <br>
   第二章：<a href="../teaching/02-convex-set.pdf" class="textlink" target="_blank">基础知识 I</a> <a href="../teaching/03_functions_newhyx.pdf" class="textlink" target="_blank">II</a> <br>
