@@ -46,6 +46,8 @@ share: false
   12.2 矩阵对策的基本理论<br>
   12.3 矩阵对策的解法<br>
  * 评分标准：平时成绩30%，闭卷考试70%
+
+   
 ### Optimization Methods
 
 * 课程名称：现代优化方法（研究生）<br>
@@ -58,7 +60,7 @@ share: false
   Numerical Optimization，Jorge Nocedal and Stephen Wright，Springer <br>
   最优化理论与方法，陈宝林，清华大学出版社 <br>
 * 课程信息 （大致安排，课件均来自<a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" target="_blank" style="text-decoration:underline;">
-http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html）<br>
+http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html</a>）<br>
   第一章：<a href="../teaching/01-opt-dzw.pdf" class="textlink" target="_blank">最优化简介</a>  <br>
   第二章：<a href="../teaching/02-convex-set.pdf" class="textlink" target="_blank">基础知识 I</a> <a href="../teaching/03_functions_newhyx.pdf" class="textlink" target="_blank">II</a> <br>
   第三章：<a href="../teaching/05-lect1-model.pdf" class="textlink" target="_blank">优化建模</a>  <br>
