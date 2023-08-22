@@ -44,7 +44,7 @@ share: false
   第十二章：对策论<br>
   12.1 引言<br>
   12.2 矩阵对策的基本理论<br>
-  12.3 矩阵对策的解法<br><br>
+  12.3 矩阵对策的解法<br>
  * 评分标准：平时成绩30%，闭卷考试70%
 ### Optimization Methods
 
@@ -83,7 +83,7 @@ http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html）<br>
   8.4 <a href="./teaching./22-lect-BCD.pdf" class="textlink" target="_blank">分块坐标下降法</a> <br>
   8.5 <a href="../teaching/23-lect-DualAlgo.pdf" class="textlink" target="_blank">对偶算法</a> <br> 
   8.6 <a href="../teaching/24-lect-admm-chhyx.pdf" class="textlink" target="_blank">交替方向乘子法</a>  <br>
-  8.7 <a href="../teaching/25-lect-sto-ch.pdf" class="textlink" target="_blank">随机优化算法</a> <br><br>
+  8.7 <a href="../teaching/25-lect-sto-ch.pdf" class="textlink" target="_blank">随机优化算法</a> <br>
 * 评分标准：平时汇报30%，结课论文70%<br>
 
 
