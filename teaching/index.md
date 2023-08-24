@@ -42,9 +42,9 @@ share: false
   7.3 <a href="../teaching/DP_7_3.pdf" class="textlink" target="_blank">动态规划模型的建立与求解</a>  <br>
   7.4 <a href="../teaching/DP_7_4.pdf" class="textlink" target="_blank">动态规划在经济管理中的应用</a>  <br>
   第十二章：对策论<br>
-  12.1 引言<br>
-  12.2 矩阵对策的基本理论<br>
-  12.3 矩阵对策的解法<br>
+  12.1 <a href="../teaching/GT_12_1.pdf" class="textlink" target="_blank">引言</a>  <br>
+  12.2 <a href="../teaching/GT_12_2.pdf" class="textlink" target="_blank">矩阵对策的基本理论</a>  <br>
+  12.3 <a href="../teaching/GT_12_3.pdf" class="textlink" target="_blank">矩阵对策的解法</a>  <br>
  * 评分标准：平时成绩30%，闭卷考试70%
 
    
