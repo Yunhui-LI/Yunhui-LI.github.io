@@ -51,8 +51,8 @@ share: false
 
 * 课程名称：现代优化方法（研究生）<br>
 * 课程代码：3XS092004 <br>
-* 上课地点：宝山校区J201 <br>
-* 上课时间：周三5-8节（13：00-16：40）<br>
+* 上课地点：宝山校区BJ304 <br>
+* 上课时间：周三1-4节（8：00-11：40）<br>
 * 课程教材：最优化：建模、算法与理论，刘浩洋，户将，李勇锋，文再文，高教出版社，2020 <br>
 * 参考资料<br>
   Convex Optimization，Stephen Boyd and Lieven Vandenberghe <br>
