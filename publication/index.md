@@ -5,7 +5,7 @@ modified: 2023-05-17
 share: false
 ---
 
-* H. Chen, L. Kong, W. Qu, <b>X. Xiu*</b>. An enhanced regularized clustering with adaptive spurious connection detection. <i>IEEE Signal Processing Letters</i>, 2023 <br>
+* H. Chen, L. Kong, W. Qu, <b>X. Xiu*</b>. An enhanced regularized clustering method with adaptive spurious connection detection. <i>IEEE Signal Processing Letters</i>, 2023 <br>
 * J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu. Learning high-order multi-view representation by new tensor canonical correlation analysis. <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2023 <a href="../publication/2023-TCSVT.pdf" class="textlink" target="_blank">[pdf]</a><br>
 * X. Zhang, <b>X. Xiu</b>, C. Zhang*. Structured joint sparse orthogonal nonnegative matrix factorization for fault detection. <i>IEEE Transactions on Instrumentation and Measurement</i>, 2023 <a href="../publication/2023-TIM.pdf" class="textlink" target="_blank">[pdf]</a> <a href="../publication/2023-TIM-code.zip" class="textlink" target="_blank">[code]</a> <br>
 * <b>X. Xiu</b>, Y. Li*. Learning sparse kernel CCA with graph priors for nonlinear process monitoring. <i>IEEE Sensors Journal</i>, 2023 <a href="../publication/2023-JSEN.pdf" class="textlink" target="_blank">[pdf]</a><br>
