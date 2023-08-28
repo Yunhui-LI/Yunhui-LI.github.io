@@ -76,6 +76,7 @@ http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html</a>）<br>
   7.1 <a href="../teaching/15-lect-penalty.pdf" class="textlink" target="_blank">罚函数法</a> <br> 
   7.2 <a href="../teaching/16-lect-alm.pdf" class="textlink" target="_blank">增广拉格朗日函数法</a> <br>
   7.3 <a href="../teaching/17-lp_ipm-new-zxx-xzl.pdf" class="textlink" target="_blank">线性规划内点法</a> <br>
+  7.4 流形约束优化算 <br>
   第八章：复合优化算法 <br>
   8.1 <a href="../teaching/18-lect-prox_map.pdf" class="textlink" target="_blank">近似点梯度法 I</a> <a href="../teaching/19-lect-proxg.pdf" class="textlink" target="_blank">II</a> <br> 
   8.2 <a href="../teaching/20-lect-nesterov-ch.pdf" class="textlink" target="_blank">Nesterov加速算法</a> <br>
@@ -84,6 +85,7 @@ http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html</a>）<br>
   8.5 <a href="../teaching/23-lect-DualAlgo.pdf" class="textlink" target="_blank">对偶算法</a> <br> 
   8.6 <a href="../teaching/24-lect-admm-chhyx.pdf" class="textlink" target="_blank">交替方向乘子法</a>  <br>
   8.7 <a href="../teaching/25-lect-sto-ch.pdf" class="textlink" target="_blank">随机优化算法</a> <br>
+  8.8 <a href="../teaching/26-lect-ssm-dzw.pdf" class="textlink" target="_blank">半光滑牛顿算法</a> <br>
 * 评分标准：平时汇报30%，结课论文70%<br>
 
 
