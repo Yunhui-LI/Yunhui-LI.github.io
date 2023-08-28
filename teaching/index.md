@@ -86,7 +86,7 @@ http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html</a>）<br>
   8.6 <a href="../teaching/24-lect-admm-chhyx.pdf" class="textlink" target="_blank">交替方向乘子法</a>  <br>
   8.7 <a href="../teaching/25-lect-sto-ch.pdf" class="textlink" target="_blank">随机优化算法</a> <br>
   8.8 <a href="../teaching/26-lect-ssm-dzw.pdf" class="textlink" target="_blank">半光滑牛顿算法</a> <br>
-* 评分标准：平时汇报30%，结课论文70%<br>
+* 评分标准：平时汇报30%，结课小论文70%<br>
 
 
 
