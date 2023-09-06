@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Xianchao Xiu (修贤超)
+title:            Yunhui Li (李云辉)
 locale:           en_US
 url:
 
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Xianchao Xiu
-  avatar: xianchaoxiu.jpg
+  name: Yunhui Li
+  avatar: liyunhui.jpg
   bio: "Department of Automation Shanghai University"
-  email: xcxiu@shu.edu.cn
+  email: liyunhui@shu.edu.cn
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -41,7 +41,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: xianchaoxiu
+  github: Yunhui-LI
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #canyilu
   xing: #username
