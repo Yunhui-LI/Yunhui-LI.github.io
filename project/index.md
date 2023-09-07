@@ -11,6 +11,8 @@ share: false
 <ol>
   <li><b> Multi-sensor Information Fusion Localization and mapping<br>
 
+  本项目主要采用惯性测量单元（IMU）、激光雷达（LiDAR）、双目摄像机（Stereo）作为环境与运动传感器，基于参数估计理论对机器人的运动状态与环境进行高精度的定位与建模，并致力于将其应用到无人系统未知环境自主探索中。
+
   <img src="../images/MultiSensorsCapture.png">
 
   *<b>Datasheet</b>
