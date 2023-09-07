@@ -1,9 +1,11 @@
 ---
-layout page
-title project
-modified 2023-09-07 
-comments false
-share false
+layout: page
+permalink: /project/
+title: project
+tags: [project]
+modified: 2023-09-07
+comments: false
+share: false
 ---
 
 <ol>
