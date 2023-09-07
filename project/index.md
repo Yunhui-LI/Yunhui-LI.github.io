@@ -9,12 +9,12 @@ share: false
 ---
 
 <ol>
-  <li><b> Multi-sensor Information Fusion Localization and mapping</b><br>
+  ### <li><b> Multi-sensor Information Fusion Localization and mapping</b><br>
   <i>This project mainly uses inertial measurement unit (IMU), laser radar (LiDAR), and binocular camera (Stereo) as environment and motion sensors. Committed to applying it to autonomous exploration of unmanned systems in unknown environments.</i><br>
   <img src="../images/MultiSensorsCapture.png"> <br> 
   
     
-  <p><b>Datasheet</b><br>
+  <b>Datasheet</b><br>
   RTK <a href="../project/CHC® CGI-430厘米级组合导航系统用户手册-20230130.pdf" class="textlink" target="_blank">[pdf]</a>
   IMU <a href="../project/CH10X_um_cn.pdf" class="textlink" target="_blank">[pdf]</a>
   LiDAR <a href="../project/63-9243 REV D MANUAL,USERS,VLP-16.pdf" class="textlink" target="_blank">[pdf]</a>
