@@ -23,12 +23,12 @@ Synchronization Circuit <a href="../project/FLIR-BFLY-U3-23H.pdf" class="textlin
 
 
 <b>Code</b><br>
-（1）Multi-Sensors Calibration <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a><br>
-（2）LiDAR-IMU SLAM <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a> <br>
-（3）Camera-IMU SLAM <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a><br>
-（4）MultiSensors SLAM <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a><br>
-（5）Dynamic Path Planning <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a><br>
-（6）Hybrid Mapping <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a><br>
+* Multi-Sensors Calibration <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a><br>
+* LiDAR-IMU SLAM <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a> <br>
+* Camera-IMU SLAM <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a><br>
+* MultiSensors SLAM <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a><br>
+* Dynamic Path Planning <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a><br>
+* Hybrid Mapping <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a><br>
   
   
 
