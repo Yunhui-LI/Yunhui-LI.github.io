@@ -35,7 +35,7 @@ Orchard drone dynamic obstacle avoidance <a href="../project/CHC® CGI-430厘米
   
  ## <b> autonomous drone exploration（Active SLAM）</b>
 <i>This project mainly uses quadrotor UAV (sensor: IntelRealsense D435i) to independently explore unknown space.</i><br>
-<img src="../images/MultiSensorsCapture.png"> <br>  
+<img src="../images/drones.jpg"> <br>  
 
 
 
