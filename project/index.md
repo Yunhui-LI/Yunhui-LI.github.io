@@ -13,7 +13,6 @@ share: false
 
   <img src="../images/MultiSensorsCapture.png">
 
-  <li ><p>
   <b>Datasheet</b><br>
   RTK <a href="../project/CHC® CGI-430厘米级组合导航系统用户手册-20230130.pdf" class="textlink" target="_blank">[pdf]</a>
   IMU <a href="../project/CH10X_um_cn.pdf" class="textlink" target="_blank">[pdf]</a>
