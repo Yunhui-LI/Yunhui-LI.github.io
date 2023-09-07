@@ -9,7 +9,7 @@ share: false
 ---
 
 <ol>
-  <li><b> Multi-sensor Information Fusion Localization and mapping<br>
+  <li><b> Multi-sensor Information Fusion Localization and mapping</b><br>
   <i>This project mainly uses inertial measurement unit (IMU), laser radar (LiDAR), and binocular camera (Stereo) as environment and motion sensors. Committed to applying it to autonomous exploration of unmanned systems in unknown environments.</i><br>
   <img src="../images/MultiSensorsCapture.png"> <br>
     
