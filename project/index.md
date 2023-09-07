@@ -19,6 +19,7 @@ share: false
   IMU <a href="../project/CH10X_um_cn.pdf" class="textlink" target="_blank">[pdf]</a>
   LiDAR <a href="../project/63-9243 REV D MANUAL,USERS,VLP-16.pdf" class="textlink" target="_blank">[pdf]</a>
   Camera <a href="../project/FLIR-BFLY-U3-23H.pdf" class="textlink" target="_blank">[pdf]</a>
+  Synchronization Circuit <a href="../project/FLIR-BFLY-U3-23H.pdf" class="textlink" target="_blank">[pdf]</a>
 
   *<b>Code</b>
   
