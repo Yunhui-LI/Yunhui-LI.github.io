@@ -15,7 +15,7 @@ share: false
 
   <img src="../images/MultiSensorsCapture.png">
 
-
+  </p>
 
   *<b>Datasheet</b>
   
