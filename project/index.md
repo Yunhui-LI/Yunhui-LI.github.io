@@ -9,7 +9,7 @@ share: false
 ---
 
 <ol>
-  <li><b> Multi-sensor Information Fusion Localization and mapping<br>
+  * <li><b> Multi-sensor Information Fusion Localization and mapping<br>
 
   <img src="../images/MultiSensorsCapture.png">
   
