@@ -23,15 +23,17 @@ share: false
 
   *<b>Code</b>
   
-  Multi-Sensors Calibration <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a>
+  （1）Multi-Sensors Calibration <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a>
   
-  LiDAR-IMU SLAM <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a>
+  （2）LiDAR-IMU SLAM <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a>
   
-  Camera-IMU SLAM <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a>
+  （3）Camera-IMU SLAM <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a>
   
-  MultiSensors SLAM <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a>
+  （4）MultiSensors SLAM <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a>
   
-  Dynamic Path Planning <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a>
+  （5）Dynamic Path Planning <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a>
+
+  （6）Hybrid Mapping <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a>
 
   
 
