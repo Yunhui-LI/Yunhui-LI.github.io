@@ -33,8 +33,8 @@ Orchard drone dynamic obstacle avoidance <a href="../project/CHC® CGI-430厘米
 * Dynamic Path Planning <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a><br>
 * Hybrid Mapping <a href="https://github.com/canyilu/tproduct" class="textlink" target="_blank">[Github]</a><br>
   
- ## <b> 2. Autonomous drone exploration（Active SLAM）</b>
-<i>This project mainly uses quadrotor UAV (sensor: IntelRealsense D435i) to independently explore unknown space.</i><br>
+## <b> 2. Air-Ground Collaborative Autonomous Exploration（Active SLAM）</b>
+<i>This project mainly uses quadrotor UAV (sensor: IntelRealsense D435i) and four-wheel differential car to independently explore unknown space.</i><br>
 <img src="../images/drones.jpg"> <img src="../images/car.jpg"> <br>  
 
 
