@@ -13,10 +13,9 @@ share: false
 
   <img src="../images/MultiSensorsCapture.png">
 
-  <!-- Item: tproduct2018lu -->
   <li ><p>
   <b>Datasheet</b><br>
-  <b>Yunhui</b> <b>Li</b><br>
+  <a href="../publications/2018-software-tproduct.pdf" class="textlink" target="_blank">[pdf]</a>
   
 
 
