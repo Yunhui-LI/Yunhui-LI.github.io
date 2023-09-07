@@ -12,6 +12,11 @@ share: false
   <li><b> Multi-sensor Information Fusion Localization and mapping<br>
 
   <img src="../images/MultiSensorsCapture.png">
+
+  <!-- Item: tproduct2018lu -->
+  <li ><p>
+  <b>Datasheet</b><br>
+  <b>Yunhui</b> <b>Li</b><br>
   
 
 
