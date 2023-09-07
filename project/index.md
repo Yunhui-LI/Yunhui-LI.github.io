@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /project/
-title: project
+title: Project
 tags: [project]
 modified: 2023-09-07
 comments: false
